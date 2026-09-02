@@ -2,7 +2,7 @@
   "mcpServers": {
     "trainzilla-cms": {
       "type": "http",
-      "url": "http://localhost:3000/api/mcp",
+      "url": "https://cms.trainzilla.in/api/mcp",
       "headers": {
         "Authorization": "Bearer ${TRAINZILLA_CMS_MCP_KEY}"
       }
