@@ -1,0 +1,3975 @@
+{
+  "root": {
+    "type": "root",
+    "format": "",
+    "indent": 0,
+    "version": 1,
+    "direction": "ltr",
+    "children": [
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "GST Policy",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "TrainZilla India - Complete GST compliance as per latest government rulings",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Last updated: September 22, 2025 | GSTIN: 06ACWPB9701H1ZG | Effective from September 22, 2025",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Latest GST Updates - September 2025",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "GST 2.0 Reforms:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Fitness services reduced from 18% to 5% GST",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "No Input Tax Credit:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " 5% GST rate without ITC for fitness services",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Enhanced e-invoicing requirements for digital services",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Updated TDS provisions under Section 194O",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "New compliance requirements for B2B digital platforms",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 6,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Fitness and training app specific GST clarifications",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 7,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Digital wellness services taxation guidelines",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 8,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Enhanced registration requirements for app-based fitness services",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "GST Application on TrainZilla Services",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Service Categories and Current GST Rates (2025)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Service",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "HSN/SAC Code",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "GST Rate",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Effective From",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Platform Subscription (B2B SaaS)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "998314",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "18%",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Sep 22, 2025",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "AI Content Generation Services",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "998314",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "18%",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Sep 22, 2025",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Fitness Coaching & Training Services",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "999899",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "5% (No ITC)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Sep 22, 2025",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Nutrition & Diet Planning",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "999899",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "5% (No ITC)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Sep 22, 2025",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Digital Marketing Services",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "998399",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "18%",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Sep 22, 2025",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Mobile App Services (B2C)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "998314",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "18%",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Sep 22, 2025",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "GST 2.0 Important:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " Fitness and wellness services are now taxed at 5% GST without Input Tax Credit (ITC) as per the latest government notifications effective September 22, 2025. Pure SaaS and technology services continue at 18% with ITC. Service classification determines the applicable rate - businesses must clearly categorize their services.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "GST 2.0 Reforms: Fitness & Training Services (Effective September 22, 2025)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Major GST Reduction:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " Fitness and wellness services GST reduced from 18% to 5% under GST 2.0 reforms. This rate is mandatory and applies without Input Tax Credit (ITC).",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "GST 2.0 Service Classification",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Service Type",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "HSN/SAC Code",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "New GST Rate",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "ITC Availability",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Digital Fitness Coaching (Live Sessions)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "999899",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "5%",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "No ITC",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Pre-recorded Workout Content",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "998314",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "5%",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "No ITC",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Nutrition & Diet Planning",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "999899",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "5%",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "No ITC",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Gym Membership Services",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "999899",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "5%",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "No ITC",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Group Fitness Classes (Zumba, Aerobics)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "999899",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "5%",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "No ITC",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Yoga Classes (Commercial)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "999899",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "5%",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "No ITC",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Beauty and Wellness Services",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "999899",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "5%",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "No ITC",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Pure SaaS Platform Services",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "998314",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "18%",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "ITC Available",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "AI Content Generation (Non-Fitness)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "998314",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "18%",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "ITC Available",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Key GST 2.0 Compliance Changes",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Mandatory Rate Application:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " 5% GST rate is mandatory for fitness services - cannot opt for 18% with ITC",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "No Input Tax Credit:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Services at 5% GST do not allow claiming ITC on inputs like equipment, software, or operational expenses",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Service Classification:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Clear distinction required between fitness services (5%) and pure technology services (18%)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Invoice Updates Required:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " All invoices from September 22, 2025 must reflect new GST rates",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "System Updates Mandatory:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Billing systems must be updated to handle different GST rates for different service categories",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 6,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Competitive Pricing Opportunity:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Lower GST enables more competitive pricing for fitness services",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "TrainZilla Service Impact Analysis",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Reduced GST Services (5%)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Fitness coaching subscriptions",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Workout plan services",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Nutrition planning features",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Diet consultation services",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Group fitness class bookings",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 6,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Personal training sessions",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Standard GST Services (18%)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Core platform subscription",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "AI content generation tools",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Business analytics features",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "CRM and management tools",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "API access and integrations",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 6,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Digital marketing services",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "E-Invoicing and Digital Compliance (2025 Updates)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Enhanced E-Invoicing Requirements",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Real-time Invoice Reporting:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " All B2B invoices above ₹500 reported to GST portal within 24 hours",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "QR Code Compliance:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Dynamic QR codes with enhanced security features on all invoices",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Digital Signature:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " All invoices digitally signed using government-approved certificates",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "API Integration:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Direct integration with GST Network for instant validation",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "JSON Schema 1.03:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Latest e-invoice schema compliance for all transactions",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Customer Benefits",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Instant ITC Credits",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Automatic ITC credit matching with GSTN for faster refunds",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Zero Manual Errors",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "System-generated invoices eliminate manual GST calculation errors",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Updated TDS Compliance (Section 194O - 2025)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "New TDS Rules Effective September 22, 2025:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " Enhanced TDS provisions for digital platform transactions",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Trainer Payment TDS (Section 194O)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "TDS Rate:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " 1% on payments exceeding ₹10,000 per transaction (reduced from previous ₹30,000 annually)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Monthly TDS:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Applicable on cumulative payments exceeding ₹50,000 per month",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "PAN Mandatory:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " No TDS exemption without valid PAN/Aadhaar linking",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Quarterly TDS Certificates:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Form 16A issued within 15 days of quarter end",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Lower TDS Rates:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Available with valid certificates under Section 197",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Customer TDS on Platform Fees",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Corporate Customers:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " 2% TDS on subscription fees exceeding ₹50,000 annually",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Government Entities:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " 2% TDS on all payments (no threshold)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Individual Professionals:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " 10% TDS on fees exceeding ₹30,000 annually",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "State-wise GST Application (2025 Updates)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Intra-State Supply (Maharashtra)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "CGST:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " 9% (Central GST)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "SGST:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " 9% (State GST - Maharashtra)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Total GST:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " 18%",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Place of Supply:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Pune, Maharashtra",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Inter-State Supply",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "IGST:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " 18% (Integrated GST)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "CGST:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " 0%",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "SGST/UTGST:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " 0%",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Place of Supply:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Customer's registered address",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Special Economic Zones (SEZ)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Zero-rated supplies:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " Services to SEZ units are treated as exports and taxed at 0% GST with ITC benefits.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Valid SEZ certificate and Letter of Undertaking (LUT) required for zero-rating.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Enhanced GST Compliance and Record Keeping",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Our Enhanced Compliance (2025)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Real-time GST Returns:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Monthly returns (GSTR-1, GSTR-3B) filed within due dates",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Annual GST Return:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " GSTR-9 and GSTR-9A filed by December 31st annually",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "GST Audit:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " GSTR-9C audit completed by chartered accountant for turnover above ₹5 crores",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Digital Record Keeping:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " All records maintained digitally for 6 years with blockchain verification",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "GSTN API Integration:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Real-time data sync with GST Network for instant verification",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Customer Document Downloads",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Access your GST-compliant documents anytime:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Official Government Resources",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "GST Portal Links",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "link",
+                "fields": {
+                  "url": "https://www.gst.gov.in",
+                  "newTab": false,
+                  "linkType": "custom"
+                },
+                "format": "",
+                "indent": 0,
+                "version": 3,
+                "direction": "ltr",
+                "children": [
+                  {
+                    "type": "text",
+                    "format": 0,
+                    "style": "",
+                    "mode": "normal",
+                    "detail": 0,
+                    "text": "Official GST Portal",
+                    "version": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "link",
+                "fields": {
+                  "url": "https://services.gst.gov.in",
+                  "newTab": false,
+                  "linkType": "custom"
+                },
+                "format": "",
+                "indent": 0,
+                "version": 3,
+                "direction": "ltr",
+                "children": [
+                  {
+                    "type": "text",
+                    "format": 0,
+                    "style": "",
+                    "mode": "normal",
+                    "detail": 0,
+                    "text": "GST Services Portal",
+                    "version": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "link",
+                "fields": {
+                  "url": "https://einvoice1.gst.gov.in",
+                  "newTab": false,
+                  "linkType": "custom"
+                },
+                "format": "",
+                "indent": 0,
+                "version": 3,
+                "direction": "ltr",
+                "children": [
+                  {
+                    "type": "text",
+                    "format": 0,
+                    "style": "",
+                    "mode": "normal",
+                    "detail": 0,
+                    "text": "E-Invoice Portal",
+                    "version": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Important Notifications",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "GST Council Notification 45/2025-CT - GST 2.0 Reforms (Sep 22, 2025)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Circular No. 201/2025-GST - Fitness services rate reduction to 5%",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Notification No. 46/2025-CT - No ITC provision for 5% GST services",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "CBIC Press Release - Beauty and wellness services mandatory 5% GST",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Circular No. 202/2025-GST - Service classification guidelines",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 6,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Notification No. 47/2025-CT - Invoice formatting updates required",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "GST Support & Queries",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Accounts & GST Department",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Email: gst@trainzilla.in",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Phone: +91 84596 91471",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "GST Helpline: Mon-Fri, 9 AM - 6 PM",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Emergency Support: Available 24/7",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Company Registration Details",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "GSTIN:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " 06ACWPB9701H1ZG",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "PAN:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " ACWPB9701H",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Registered Office:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " Haryana, India",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "This policy is updated regularly to reflect the latest GST amendments and government notifications.",
+            "version": 1
+          }
+        ]
+      }
+    ]
+  }
+}

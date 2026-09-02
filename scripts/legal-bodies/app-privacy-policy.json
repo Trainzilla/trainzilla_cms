@@ -1,0 +1,902 @@
+{
+  "root": {
+    "type": "root",
+    "format": "",
+    "indent": 0,
+    "version": 1,
+    "direction": "ltr",
+    "children": [
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Download TrainZilla Coach",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Download on the",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "App Store",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Get it on",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Google Play",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Sign In",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Start Free Trial",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Privacy Policy for Trainzilla Client App",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Effective Date: ",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "December 16, 2025",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "1",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Overview",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "This Privacy Policy describes how the Trainzilla Client App (\"we\", \"us\", or \"our\") collects, uses, and protects your information. Our app is designed to help you communicate with your fitness coaches.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Camera Permission & Image Data",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "To facilitate professional fitness coaching, our app requires access to your device's Camera.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Purpose",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "We use camera access solely to allow you to take and share \"Progress Photos\" or form-check images directly with your assigned coach.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Consent",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "The app will only access the camera when you explicitly initiate a photo-taking action. You can revoke this permission at any time through your device settings.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Usage",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Images captured are strictly used for sharing with your coach to monitor your fitness progress and technique. We do not use these images for marketing or third-party advertising without additional, explicit consent.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Data Security & Storage",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "We are committed to keeping your personal data safe and secure.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Encryption",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "All images shared via the app are encrypted during transit and stored on secure servers.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Strict Access",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Only you and your authorized coach have access to the images you upload.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Storage",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Data is stored in secure data centers, and we implement industry-standard security measures to prevent unauthorized access.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "4",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Data Sharing",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "We do not sell your personal images or data. We only share images with the specific coach(es) you have connected with on the Trainzilla platform.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Your Rights",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "You have the right to:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Access the images you have uploaded.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Request the deletion of your account and all associated media from our servers.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Withdraw camera permissions at any time via your device's application settings.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Contact Us",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "For questions regarding this policy or your data, please contact:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Email:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " ",
+            "version": 1
+          },
+          {
+            "type": "link",
+            "fields": {
+              "url": "mailto:support@trainzilla.in",
+              "newTab": false,
+              "linkType": "custom"
+            },
+            "format": "",
+            "indent": 0,
+            "version": 3,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "support@trainzilla.in",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Website:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " ",
+            "version": 1
+          },
+          {
+            "type": "link",
+            "fields": {
+              "url": "https://trainzilla.in",
+              "newTab": false,
+              "linkType": "custom"
+            },
+            "format": "",
+            "indent": 0,
+            "version": 3,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "https://trainzilla.in",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "This privacy policy applies specifically to the Trainzilla Client mobile application.",
+            "version": 1
+          }
+        ]
+      }
+    ]
+  }
+}

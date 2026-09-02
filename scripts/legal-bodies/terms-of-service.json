@@ -1,0 +1,2618 @@
+{
+  "root": {
+    "type": "root",
+    "format": "",
+    "indent": 0,
+    "version": 1,
+    "direction": "ltr",
+    "children": [
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Terms of Service",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "TrainZilla India - Legal terms and conditions for using our platform",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Last updated: January 15, 2025 | Effective Date: January 15, 2025",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Introduction and Acceptance",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Welcome to TrainZilla! These Terms of Service (\"Terms\") constitute a legally binding agreement between you and TrainZilla India Private Limited, a company incorporated under the laws of India (\"TrainZilla,\" \"we,\" \"our,\" or \"us\").",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "By accessing or using our platform, mobile applications, or services, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use our services.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Important:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " These Terms are governed by Indian law and any disputes will be resolved through arbitration in Pune, Maharashtra, India.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Service Description",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "TrainZilla Platform",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "TrainZilla is an AI-powered fitness platform designed specifically for Indian personal trainers and their clients. Our services include:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "AI-powered workout and nutrition planning tools",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Client management and communication systems",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Video calling and virtual training capabilities",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Payment processing and subscription management",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Multi-language support including Hindi and regional languages",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 6,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Business analytics and reporting tools",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 7,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Mobile applications for trainers and clients",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "User Categories",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Trainers:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Certified fitness professionals who provide training services",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Clients:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Individuals who receive training services through our platform",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Visitors:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Users who browse our platform without creating an account",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "User Accounts and Registration",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Account Creation",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "You must be at least 18 years old to create an account",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "You must provide accurate, current, and complete information",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "You are responsible for maintaining the confidentiality of your account",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "You must notify us immediately of any unauthorized use",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "One person may not maintain multiple accounts",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Trainer Verification",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Trainers must provide valid certification and professional credentials. We reserve the right to:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Verify certification authenticity",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Conduct background checks as required by law",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Suspend accounts pending verification",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Remove uncertified trainers from the platform",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Account Termination",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Either party may terminate an account at any time. Upon termination, you will lose access to the platform, but certain obligations under these Terms will survive termination.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "User Conduct and Responsibilities",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Acceptable Use",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "You agree to use TrainZilla only for lawful purposes and in accordance with these Terms. You agree NOT to:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Violate any Indian or international laws or regulations",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Impersonate any person or entity or misrepresent your credentials",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Upload harmful, offensive, or inappropriate content",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Spam or send unsolicited communications to users",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Attempt to gain unauthorized access to our systems",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 6,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Interfere with the proper working of the platform",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 7,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Collect user information without consent",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 8,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Use the platform for any commercial purpose other than providing fitness services",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Professional Standards (For Trainers)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Maintain current professional certifications and licenses",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Provide safe and appropriate fitness guidance",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Respect client privacy and confidentiality",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Follow professional ethics and standards",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Comply with all applicable health and safety regulations",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Content Standards",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "All content uploaded to the platform must comply with Indian decency standards and cultural sensitivities. Content that promotes discrimination, hatred, or violence will be removed immediately.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Payment Terms and Billing",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Subscription Plans",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "All subscription fees are listed in Indian Rupees (₹)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Fees are billed monthly or annually as selected",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "GST will be added as applicable under Indian tax law",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Price changes will be communicated 30 days in advance",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "No refunds for partial months unless required by law",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Payment Methods",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "We accept the following payment methods in India:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "UPI (PhonePe, GPay, Paytm, BHIM)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Credit and Debit Cards (Visa, Mastercard, RuPay)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Net Banking from major Indian banks",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Digital wallets (Paytm, MobiKwik)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Bank transfers and NEFT/RTGS",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Late Payments and Suspension",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "If payment is not received within 7 days of the due date, your account may be suspended. Accounts suspended for more than 30 days may be terminated and data deleted.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Trainer Payments",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Trainers using our payment processing services will receive payments minus applicable platform fees, payment processing charges, and TDS as required by Indian income tax law.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Intellectual Property Rights",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "TrainZilla's Rights",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "TrainZilla and its content, features, and functionality are owned by TrainZilla India Private Limited and are protected by Indian and international copyright, trademark, and other intellectual property laws.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "User Content",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "You retain ownership of content you create and upload to the platform. However, by uploading content, you grant us:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "A non-exclusive license to use, display, and distribute your content",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "The right to use your content for platform improvement and AI training",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Permission to translate your content into different Indian languages",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "The right to remove content that violates our policies",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "AI-Generated Content",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Content generated by our AI tools may be used by multiple users. While you can use AI-generated content for your business, you cannot claim exclusive ownership of such content.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Privacy and Data Protection",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Your privacy is important to us. Our Privacy Policy, which is incorporated by reference into these Terms, explains how we collect, use, and protect your information in compliance with Indian data protection laws.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Data Localization",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "In accordance with Indian regulations, all sensitive personal data is stored within India. We use secure data centers in Mumbai and Hyderabad.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Client Data (For Trainers)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Trainers are responsible for obtaining proper consent from clients before sharing their data on the platform. Trainers must comply with all applicable privacy laws and professional confidentiality requirements.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Disclaimers and Limitations",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Service Availability",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "While we strive for 99.9% uptime, we do not guarantee uninterrupted service. We may temporarily suspend service for maintenance, updates, or due to circumstances beyond our control.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Fitness and Health Disclaimers",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Important Health Notice:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "TrainZilla is a technology platform, not a healthcare provider",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Always consult healthcare professionals before starting any fitness program",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Trainers are independent contractors, not TrainZilla employees",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "We do not guarantee fitness results or health outcomes",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Users participate in fitness activities at their own risk",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Limitation of Liability",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "To the maximum extent permitted by Indian law, TrainZilla shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of our platform.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Our total liability for any claims related to the platform shall not exceed the amount you paid us in the 12 months preceding the claim.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Dispute Resolution",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Governing Law",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "These Terms are governed by the laws of India. Any disputes will be subject to the exclusive jurisdiction of the courts in Pune, Maharashtra, India.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Arbitration",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Any dispute arising out of or relating to these Terms shall be resolved through binding arbitration conducted in accordance with the Arbitration and Conciliation Act, 2015. The arbitration shall be conducted in Pune, Maharashtra, India, and the language of arbitration shall be English or Hindi as agreed by the parties.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Informal Resolution",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Before initiating formal proceedings, we encourage users to contact our support team to resolve disputes informally. Many issues can be resolved quickly through direct communication.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Changes to Terms",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "We may update these Terms from time to time to reflect changes in our services, legal requirements, or business practices. Material changes will be communicated through:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Email notification to your registered email address",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "In-app notification upon login",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "WhatsApp message for significant changes",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Prominent notice on our website",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Continued use of the platform after the effective date of changes constitutes acceptance of the updated Terms. If you do not agree to the changes, you must stop using the platform.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Contact Information",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "If you have any questions about these Terms or need legal clarification, please contact us:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "TrainZilla India Private Limited",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Legal Department",
+            "version": 1
+          },
+          {
+            "type": "linebreak",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Pune, Maharashtra 411001",
+            "version": 1
+          },
+          {
+            "type": "linebreak",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "India",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Contact Information",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Email: legal@trainzilla.in",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Phone: +91 84596 91471",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "WhatsApp: Available",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Support: Available in Hindi & English",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "These Terms constitute the entire agreement between you and TrainZilla India Private Limited.",
+            "version": 1
+          }
+        ]
+      }
+    ]
+  }
+}

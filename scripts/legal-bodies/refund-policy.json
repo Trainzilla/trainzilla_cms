@@ -1,0 +1,2631 @@
+{
+  "root": {
+    "type": "root",
+    "format": "",
+    "indent": 0,
+    "version": 1,
+    "direction": "ltr",
+    "children": [
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Refund Policy",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "TrainZilla India - Transparent refund and cancellation policy",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Last updated: January 15, 2025 | Compliant with Consumer Protection Act, 2019",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Our Commitment to Customer Satisfaction",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "At TrainZilla India, we are committed to providing exceptional service to fitness professionals across India. This Refund Policy outlines our fair and transparent approach to refunds and cancellations, designed in compliance with the Consumer Protection Act, 2019, and other applicable Indian laws.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Consumer Rights:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " This policy respects your rights as a consumer under Indian law, including the right to seek redressal for deficient services and unfair trade practices.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "14-Day Free Trial",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Trial Period Benefits",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Complete access to all TrainZilla features for 14 days",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "No credit card required to start your trial",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Full platform functionality including AI tools and client management",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Dedicated onboarding support in Hindi and English",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Cancel anytime during the trial with no charges",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Trial Cancellation",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "You can cancel your trial at any time by:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Visiting your account settings and clicking \"Cancel Subscription\"",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Contacting our support team at +91 84596 91471",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Sending an email to support@trainzilla.in",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Using our in-app live chat feature",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "No Automatic Billing:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " We will not charge your payment method unless you explicitly choose to continue with a paid plan after your trial period ends.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Subscription Refund Policy",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Monthly Subscriptions",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "7-Day Satisfaction Guarantee:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Full refund if you cancel within 7 days of first payment",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Pro-rated Refunds:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Not available for monthly plans after 7-day period",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Service Issues:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Refunds considered for documented service failures",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Cancellation:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Cancel anytime to prevent future billing",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Annual Subscriptions",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "30-Day Money-Back Guarantee:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Full refund within 30 days of purchase",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Pro-rated Refunds:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Available for remaining months after 30-day period",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Minimum Usage:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Refunds subject to fair usage policy",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Processing Time:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " 7-14 business days for refund processing",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Enterprise Plans",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Enterprise customers have custom refund terms as specified in their service agreement. Enterprise refunds are handled on a case-by-case basis with dedicated account management.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Fair Usage Policy:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " Refunds may be denied for accounts showing excessive usage or apparent misuse of the refund policy.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "How to Request a Refund",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Step-by-Step Process",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "1",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Contact Support",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Reach out to our support team via phone, email, or live chat",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "2",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Provide Information",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Share your account details and reason for refund request",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "3",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Review Process",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Our team reviews your request within 24-48 hours",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "4",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Refund Processing",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Approved refunds are processed within 7-14 business days",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Required Information",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Account email address and registered phone number",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Transaction ID or subscription details",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Reason for refund request",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Supporting documentation (if applicable)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Preferred refund method",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Contact Methods",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Phone Support",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "+91 84596 91471",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Mon-Sat: 9 AM - 8 PM IST",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Email Support",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "refunds@trainzilla.in",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Response within 24 hours",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Refund Methods and Processing Times",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Refund Methods",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "UPI Payments",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Direct refund to your UPI ID",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Processing time: 1-3 business days",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Instant notification via SMS and app",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Credit/Debit Cards",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Refund to original payment card",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Processing time: 5-7 business days",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "May take additional time to reflect in bank statement",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Net Banking",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Direct bank transfer to registered account",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Processing time: 3-5 business days",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Requires bank account verification",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Digital Wallets",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Refund to Paytm, PhonePe, or other wallets",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Processing time: 1-2 business days",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Instant notification from wallet provider",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "GST Refunds",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "For refunds involving GST, the entire amount including GST will be refunded. Updated GST credit notes will be issued within 7 days of refund processing for your tax records.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Non-Refundable Items and Exceptions",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Non-Refundable Services",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Setup and onboarding fees (if applicable)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Custom development work or integrations",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Third-party service fees (payment processing, SMS charges)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Training and certification programs after completion",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Data export or migration services",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Refund Exceptions",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Refunds may be denied in the following cases:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Account violations or misuse of platform",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Fraudulent payment or chargeback attempts",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Excessive usage inconsistent with fair use",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Requests made outside the specified time limits",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Inability to verify account ownership",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Partial Refunds",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "In certain circumstances, we may offer partial refunds or service credits instead of full refunds. This may apply to accounts with extensive usage or when service issues affected only part of the billing period.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Your Consumer Rights Under Indian Law",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Consumer Protection Act, 2019",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "As a consumer, you have the following rights under the Consumer Protection Act, 2019:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Right to be protected against unfair or restrictive trade practices",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Right to be informed about quality, quantity, and standard of services",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Right to seek redressal against deficient services",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Right to consumer education and awareness",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Grievance Redressal",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "If you are not satisfied with our refund decision, you have the right to:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Escalate to our senior management team",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "File a complaint with the National Consumer Helpline (1915)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Approach the District Consumer Forum in your jurisdiction",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Seek mediation through consumer dispute resolution mechanisms",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Alternative Dispute Resolution:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " We encourage resolving disputes through direct communication and are committed to fair resolution of all consumer grievances.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Need Help with Refunds?",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Our customer support team is here to help you with any refund-related questions or concerns.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Customer Support",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Phone: +91 84596 91471",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Email: refunds@trainzilla.in",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "WhatsApp: Available",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Hours: Mon-Sat, 9 AM - 8 PM IST",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Escalation Contact",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Senior Manager: manager@trainzilla.in",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Consumer Cell: consumer@trainzilla.in",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Response Time: 24-48 hours",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Languages: Hindi & English",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "This refund policy is compliant with Indian consumer protection laws and is subject to periodic updates to maintain compliance with changing regulations.",
+            "version": 1
+          }
+        ]
+      }
+    ]
+  }
+}

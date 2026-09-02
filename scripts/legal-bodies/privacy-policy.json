@@ -1,0 +1,2426 @@
+{
+  "root": {
+    "type": "root",
+    "format": "",
+    "indent": 0,
+    "version": 1,
+    "direction": "ltr",
+    "children": [
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Privacy Policy",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "TrainZilla India - Your privacy and data security is our top priority",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Last updated: January 15, 2025 | Effective Date: January 15, 2025",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Introduction",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "TrainZilla India (\"we,\" \"our,\" or \"us\") is committed to protecting the privacy and security of your personal information. This Privacy Policy explains how we collect, use, share, and protect your information when you use our fitness platform and services in compliance with Indian laws including the Information Technology Act, 2000 and Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "By using TrainZilla services, you consent to the collection and use of your information as described in this policy.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Information We Collect",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Personal Information",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Name, email address, phone number, and profile information",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Professional credentials and certifications",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Business information including GST number and PAN details",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Payment information and transaction history",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Fitness and health data shared voluntarily",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 6,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Communication preferences and language settings",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Usage Information",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "App usage patterns and feature interactions",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Device information and IP addresses",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Location data (with your consent)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Video call recordings (with explicit consent)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Support communications and feedback",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Client Information (For Trainers)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Client fitness data and progress information",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Workout plans and nutrition data",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Communication history and session notes",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Health-related information shared by clients",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "How We Use Your Information",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Service Provision",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Providing access to TrainZilla platform and features",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Processing payments and managing subscriptions",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Enabling video calls and communication features",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Generating AI-powered workout and nutrition plans",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Facilitating trainer-client interactions",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Improvement and Personalization",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Improving our AI algorithms and recommendations",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Customizing content for Indian market preferences",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Analyzing usage patterns to enhance user experience",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Developing new features and services",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Legal and Business Purposes",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Complying with Indian legal and regulatory requirements",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Preventing fraud and ensuring platform security",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Resolving disputes and enforcing our terms",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Business analytics and reporting",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Data Storage and Security",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Data Localization",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "In compliance with Indian data protection laws, all sensitive personal data of Indian users is stored within India on secure servers. We use AWS India data centers located in Mumbai and Hyderabad.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Security Measures",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "256-bit SSL encryption for all data transmission",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Multi-factor authentication for account access",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Regular security audits and vulnerability assessments",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Role-based access controls for our team members",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Automated backup and disaster recovery systems",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 6,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Compliance with ISO 27001 security standards",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Data Retention",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "We retain your personal information for as long as necessary to provide our services and comply with legal obligations. Account information is retained for 7 years after account closure as per Indian financial regulations. You can request data deletion subject to our legal obligations.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Information Sharing and Disclosure",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "We do not sell your personal information to third parties. We may share your information in the following circumstances:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Service Providers",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Payment processors (Razorpay, Paytm) for transaction processing",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Cloud infrastructure providers (AWS India)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Communication service providers for SMS and email",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Analytics providers for platform improvement",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Legal Requirements",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Compliance with court orders and legal processes",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Cooperation with law enforcement agencies",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Protection of our rights and property",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Prevention of fraud and illegal activities",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Business Transfers",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "In the event of a merger, acquisition, or sale of assets, your information may be transferred to the new entity, subject to the same privacy protections.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Your Rights and Choices",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Access and Control",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Access and download your personal information",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Correct or update inaccurate information",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Delete your account and associated data",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Object to processing of your information",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Request data portability",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Communication Preferences",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Opt-out of marketing communications",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Choose your preferred language for communications",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Control push notifications and alerts",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Manage email subscription preferences",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Exercising Your Rights",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "To exercise any of these rights, please contact us using the information provided below. We will respond to your request within 30 days as required by Indian law.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Cookies and Tracking Technologies",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "We use cookies and similar technologies to enhance your experience on our platform:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Essential Cookies:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Required for platform functionality and security",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Performance Cookies:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Help us understand how users interact with our platform",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Functional Cookies:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Remember your preferences and settings",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Analytics Cookies:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Provide insights for platform improvement",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "You can control cookies through your browser settings. However, disabling certain cookies may affect platform functionality.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "International Data Transfers",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "While we primarily store data in India, some data may be transferred internationally for:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Cloud infrastructure redundancy and backup",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Technical support and maintenance",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Integration with international fitness tracking devices",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "All international transfers comply with Indian data protection laws and include appropriate safeguards such as Standard Contractual Clauses and adequacy decisions.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Children's Privacy",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "TrainZilla is not intended for individuals under 18 years of age. We do not knowingly collect personal information from children under 18. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "If we discover that we have collected personal information from a child under 18, we will delete such information promptly.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Changes to This Privacy Policy",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "We may update this Privacy Policy periodically to reflect changes in our practices or legal requirements. We will notify you of any material changes by:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Email notification to your registered email address",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "In-app notification upon your next login",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Prominent notice on our website",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "WhatsApp message for important changes",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Continued use of our services after the effective date of changes constitutes acceptance of the updated Privacy Policy.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Contact Us",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "If you have any questions about this Privacy Policy or our data practices, please contact us:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "TrainZilla India Pvt. Ltd.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Privacy Officer",
+            "version": 1
+          },
+          {
+            "type": "linebreak",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Pune, Maharashtra 411001",
+            "version": 1
+          },
+          {
+            "type": "linebreak",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "India",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Contact Information",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Email: privacy@trainzilla.in",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Phone: +91 84596 91471",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "WhatsApp: Available",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Support: Available in Hindi & English",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "This Privacy Policy is governed by Indian law and any disputes will be resolved in Indian courts.",
+            "version": 1
+          }
+        ]
+      }
+    ]
+  }
+}
