@@ -8,7 +8,7 @@
  * (which filters `where[_status][equals]=published`) picks it up.
  *
  * Scope = the "clean field lift" content (per the Stage 3 plan mapping table):
- *   seoPages, faqs, webinars, blogCategories + the 3 globals.
+ *   seoPages, faqs, webinars + the 3 globals. (blogCategories: seed-articles.ts)
  * The prose-conversion content (article bodies, legal bodies, marketingItems,
  * pages) is seeded within website PRs WS-3 / WS-6 / WS-7 where each slice is
  * verified against the prerendered output.
@@ -88,13 +88,8 @@ const SEO_PAGES: SeoSeed[] = [
   { key: 'ai-integration', title: 'AI Agent Integration — Talk to Your Coaching Business | TrainZilla', description: 'Connect your TrainZilla Coach App to Claude or any AI agent in 2 minutes. Get your API key, add one line to your AI settings, and start managing clients, generating plans, and reviewing compliance — all in plain English. No technical skills needed.', keywords: 'AI fitness coaching assistant, Claude coaching app, AI personal trainer tool, fitness AI automation, AI workout plan generator, AI coaching assistant, TrainZilla AI integration, fitness coach AI tools, MCP fitness app, AI agent coaching', canonicalPath: '/solutions/ai-agent' },
 ]
 
-// --- Blog categories (BlogCategoryPage.tsx categoryConfig, 4 real keys) -------
-const BLOG_CATEGORIES = [
-  { slug: 'getting-started', name: 'Getting Started', description: 'Onboarding guides and first steps for fitness coaches new to TrainZilla.' },
-  { slug: 'client-management', name: 'Client Management', description: 'Retention, communication, scheduling and progress-tracking playbooks.' },
-  { slug: 'scheduling-booking', name: 'Scheduling & Booking', description: 'Session scheduling, calendar workflows and booking best practices.' },
-  { slug: 'analytics-reports', name: 'Analytics & Reports', description: 'Using business analytics and client reports to grow your practice.' },
-]
+// Blog categories are seeded by scripts/seed-articles.ts (WS-3) — it owns the
+// topic taxonomy and deletes anything not in its set.
 
 // --- FAQs (help/FAQPage.tsx faqData, 20 entries) -----------------------------
 const CAT = {
@@ -137,7 +132,7 @@ const WEBINARS = [
     description: 'Learn how to leverage AI tools to create personalized workout plans, nutrition guides, and business strategies specifically for the Indian fitness market.',
     longDescription: rt(["This comprehensive webinar will teach you how to integrate AI technology into your fitness coaching practice. From automated workout generation to smart nutrition planning for Indian dietary preferences, you’ll discover practical AI tools that can help you scale your business and provide better results for your clients. We’ll cover real-world applications, cost-effective AI solutions, and how to maintain the personal touch that Indian clients value."]),
     instructor: { name: 'Dr. Priya Sharma', title: 'AI Fitness Technology Expert & Certified Nutritionist', bio: 'Dr. Priya Sharma is a leading expert in fitness technology with over 12 years of experience in the Indian wellness industry. She has helped over 500 trainers integrate technology into their practice.', image: '/images/instructors/priya-sharma.jpg', credentials: arr(['Ph.D. in Sports Science', 'ACSM Certified', 'Google AI Certified', 'Nutrition & Dietetics Expert']) },
-    schedule: { date: 'March 15, 2026', time: '19:00', duration: '2 hours', timezone: 'IST' },
+    schedule: { date: '2026-03-15', time: '19:00', duration: '2 hours', timezone: 'IST' },
     topics: arr(['Introduction to AI in Fitness Industry', 'AI Workout Plan Generation for Indian Bodies', 'Smart Nutrition Planning for Vegetarian Clients', 'Automated Progress Tracking Systems', 'AI-Powered Business Analytics', 'Cost-Effective AI Tools for Small Businesses', 'Maintaining Personal Connection with Technology', 'Case Studies from Successful Indian Trainers']),
     benefits: arr(['Create personalized workout plans 10x faster', 'Increase client retention by 40%', 'Reduce planning time from hours to minutes', 'Scale your business to serve more clients', 'Provide data-driven results to clients', 'Stay ahead of competition with cutting-edge tools']),
     targetAudience: arr(['Personal trainers looking to scale their business', 'Gym owners wanting to modernize their services', 'Fitness entrepreneurs seeking competitive advantage', 'Nutrition coaches serving Indian clientele']),
@@ -157,7 +152,7 @@ const WEBINARS = [
     description: 'Discover proven strategies to maintain client engagement, motivation, and results during India’s challenging monsoon months.',
     longDescription: rt(['The monsoon season presents unique challenges for fitness professionals in India. This webinar provides practical solutions for maintaining client engagement when outdoor activities are limited, humidity affects performance, and motivation typically drops. Learn seasonal workout modifications, indoor alternatives, mental health support strategies, and how to turn monsoon challenges into business opportunities.']),
     instructor: { name: 'Rajesh Kumar', title: 'Elite Fitness Coach & Monsoon Training Specialist', bio: 'Rajesh Kumar has been training clients through 15 monsoon seasons in Mumbai. His innovative indoor training methods have helped hundreds of clients maintain their fitness goals despite weather challenges.', image: '/images/instructors/rajesh-kumar.jpg', credentials: arr(['NASM Master Trainer', 'Functional Movement Specialist', 'Mental Health First Aid Certified', '15+ Years Experience']) },
-    schedule: { date: 'March 22, 2026', time: '18:30', duration: '90 minutes', timezone: 'IST' },
+    schedule: { date: '2026-03-22', time: '18:30', duration: '90 minutes', timezone: 'IST' },
     topics: arr(['Understanding Monsoon Psychology & Motivation', 'Indoor Workout Adaptations', 'Humidity Management Techniques', 'Monsoon Nutrition Guidelines', 'Client Communication Strategies', 'Equipment-Free Training Methods', 'Mental Health Support During Monsoons', 'Turning Challenges into Opportunities']),
     benefits: arr(['Maintain 90% client retention during monsoons', 'Increase indoor session bookings', 'Develop weather-independent business model', 'Create monsoon-specific service packages', 'Improve client satisfaction scores', 'Build reputation as year-round specialist']),
     targetAudience: arr(['Personal trainers in monsoon-affected regions', 'Gym owners preparing for seasonal challenges', 'Outdoor fitness instructors needing alternatives', 'Corporate wellness coordinators']),
@@ -177,7 +172,7 @@ const WEBINARS = [
     description: 'Master the art of plant-based nutrition planning for Indian vegetarian athletes and fitness enthusiasts.',
     longDescription: rt(['With 70% of Indians following vegetarian diets, this specialized webinar addresses the unique nutritional needs of vegetarian athletes and fitness enthusiasts. Learn evidence-based strategies for protein optimization, micronutrient balance, performance enhancement, and recovery using traditional Indian foods combined with modern sports nutrition science.']),
     instructor: { name: 'Dr. Meera Patel', title: 'Sports Nutritionist & Plant-Based Performance Expert', bio: 'Dr. Meera Patel has revolutionized vegetarian sports nutrition in India, working with Olympic athletes and professional sports teams. Her plant-based protocols have helped athletes achieve peak performance.', image: '/images/instructors/meera-patel.jpg', credentials: arr(['Ph.D. in Sports Nutrition', 'IOA Certified Sports Nutritionist', 'Plant-Based Nutrition Certificate', 'Published Researcher']) },
-    schedule: { date: 'April 1, 2026', time: '19:30', duration: '2.5 hours', timezone: 'IST' },
+    schedule: { date: '2026-04-01', time: '19:30', duration: '2.5 hours', timezone: 'IST' },
     topics: arr(['Vegetarian Protein Sources & Combinations', 'Micronutrient Optimization for Athletes', 'Traditional Indian Foods for Performance', 'Pre & Post Workout Nutrition', 'Supplement Strategies for Vegetarians', 'Meal Timing for Different Sports', 'Common Deficiencies & Solutions', 'Practical Meal Planning & Prep']),
     benefits: arr(['Increase client performance by 25%', 'Eliminate nutritional deficiencies', 'Create culturally appropriate meal plans', 'Build expertise in growing niche market', 'Charge premium for specialized knowledge', 'Help clients achieve body composition goals']),
     targetAudience: arr(['Personal trainers working with vegetarian clients', 'Nutritionists seeking sports specialization', 'Fitness coaches in vegetarian-majority regions', 'Athletes looking to optimize plant-based nutrition']),
@@ -197,7 +192,7 @@ const WEBINARS = [
     description: 'Learn proven digital marketing strategies specifically designed for the Indian fitness market to grow your client base and increase revenue.',
     longDescription: rt(['In today’s digital age, having great fitness skills isn’t enough. This comprehensive webinar teaches fitness professionals how to leverage digital marketing to build their brand, attract ideal clients, and create multiple income streams. We’ll cover social media strategies that work in India, content creation on a budget, client acquisition funnels, and how to stand out in a crowded market.']),
     instructor: { name: 'Arjun Singh', title: 'Digital Marketing Expert & Fitness Business Consultant', bio: 'Arjun Singh has helped over 300 fitness professionals in India build successful online businesses. His marketing strategies have generated over ₹50 crores in revenue for fitness professionals.', image: '/images/instructors/arjun-singh.jpg', credentials: arr(['Google Ads Certified', 'Facebook Marketing Expert', 'Content Marketing Specialist', 'Business Growth Consultant']) },
-    schedule: { date: 'April 8, 2026', time: '20:00', duration: '2 hours', timezone: 'IST' },
+    schedule: { date: '2026-04-08', time: '20:00', duration: '2 hours', timezone: 'IST' },
     topics: arr(['Building Your Fitness Brand Online', 'Social Media Strategies for Indian Market', 'Content Creation on Zero Budget', 'Lead Generation & Client Funnels', 'WhatsApp Marketing for Fitness', 'Google My Business Optimization', 'Influencer Partnerships & Collaborations', 'Measuring ROI & Scaling Successfully']),
     benefits: arr(['Increase client inquiries by 300%', 'Build engaged social media following', 'Create automated lead generation', 'Develop multiple revenue streams', 'Establish authority in your niche', 'Reduce client acquisition costs']),
     targetAudience: arr(['Personal trainers wanting to grow online', 'Gym owners seeking digital presence', 'Fitness influencers looking to monetize', 'New trainers building client base']),
@@ -217,7 +212,7 @@ const WEBINARS = [
     description: 'Complete blueprint for starting and scaling a successful home-based fitness business in India with minimal investment.',
     longDescription: rt(['Discover how to turn your passion for fitness into a profitable home-based business. This webinar covers everything from legal requirements and equipment setup to client acquisition and service delivery. Perfect for trainers who want the flexibility of working from home while building a sustainable income.']),
     instructor: { name: 'Neha Gupta', title: 'Home Fitness Business Expert & Entrepreneur', bio: 'Neha Gupta built a ₹10 lakh annual home fitness business in just 2 years. She now mentors other trainers to replicate her success with proven systems and strategies.', image: '/images/instructors/neha-gupta.jpg', credentials: arr(['Certified Personal Trainer', 'Business Management Graduate', 'Home Fitness Specialist', 'Entrepreneurship Mentor']) },
-    schedule: { date: 'April 15, 2026', time: '18:00', duration: '2 hours', timezone: 'IST' },
+    schedule: { date: '2026-04-15', time: '18:00', duration: '2 hours', timezone: 'IST' },
     topics: arr(['Legal Requirements & Business Setup', 'Space Optimization & Equipment Selection', 'Service Packages & Pricing Strategies', 'Client Acquisition for Home Business', 'Virtual Training Implementation', 'Time Management & Scheduling', 'Safety & Insurance Considerations', 'Scaling Your Home Business']),
     benefits: arr(['Start business with minimal investment', 'Work flexible hours from home', 'Build recurring monthly income', 'Serve clients in your neighborhood', 'Avoid commute and rental costs', 'Create work-life balance']),
     targetAudience: arr(['New fitness professionals', 'Stay-at-home parents with fitness background', 'Trainers looking for location independence', 'Side hustle seekers']),
@@ -237,7 +232,7 @@ const WEBINARS = [
     description: 'Learn specialized techniques for training seniors safely and effectively, tapping into India’s fastest-growing fitness demographic.',
     longDescription: rt(['With India’s rapidly aging population, senior fitness is becoming a lucrative and meaningful specialization. This webinar teaches evidence-based training methods for older adults, addressing common health conditions, cultural considerations, and business opportunities in the senior fitness market.']),
     instructor: { name: 'Dr. Suresh Reddy', title: 'Geriatric Exercise Physiologist & Senior Fitness Expert', bio: 'Dr. Suresh Reddy has 20 years of experience in senior fitness and rehabilitation. He has trained thousands of seniors and mentored hundreds of trainers in age-appropriate exercise programming.', image: '/images/instructors/suresh-reddy.jpg', credentials: arr(['Ph.D. in Exercise Physiology', 'Geriatric Exercise Specialist', 'Rehabilitation Certified', 'Medical Exercise Expert']) },
-    schedule: { date: 'April 22, 2026', time: '17:30', duration: '2.5 hours', timezone: 'IST' },
+    schedule: { date: '2026-04-22', time: '17:30', duration: '2.5 hours', timezone: 'IST' },
     topics: arr(['Aging Process & Exercise Adaptations', 'Common Health Conditions in Seniors', 'Safe Exercise Progressions', 'Fall Prevention Strategies', 'Culturally Appropriate Activities', 'Family Involvement & Communication', 'Business Model for Senior Fitness', 'Insurance & Safety Protocols']),
     benefits: arr(['Access underserved market segment', 'Command premium pricing for specialization', 'Make meaningful impact on quality of life', 'Build referral network with healthcare providers', 'Create recession-proof business model', 'Establish expertise in growing field']),
     targetAudience: arr(['Personal trainers seeking specialization', 'Healthcare professionals entering fitness', 'Gym owners targeting senior market', 'Physical therapy assistants']),
@@ -283,12 +278,6 @@ const upsert = async (collection: any, where: any, data: any) => {
     })
   }
   summary.seoPages = SEO_PAGES.length
-
-  // Blog categories
-  for (const c of BLOG_CATEGORIES) {
-    await upsert('blogCategories', { slug: { equals: c.slug } }, { ...c, _status: 'published' })
-  }
-  summary.blogCategories = BLOG_CATEGORIES.length
 
   // FAQs
   let order = 0
