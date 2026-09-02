@@ -12,6 +12,7 @@ PM2_APP_NAME="${PM2_APP_NAME:-trainzilla-cms}"
 APP_PORT="${APP_PORT:-3001}"
 RELEASE_RETENTION="${RELEASE_RETENTION:-5}"
 RELEASE_ID="${RELEASE_ID:-$(date -u +%Y%m%d%H%M%S)}"
+LOCAL_ENV_FILE="${LOCAL_ENV_FILE:-$PROJECT_ROOT/.env.production.local}"
 ALLOW_DIRTY=0
 DRY_RUN=0
 
@@ -57,7 +58,7 @@ while (($# > 0)); do
   shift
 done
 
-for command in git ssh rsync tar; do
+for command in git npm ssh rsync; do
   command -v "$command" >/dev/null 2>&1 || {
     printf 'Missing required command: %s\n' "$command" >&2
     exit 1
@@ -66,6 +67,10 @@ done
 
 [[ -f "$SSH_KEY" ]] || {
   printf 'SSH key not found: %s\n' "$SSH_KEY" >&2
+  exit 1
+}
+[[ -f "$LOCAL_ENV_FILE" ]] || {
+  printf 'Missing local production environment: %s\n' "$LOCAL_ENV_FILE" >&2
   exit 1
 }
 
@@ -77,7 +82,27 @@ fi
 GIT_COMMIT="$(git -C "$PROJECT_ROOT" rev-parse HEAD)"
 STAGING_DIR="$(mktemp -d)"
 trap 'rm -rf -- "$STAGING_DIR"' EXIT
-git -C "$PROJECT_ROOT" archive --format=tar "$GIT_COMMIT" | tar -xf - -C "$STAGING_DIR"
+
+cd "$PROJECT_ROOT"
+npm ci
+npm run build
+
+[[ -f "$PROJECT_ROOT/.next/standalone/server.js" ]] || {
+  printf 'Next standalone runtime was not produced.\n' >&2
+  exit 1
+}
+[[ -d "$PROJECT_ROOT/.next/static" ]] || {
+  printf 'Next static assets were not produced.\n' >&2
+  exit 1
+}
+
+rsync -a --delete "$PROJECT_ROOT/.next/standalone/" "$STAGING_DIR/"
+mkdir -p "$STAGING_DIR/.next/static"
+rsync -a --delete "$PROJECT_ROOT/.next/static/" "$STAGING_DIR/.next/static/"
+if [[ -d "$PROJECT_ROOT/public" ]]; then
+  rsync -a --delete "$PROJECT_ROOT/public/" "$STAGING_DIR/public/"
+fi
+cp "$PROJECT_ROOT/ecosystem.production.config.cjs" "$STAGING_DIR/"
 
 SSH_TARGET="${SERVER_USER}@${SERVER_HOST}"
 SSH_CMD=(ssh -i "$SSH_KEY" -p "$SSH_PORT" -o BatchMode=yes -o StrictHostKeyChecking=accept-new "$SSH_TARGET")
@@ -136,8 +161,6 @@ rollback() {
 cd "$RELEASE"
 ln -sfn "$ROOT/shared/.env" .env
 ln -sfn "$ROOT/shared/media" media
-npm ci
-npm run build
 
 ln -sfn "$RELEASE" "$CURRENT"
 if ! pm2 startOrReload "$CURRENT/ecosystem.production.config.cjs" --update-env; then

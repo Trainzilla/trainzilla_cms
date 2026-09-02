@@ -7,6 +7,8 @@ const __filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(__filename)
 
 const nextConfig: NextConfig = {
+  // Deployment ships this traced Node runtime instead of rebuilding on the VPS.
+  output: 'standalone',
   images: {
     localPatterns: [
       {

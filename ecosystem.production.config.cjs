@@ -3,8 +3,7 @@ module.exports = {
     {
       name: 'trainzilla-cms',
       cwd: '/home/ubuntu/apps/trainzilla-cms/current',
-      script: 'node_modules/.bin/next',
-      args: 'start -p 3001',
+      script: 'server.js',
       interpreter: 'node',
       env_file: '/home/ubuntu/apps/trainzilla-cms/shared/.env',
       env: {

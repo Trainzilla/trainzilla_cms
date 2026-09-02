@@ -18,7 +18,7 @@ The server does not need GitHub access. Deploy from this local repository with:
 ./scripts/deploy-production.sh
 ```
 
-The script archives the committed local source, rsyncs an immutable release to the VPS, runs `npm ci` and `npm run build` on Linux, switches `current` only after a successful build, reloads PM2, verifies `/admin` locally, and keeps five releases.
+The script runs `npm ci` and `npm run build` locally, packages Next's standalone runtime and static assets, rsyncs that immutable release to the VPS, reloads PM2, verifies `/admin` locally, and keeps five releases. It does not install packages or build on the VPS.
 
 Before the first deployment, create the private shared environment on the VPS with at least:
 
@@ -31,5 +31,7 @@ PORT=3001
 ```
 
 Do not commit this file or copy the backend application's database URL. The CMS needs its own `trainzilla_cms` database.
+
+The local deploy workstation also needs the same values in `.env.production.local` so Next can build with its production configuration. This file is gitignored.
 
 Enable the nginx site and run Certbot only after `cms.trainzilla.in` resolves to the VPS origin. Use `pm2 logs trainzilla-cms` and the shared log files for follow-up.
