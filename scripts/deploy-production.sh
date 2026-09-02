@@ -15,6 +15,7 @@ RELEASE_ID="${RELEASE_ID:-$(date -u +%Y%m%d%H%M%S)}"
 LOCAL_ENV_FILE="${LOCAL_ENV_FILE:-$PROJECT_ROOT/.env.production.local}"
 ALLOW_DIRTY=0
 DRY_RUN=0
+SKIP_LOCAL_BUILD=0
 
 usage() {
   cat <<'EOF'
@@ -23,6 +24,7 @@ Usage: ./scripts/deploy-production.sh [options]
 Options:
   --allow-dirty            Deploy the current committed HEAD despite local changes.
   --dry-run                Validate and transfer with rsync dry-run only.
+  --skip-local-build       Reuse an existing local Next standalone build.
   --release-id <id>        Use a specific UTC release identifier.
   --host <host>            Override the production host.
   --help, -h               Print this help text.
@@ -36,6 +38,9 @@ while (($# > 0)); do
       ;;
     --dry-run)
       DRY_RUN=1
+      ;;
+    --skip-local-build)
+      SKIP_LOCAL_BUILD=1
       ;;
     --release-id)
       RELEASE_ID="${2:?missing release id}"
@@ -84,8 +89,10 @@ STAGING_DIR="$(mktemp -d)"
 trap 'rm -rf -- "$STAGING_DIR"' EXIT
 
 cd "$PROJECT_ROOT"
-npm ci
-npm run build
+if [[ "$SKIP_LOCAL_BUILD" != "1" ]]; then
+  npm ci
+  npm run build
+fi
 
 [[ -f "$PROJECT_ROOT/.next/standalone/server.js" ]] || {
   printf 'Next standalone runtime was not produced.\n' >&2
