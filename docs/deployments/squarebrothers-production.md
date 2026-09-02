@@ -18,7 +18,7 @@ The server does not need GitHub access. Deploy from this local repository with:
 ./scripts/deploy-production.sh
 ```
 
-The script runs `npm ci` and `npm run build` locally, packages Next's standalone runtime and static assets, adds the prebuilt Linux x64 `sharp` runtime, rsyncs that immutable release to the VPS, reloads PM2, verifies `/admin` locally, and keeps five releases. It does not install packages or build on the VPS.
+The script runs `npm ci` and `npm run build` locally, packages Next's standalone runtime and static assets, adds the `sharp` WebAssembly runtime required by this VPS CPU, rsyncs that immutable release to the VPS, reloads PM2, verifies `/admin` locally, and keeps five releases. It does not install packages or build on the VPS.
 
 Before the first deployment, create the private shared environment on the VPS with at least:
 
