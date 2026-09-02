@@ -22,7 +22,12 @@ import { PlatformMetrics } from './globals/PlatformMetrics'
 import { richTextEditor } from './fields/editor'
 import { localization } from './locales'
 import { mcpDraftGuard } from './hooks/mcpDraftGuard'
-import type { CollectionConfig } from 'payload'
+import {
+  triggerNetlifyBuildAfterChange,
+  triggerNetlifyBuildAfterDelete,
+  triggerNetlifyBuildGlobalAfterChange,
+} from './hooks/triggerNetlifyBuild'
+import type { CollectionConfig, GlobalConfig } from 'payload'
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
@@ -33,12 +38,24 @@ const dirname = path.dirname(filename)
 const editCreateFind = { find: true, create: true, update: true, delete: false }
 const findUpdate = { find: true, update: true }
 
-// Append the MCP draft-guard beforeOperation hook to a content collection.
-const withMcpGuard = (c: CollectionConfig): CollectionConfig => ({
+// Content-collection hooks: MCP draft-guard (writes land as drafts) + Netlify
+// build trigger (publishing redeploys trainzilla.in).
+const withContentHooks = (c: CollectionConfig): CollectionConfig => ({
   ...c,
   hooks: {
     ...c.hooks,
     beforeOperation: [...(c.hooks?.beforeOperation ?? []), mcpDraftGuard],
+    afterChange: [...(c.hooks?.afterChange ?? []), triggerNetlifyBuildAfterChange],
+    afterDelete: [...(c.hooks?.afterDelete ?? []), triggerNetlifyBuildAfterDelete],
+  },
+})
+
+// Globals: Netlify build trigger only (no MCP delete, no drafts to guard beyond status).
+const withGlobalHooks = (g: GlobalConfig): GlobalConfig => ({
+  ...g,
+  hooks: {
+    ...g.hooks,
+    afterChange: [...(g.hooks?.afterChange ?? []), triggerNetlifyBuildGlobalAfterChange],
   },
 })
 
@@ -51,10 +68,10 @@ export default buildConfig({
     Users,
     Media,
     ...[SeoPages, Authors, BlogCategories, Articles, Webinars, Faqs, LegalPages, MarketingItems, Pages].map(
-      withMcpGuard,
+      withContentHooks,
     ),
   ],
-  globals: [SiteSettings, StructuredData, PlatformMetrics],
+  globals: [SiteSettings, StructuredData, PlatformMetrics].map(withGlobalHooks),
   localization,
   editor: richTextEditor,
   secret: process.env.PAYLOAD_SECRET || '',
