@@ -94,11 +94,11 @@ const SEO_PAGES: SeoSeed[] = [
 // --- FAQs (help/FAQPage.tsx faqData, 20 entries) -----------------------------
 const CAT = {
   'Getting Started': 'getting-started',
-  'Client Management': 'account',
-  'Payments & Billing': 'billing',
-  'Mobile App': 'features',
-  'Technical Support': 'technical',
-  'Video Training': 'features',
+  'Client Management': 'client-management',
+  'Payments & Billing': 'payments-billing',
+  'Mobile App': 'mobile-app',
+  'Technical Support': 'technical-support',
+  'Video Training': 'video-training',
 } as const
 const FAQS: { category: keyof typeof CAT; question: string; answer: string; popular: boolean }[] = [
   { category: 'Getting Started', question: 'How do I create my trainer profile on TrainZilla?', answer: 'Creating your trainer profile is simple: 1) Sign up with your email and phone number, 2) Verify your account via SMS/email, 3) Complete your professional details including certifications, 4) Add your specializations and experience, 5) Set your pricing and availability. Our AI will help optimize your profile for better client matching.', popular: true },

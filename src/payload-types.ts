@@ -515,7 +515,16 @@ export interface Faq {
     };
     [k: string]: unknown;
   };
-  category?: ('getting-started' | 'billing' | 'features' | 'account' | 'technical' | 'general') | null;
+  category?:
+    | (
+        | 'getting-started'
+        | 'client-management'
+        | 'payments-billing'
+        | 'mobile-app'
+        | 'technical-support'
+        | 'video-training'
+      )
+    | null;
   order?: number | null;
   /**
    * Routes whose JSON-LD should include this Q&A
