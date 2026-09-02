@@ -35,3 +35,7 @@ Do not commit this file or copy the backend application's database URL. The CMS 
 The local deploy workstation also needs the same values in `.env.production.local` so Next can build with its production configuration. This file is gitignored.
 
 Enable the nginx site and run Certbot only after `cms.trainzilla.in` resolves to the VPS origin. Use `pm2 logs trainzilla-cms` and the shared log files for follow-up.
+
+## Deployment History
+
+- `squarebrothers-launch-log-2026-09-02.md` records the initial production launch, validation evidence, compatibility constraint, and pending handoff work.
