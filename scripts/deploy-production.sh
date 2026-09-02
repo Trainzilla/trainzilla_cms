@@ -111,25 +111,28 @@ if [[ -d "$PROJECT_ROOT/public" ]]; then
 fi
 cp "$PROJECT_ROOT/ecosystem.production.config.cjs" "$STAGING_DIR/"
 
-# The workstation builds on macOS. This VPS has a pre-x86-64-v2 CPU, so the
-# native Linux sharp binary cannot run there. Package sharp's WebAssembly
-# runtime instead; nothing is compiled or installed on the server.
+# The workstation builds on macOS. The CMS pins sharp to a CPU-compatible
+# release, so package its prebuilt Linux x64 runtime; nothing is compiled or
+# installed on the server.
 SHARP_VERSION="$(node -p "require('$PROJECT_ROOT/node_modules/sharp/package.json').version")"
+LIBVIPS_VERSION="$(node -p "require('$PROJECT_ROOT/node_modules/sharp/package.json').optionalDependencies['@img/sharp-libvips-linux-x64']")"
 LINUX_SHARP_DIR="$(mktemp -d)"
 trap 'rm -rf -- "$STAGING_DIR" "$LINUX_SHARP_DIR"' EXIT
 npm pack --silent --pack-destination "$LINUX_SHARP_DIR" \
-  "@img/sharp-wasm32@$SHARP_VERSION" \
-  '@emnapi/runtime@1.4.3' >/dev/null
-mkdir -p "$STAGING_DIR/node_modules/@img/sharp-wasm32" "$STAGING_DIR/node_modules/@emnapi/runtime"
-WASM_ARCHIVE="$(find "$LINUX_SHARP_DIR" -maxdepth 1 -name 'img-sharp-wasm32-*.tgz' -print -quit)"
-EMNAPI_ARCHIVE="$(find "$LINUX_SHARP_DIR" -maxdepth 1 -name 'emnapi-runtime-*.tgz' -print -quit)"
-[[ -n "$WASM_ARCHIVE" && -n "$EMNAPI_ARCHIVE" ]] || {
-  printf 'Missing sharp WebAssembly runtime package archive.\n' >&2
-  exit 1
-}
-rm -rf -- "$STAGING_DIR/node_modules/@img/sharp-linux-x64" "$STAGING_DIR/node_modules/@img/sharp-libvips-linux-x64"
-tar -xzf "$WASM_ARCHIVE" --strip-components=1 -C "$STAGING_DIR/node_modules/@img/sharp-wasm32"
-tar -xzf "$EMNAPI_ARCHIVE" --strip-components=1 -C "$STAGING_DIR/node_modules/@emnapi/runtime"
+  "@img/sharp-linux-x64@$SHARP_VERSION" \
+  "@img/sharp-libvips-linux-x64@$LIBVIPS_VERSION" >/dev/null
+mkdir -p "$STAGING_DIR/node_modules/@img"
+for package_name in sharp-linux-x64 sharp-libvips-linux-x64; do
+  package_archive="$(find "$LINUX_SHARP_DIR" -maxdepth 1 -name "img-${package_name}-*.tgz" -print -quit)"
+  [[ -n "$package_archive" ]] || {
+    printf 'Missing Linux sharp package archive: %s\n' "$package_name" >&2
+    exit 1
+  }
+  package_target="$STAGING_DIR/node_modules/@img/$package_name"
+  rm -rf -- "$package_target"
+  mkdir -p "$package_target"
+  tar -xzf "$package_archive" --strip-components=1 -C "$package_target"
+done
 
 SSH_TARGET="${SERVER_USER}@${SERVER_HOST}"
 SSH_CMD=(ssh -i "$SSH_KEY" -p "$SSH_PORT" -o BatchMode=yes -o StrictHostKeyChecking=accept-new "$SSH_TARGET")
