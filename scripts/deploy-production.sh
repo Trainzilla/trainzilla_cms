@@ -63,7 +63,7 @@ while (($# > 0)); do
   shift
 done
 
-for command in git npm ssh rsync; do
+for command in git node npm ssh rsync tar; do
   command -v "$command" >/dev/null 2>&1 || {
     printf 'Missing required command: %s\n' "$command" >&2
     exit 1
@@ -110,6 +110,30 @@ if [[ -d "$PROJECT_ROOT/public" ]]; then
   rsync -a --delete "$PROJECT_ROOT/public/" "$STAGING_DIR/public/"
 fi
 cp "$PROJECT_ROOT/ecosystem.production.config.cjs" "$STAGING_DIR/"
+
+# The workstation builds on macOS, while Payload's image adapter needs the
+# Linux x64 sharp binaries at runtime on the Ubuntu VPS. Package the traced
+# standalone bundle with those prebuilt Linux artifacts; nothing is compiled
+# or installed on the server.
+SHARP_VERSION="$(node -p "require('$PROJECT_ROOT/node_modules/sharp/package.json').version")"
+LIBVIPS_VERSION="$(node -p "require('$PROJECT_ROOT/node_modules/sharp/package.json').optionalDependencies['@img/sharp-libvips-linux-x64']")"
+LINUX_SHARP_DIR="$(mktemp -d)"
+trap 'rm -rf -- "$STAGING_DIR" "$LINUX_SHARP_DIR"' EXIT
+npm pack --silent --pack-destination "$LINUX_SHARP_DIR" \
+  "@img/sharp-linux-x64@$SHARP_VERSION" \
+  "@img/sharp-libvips-linux-x64@$LIBVIPS_VERSION" >/dev/null
+mkdir -p "$STAGING_DIR/node_modules/@img"
+for package_name in sharp-linux-x64 sharp-libvips-linux-x64; do
+  package_archive="$(find "$LINUX_SHARP_DIR" -maxdepth 1 -name "img-${package_name}-*.tgz" -print -quit)"
+  [[ -n "$package_archive" ]] || {
+    printf 'Missing Linux sharp package archive: %s\n' "$package_name" >&2
+    exit 1
+  }
+  package_target="$STAGING_DIR/node_modules/@img/$package_name"
+  rm -rf -- "$package_target"
+  mkdir -p "$package_target"
+  tar -xzf "$package_archive" --strip-components=1 -C "$package_target"
+done
 
 SSH_TARGET="${SERVER_USER}@${SERVER_HOST}"
 SSH_CMD=(ssh -i "$SSH_KEY" -p "$SSH_PORT" -o BatchMode=yes -o StrictHostKeyChecking=accept-new "$SSH_TARGET")
@@ -176,7 +200,16 @@ if ! pm2 startOrReload "$CURRENT/ecosystem.production.config.cjs" --update-env; 
 fi
 pm2 save
 
-if ! curl -fsS --max-time 20 "http://127.0.0.1:${APP_PORT}/admin" >/dev/null; then
+CMS_READY=0
+for attempt in $(seq 1 30); do
+  if curl -fsS --max-time 10 "http://127.0.0.1:${APP_PORT}/admin" >/dev/null; then
+    CMS_READY=1
+    break
+  fi
+  sleep 2
+done
+
+if [[ "$CMS_READY" != "1" ]]; then
   rollback
   echo "CMS admin health check failed after deployment" >&2
   exit 1
