@@ -64,11 +64,22 @@ export type SupportedTimezones =
 export interface Config {
   auth: {
     users: UserAuthOperations;
+    'payload-mcp-api-keys': PayloadMcpApiKeyAuthOperations;
   };
   blocks: {};
   collections: {
     users: User;
     media: Media;
+    seoPages: SeoPage;
+    authors: Author;
+    blogCategories: BlogCategory;
+    articles: Article;
+    webinars: Webinar;
+    faqs: Faq;
+    legalPages: LegalPage;
+    marketingItems: MarketingItem;
+    pages: Page;
+    'payload-mcp-api-keys': PayloadMcpApiKey;
     'payload-kv': PayloadKv;
     'payload-locked-documents': PayloadLockedDocument;
     'payload-preferences': PayloadPreference;
@@ -78,6 +89,16 @@ export interface Config {
   collectionsSelect: {
     users: UsersSelect<false> | UsersSelect<true>;
     media: MediaSelect<false> | MediaSelect<true>;
+    seoPages: SeoPagesSelect<false> | SeoPagesSelect<true>;
+    authors: AuthorsSelect<false> | AuthorsSelect<true>;
+    blogCategories: BlogCategoriesSelect<false> | BlogCategoriesSelect<true>;
+    articles: ArticlesSelect<false> | ArticlesSelect<true>;
+    webinars: WebinarsSelect<false> | WebinarsSelect<true>;
+    faqs: FaqsSelect<false> | FaqsSelect<true>;
+    legalPages: LegalPagesSelect<false> | LegalPagesSelect<true>;
+    marketingItems: MarketingItemsSelect<false> | MarketingItemsSelect<true>;
+    pages: PagesSelect<false> | PagesSelect<true>;
+    'payload-mcp-api-keys': PayloadMcpApiKeysSelect<false> | PayloadMcpApiKeysSelect<true>;
     'payload-kv': PayloadKvSelect<false> | PayloadKvSelect<true>;
     'payload-locked-documents': PayloadLockedDocumentsSelect<false> | PayloadLockedDocumentsSelect<true>;
     'payload-preferences': PayloadPreferencesSelect<false> | PayloadPreferencesSelect<true>;
@@ -86,14 +107,27 @@ export interface Config {
   db: {
     defaultIDType: string;
   };
-  fallbackLocale: null;
-  globals: {};
-  globalsSelect: {};
-  locale: null;
+  fallbackLocale:
+    | ('false' | 'none' | 'null')
+    | false
+    | null
+    | ('en' | 'hi' | 'es' | 'fr' | 'de' | 'pt' | 'zh' | 'ar' | 'ja' | 'ko')
+    | ('en' | 'hi' | 'es' | 'fr' | 'de' | 'pt' | 'zh' | 'ar' | 'ja' | 'ko')[];
+  globals: {
+    siteSettings: SiteSetting;
+    structuredData: StructuredDatum;
+    platformMetrics: PlatformMetric;
+  };
+  globalsSelect: {
+    siteSettings: SiteSettingsSelect<false> | SiteSettingsSelect<true>;
+    structuredData: StructuredDataSelect<false> | StructuredDataSelect<true>;
+    platformMetrics: PlatformMetricsSelect<false> | PlatformMetricsSelect<true>;
+  };
+  locale: 'en' | 'hi' | 'es' | 'fr' | 'de' | 'pt' | 'zh' | 'ar' | 'ja' | 'ko';
   widgets: {
     collections: CollectionsWidget;
   };
-  user: User;
+  user: User | PayloadMcpApiKey;
   jobs: {
     tasks: unknown;
     workflows: unknown;
@@ -117,14 +151,36 @@ export interface UserAuthOperations {
     password: string;
   };
 }
+export interface PayloadMcpApiKeyAuthOperations {
+  forgotPassword: {
+    email: string;
+    password: string;
+  };
+  login: {
+    email: string;
+    password: string;
+  };
+  registerFirstUser: {
+    email: string;
+    password: string;
+  };
+  unlock: {
+    email: string;
+    password: string;
+  };
+}
 /**
  * This interface was referenced by `Config`'s JSON-Schema
  * via the `definition` "users".
  */
 export interface User {
   id: string;
+  name?: string | null;
   updatedAt: string;
   createdAt: string;
+  enableAPIKey?: boolean | null;
+  apiKey?: string | null;
+  apiKeyIndex?: string | null;
   email: string;
   resetPasswordToken?: string | null;
   resetPasswordExpiration?: string | null;
@@ -163,6 +219,658 @@ export interface Media {
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "seoPages".
+ */
+export interface SeoPage {
+  id: string;
+  /**
+   * e.g. home, agent, pricing — matches SEOPageHead `page` prop
+   */
+  key: string;
+  title: string;
+  description: string;
+  /**
+   * Comma-separated
+   */
+  keywords?: string | null;
+  /**
+   * Relative path, e.g. /solutions. Build derives the absolute URL.
+   */
+  canonicalPath: string;
+  ogImage?: string | null;
+  noindex?: boolean | null;
+  /**
+   * Uncheck for keys no page renders today (~19 of them). Kept for reference; excluded from the generated bundle.
+   */
+  inUse?: boolean | null;
+  updatedAt: string;
+  createdAt: string;
+  _status?: ('draft' | 'published') | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "authors".
+ */
+export interface Author {
+  id: string;
+  name: string;
+  slug: string;
+  shortBio?: string | null;
+  bio?: string | null;
+  /**
+   * Image URL or /images/... path
+   */
+  avatar?: string | null;
+  links?:
+    | {
+        label: string;
+        url: string;
+        id?: string | null;
+      }[]
+    | null;
+  updatedAt: string;
+  createdAt: string;
+  _status?: ('draft' | 'published') | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "blogCategories".
+ */
+export interface BlogCategory {
+  id: string;
+  /**
+   * getting-started | client-management | scheduling-booking | analytics-reports
+   */
+  slug: string;
+  name: string;
+  description?: string | null;
+  /**
+   * lucide-react icon name
+   */
+  icon?: string | null;
+  seo?: {
+    title?: string | null;
+    description?: string | null;
+    keywords?: string | null;
+  };
+  updatedAt: string;
+  createdAt: string;
+  _status?: ('draft' | 'published') | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "articles".
+ */
+export interface Article {
+  id: string;
+  title: string;
+  slug: string;
+  excerpt: string;
+  category: string | BlogCategory;
+  author: string | Author;
+  publishedDate: string;
+  updatedDate?: string | null;
+  /**
+   * e.g. "6 min read"
+   */
+  readTime?: string | null;
+  /**
+   * Image URL or /images/... path
+   */
+  heroImage?: string | null;
+  tags?:
+    | {
+        tag: string;
+        id?: string | null;
+      }[]
+    | null;
+  body: {
+    root: {
+      type: string;
+      children: {
+        type: any;
+        version: number;
+        [k: string]: unknown;
+      }[];
+      direction: ('ltr' | 'rtl') | null;
+      format: 'left' | 'start' | 'center' | 'right' | 'end' | 'justify' | '';
+      indent: number;
+      version: number;
+    };
+    [k: string]: unknown;
+  };
+  /**
+   * Replaces the per-file relatedArticles arrays
+   */
+  related?: (string | Article)[] | null;
+  /**
+   * Optional per-document SEO overrides. Blank = use the page default.
+   */
+  seo?: {
+    title?: string | null;
+    description?: string | null;
+    /**
+     * Comma-separated
+     */
+    keywords?: string | null;
+    /**
+     * Relative, e.g. /blog/my-post
+     */
+    canonicalPath?: string | null;
+    ogImage?: string | null;
+    noindex?: boolean | null;
+  };
+  updatedAt: string;
+  createdAt: string;
+  _status?: ('draft' | 'published') | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "webinars".
+ */
+export interface Webinar {
+  id: string;
+  /**
+   * Was `id` in webinarData.ts
+   */
+  slug: string;
+  title: string;
+  subtitle?: string | null;
+  description?: string | null;
+  longDescription?: {
+    root: {
+      type: string;
+      children: {
+        type: any;
+        version: number;
+        [k: string]: unknown;
+      }[];
+      direction: ('ltr' | 'rtl') | null;
+      format: 'left' | 'start' | 'center' | 'right' | 'end' | 'justify' | '';
+      indent: number;
+      version: number;
+    };
+    [k: string]: unknown;
+  } | null;
+  instructor: {
+    name: string;
+    title?: string | null;
+    bio?: string | null;
+    image?: string | null;
+    credentials?:
+      | {
+          value: string;
+          id?: string | null;
+        }[]
+      | null;
+  };
+  schedule?: {
+    /**
+     * Display string, e.g. "March 15, 2026"
+     */
+    date?: string | null;
+    time?: string | null;
+    duration?: string | null;
+    timezone?: string | null;
+  };
+  topics?:
+    | {
+        value: string;
+        id?: string | null;
+      }[]
+    | null;
+  benefits?:
+    | {
+        value: string;
+        id?: string | null;
+      }[]
+    | null;
+  targetAudience?:
+    | {
+        value: string;
+        id?: string | null;
+      }[]
+    | null;
+  features?:
+    | {
+        value: string;
+        id?: string | null;
+      }[]
+    | null;
+  prerequisites?:
+    | {
+        value: string;
+        id?: string | null;
+      }[]
+    | null;
+  materialsIncluded?:
+    | {
+        value: string;
+        id?: string | null;
+      }[]
+    | null;
+  price?: {
+    amount?: number | null;
+    currency?: string | null;
+    originalPrice?: number | null;
+  };
+  category?: string | null;
+  level?: ('Beginner' | 'Intermediate' | 'Advanced') | null;
+  language?:
+    | {
+        value: string;
+        id?: string | null;
+      }[]
+    | null;
+  maxParticipants?: number | null;
+  currentRegistrations?: number | null;
+  certificateProvided?: boolean | null;
+  recordingAvailable?: boolean | null;
+  tags?:
+    | {
+        value: string;
+        id?: string | null;
+      }[]
+    | null;
+  /**
+   * Optional per-document SEO overrides. Blank = use the page default.
+   */
+  seo?: {
+    title?: string | null;
+    description?: string | null;
+    /**
+     * Comma-separated
+     */
+    keywords?: string | null;
+    /**
+     * Relative, e.g. /blog/my-post
+     */
+    canonicalPath?: string | null;
+    ogImage?: string | null;
+    noindex?: boolean | null;
+  };
+  updatedAt: string;
+  createdAt: string;
+  _status?: ('draft' | 'published') | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "faqs".
+ */
+export interface Faq {
+  id: string;
+  question: string;
+  answer: {
+    root: {
+      type: string;
+      children: {
+        type: any;
+        version: number;
+        [k: string]: unknown;
+      }[];
+      direction: ('ltr' | 'rtl') | null;
+      format: 'left' | 'start' | 'center' | 'right' | 'end' | 'justify' | '';
+      indent: number;
+      version: number;
+    };
+    [k: string]: unknown;
+  };
+  category?: ('getting-started' | 'billing' | 'features' | 'account' | 'technical' | 'general') | null;
+  order?: number | null;
+  /**
+   * Routes whose JSON-LD should include this Q&A
+   */
+  featuredOnPages?: ('faq' | 'home' | 'pricing' | 'features' | 'agent' | 'ai-integration' | 'marketplace')[] | null;
+  updatedAt: string;
+  createdAt: string;
+  _status?: ('draft' | 'published') | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "legalPages".
+ */
+export interface LegalPage {
+  id: string;
+  /**
+   * privacy-policy | terms-of-service | refund-policy | gst-policy | app-privacy-policy
+   */
+  slug: string;
+  title: string;
+  lastUpdated?: string | null;
+  body: {
+    root: {
+      type: string;
+      children: {
+        type: any;
+        version: number;
+        [k: string]: unknown;
+      }[];
+      direction: ('ltr' | 'rtl') | null;
+      format: 'left' | 'start' | 'center' | 'right' | 'end' | 'justify' | '';
+      indent: number;
+      version: number;
+    };
+    [k: string]: unknown;
+  };
+  /**
+   * Optional per-document SEO overrides. Blank = use the page default.
+   */
+  seo?: {
+    title?: string | null;
+    description?: string | null;
+    /**
+     * Comma-separated
+     */
+    keywords?: string | null;
+    /**
+     * Relative, e.g. /blog/my-post
+     */
+    canonicalPath?: string | null;
+    ogImage?: string | null;
+    noindex?: boolean | null;
+  };
+  updatedAt: string;
+  createdAt: string;
+  _status?: ('draft' | 'published') | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "marketingItems".
+ */
+export interface MarketingItem {
+  id: string;
+  groupKey:
+    | 'home.mainFeatures'
+    | 'home.quickStats'
+    | 'home.valueProps'
+    | 'home.appFeatures'
+    | 'home.capabilities'
+    | 'testimonials'
+    | 'successStories.caseStudies'
+    | 'trainingVideos'
+    | 'productShowcase'
+    | 'demoCaptions.agent'
+    | 'demoCaptions.aiCoach'
+    | 'demoCaptions.mcpConnect';
+  order?: number | null;
+  /**
+   * lucide-react icon name
+   */
+  icon?: string | null;
+  title?: string | null;
+  body?: string | null;
+  /**
+   * e.g. "40%", "4.8/5"
+   */
+  metric?: string | null;
+  metricLabel?: string | null;
+  image?: string | null;
+  href?: string | null;
+  /**
+   * Odd one-off fields for this group
+   */
+  extra?:
+    | {
+        [k: string]: unknown;
+      }
+    | unknown[]
+    | string
+    | number
+    | boolean
+    | null;
+  updatedAt: string;
+  createdAt: string;
+  _status?: ('draft' | 'published') | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "pages".
+ */
+export interface Page {
+  id: string;
+  pageKey:
+    | 'home'
+    | 'ai-integration'
+    | 'marketplace'
+    | 'agent'
+    | 'success-stories'
+    | 'training-videos'
+    | 'getting-started'
+    | 'contact-support';
+  hero?: {
+    eyebrow?: string | null;
+    heading?: string | null;
+    subheading?: string | null;
+    primaryCta?: {
+      label?: string | null;
+      href?: string | null;
+    };
+    secondaryCta?: {
+      label?: string | null;
+      href?: string | null;
+    };
+  };
+  sections?: {
+    root: {
+      type: string;
+      children: {
+        type: any;
+        version: number;
+        [k: string]: unknown;
+      }[];
+      direction: ('ltr' | 'rtl') | null;
+      format: 'left' | 'start' | 'center' | 'right' | 'end' | 'justify' | '';
+      indent: number;
+      version: number;
+    };
+    [k: string]: unknown;
+  } | null;
+  /**
+   * Optional per-document SEO overrides. Blank = use the page default.
+   */
+  seo?: {
+    title?: string | null;
+    description?: string | null;
+    /**
+     * Comma-separated
+     */
+    keywords?: string | null;
+    /**
+     * Relative, e.g. /blog/my-post
+     */
+    canonicalPath?: string | null;
+    ogImage?: string | null;
+    noindex?: boolean | null;
+  };
+  updatedAt: string;
+  createdAt: string;
+  _status?: ('draft' | 'published') | null;
+}
+/**
+ * API keys control which collections, resources, tools, and prompts MCP clients can access
+ *
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "payload-mcp-api-keys".
+ */
+export interface PayloadMcpApiKey {
+  id: string;
+  /**
+   * The user that the API key is associated with.
+   */
+  user: string | User;
+  /**
+   * A useful label for the API key.
+   */
+  label?: string | null;
+  /**
+   * The purpose of the API key.
+   */
+  description?: string | null;
+  seoPages?: {
+    /**
+     * Allow clients to find seoPages.
+     */
+    find?: boolean | null;
+    /**
+     * Allow clients to create seoPages.
+     */
+    create?: boolean | null;
+    /**
+     * Allow clients to update seoPages.
+     */
+    update?: boolean | null;
+  };
+  articles?: {
+    /**
+     * Allow clients to find articles.
+     */
+    find?: boolean | null;
+    /**
+     * Allow clients to create articles.
+     */
+    create?: boolean | null;
+    /**
+     * Allow clients to update articles.
+     */
+    update?: boolean | null;
+  };
+  authors?: {
+    /**
+     * Allow clients to find authors.
+     */
+    find?: boolean | null;
+    /**
+     * Allow clients to create authors.
+     */
+    create?: boolean | null;
+    /**
+     * Allow clients to update authors.
+     */
+    update?: boolean | null;
+  };
+  blogCategories?: {
+    /**
+     * Allow clients to find blogCategories.
+     */
+    find?: boolean | null;
+    /**
+     * Allow clients to create blogCategories.
+     */
+    create?: boolean | null;
+    /**
+     * Allow clients to update blogCategories.
+     */
+    update?: boolean | null;
+  };
+  webinars?: {
+    /**
+     * Allow clients to find webinars.
+     */
+    find?: boolean | null;
+    /**
+     * Allow clients to create webinars.
+     */
+    create?: boolean | null;
+    /**
+     * Allow clients to update webinars.
+     */
+    update?: boolean | null;
+  };
+  faqs?: {
+    /**
+     * Allow clients to find faqs.
+     */
+    find?: boolean | null;
+    /**
+     * Allow clients to create faqs.
+     */
+    create?: boolean | null;
+    /**
+     * Allow clients to update faqs.
+     */
+    update?: boolean | null;
+  };
+  legalPages?: {
+    /**
+     * Allow clients to find legalPages.
+     */
+    find?: boolean | null;
+    /**
+     * Allow clients to create legalPages.
+     */
+    create?: boolean | null;
+    /**
+     * Allow clients to update legalPages.
+     */
+    update?: boolean | null;
+  };
+  marketingItems?: {
+    /**
+     * Allow clients to find marketingItems.
+     */
+    find?: boolean | null;
+    /**
+     * Allow clients to create marketingItems.
+     */
+    create?: boolean | null;
+    /**
+     * Allow clients to update marketingItems.
+     */
+    update?: boolean | null;
+  };
+  pages?: {
+    /**
+     * Allow clients to find pages.
+     */
+    find?: boolean | null;
+    /**
+     * Allow clients to create pages.
+     */
+    create?: boolean | null;
+    /**
+     * Allow clients to update pages.
+     */
+    update?: boolean | null;
+  };
+  siteSettings?: {
+    /**
+     * Allow clients to find siteSettings global.
+     */
+    find?: boolean | null;
+    /**
+     * Allow clients to update siteSettings global.
+     */
+    update?: boolean | null;
+  };
+  structuredData?: {
+    /**
+     * Allow clients to find structuredData global.
+     */
+    find?: boolean | null;
+    /**
+     * Allow clients to update structuredData global.
+     */
+    update?: boolean | null;
+  };
+  platformMetrics?: {
+    /**
+     * Allow clients to find platformMetrics global.
+     */
+    find?: boolean | null;
+    /**
+     * Allow clients to update platformMetrics global.
+     */
+    update?: boolean | null;
+  };
+  updatedAt: string;
+  createdAt: string;
+  enableAPIKey?: boolean | null;
+  apiKey?: string | null;
+  apiKeyIndex?: string | null;
+  collection: 'payload-mcp-api-keys';
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
  * via the `definition` "payload-kv".
  */
 export interface PayloadKv {
@@ -192,12 +900,57 @@ export interface PayloadLockedDocument {
     | ({
         relationTo: 'media';
         value: string | Media;
+      } | null)
+    | ({
+        relationTo: 'seoPages';
+        value: string | SeoPage;
+      } | null)
+    | ({
+        relationTo: 'authors';
+        value: string | Author;
+      } | null)
+    | ({
+        relationTo: 'blogCategories';
+        value: string | BlogCategory;
+      } | null)
+    | ({
+        relationTo: 'articles';
+        value: string | Article;
+      } | null)
+    | ({
+        relationTo: 'webinars';
+        value: string | Webinar;
+      } | null)
+    | ({
+        relationTo: 'faqs';
+        value: string | Faq;
+      } | null)
+    | ({
+        relationTo: 'legalPages';
+        value: string | LegalPage;
+      } | null)
+    | ({
+        relationTo: 'marketingItems';
+        value: string | MarketingItem;
+      } | null)
+    | ({
+        relationTo: 'pages';
+        value: string | Page;
+      } | null)
+    | ({
+        relationTo: 'payload-mcp-api-keys';
+        value: string | PayloadMcpApiKey;
       } | null);
   globalSlug?: string | null;
-  user: {
-    relationTo: 'users';
-    value: string | User;
-  };
+  user:
+    | {
+        relationTo: 'users';
+        value: string | User;
+      }
+    | {
+        relationTo: 'payload-mcp-api-keys';
+        value: string | PayloadMcpApiKey;
+      };
   updatedAt: string;
   createdAt: string;
 }
@@ -207,10 +960,15 @@ export interface PayloadLockedDocument {
  */
 export interface PayloadPreference {
   id: string;
-  user: {
-    relationTo: 'users';
-    value: string | User;
-  };
+  user:
+    | {
+        relationTo: 'users';
+        value: string | User;
+      }
+    | {
+        relationTo: 'payload-mcp-api-keys';
+        value: string | PayloadMcpApiKey;
+      };
   key?: string | null;
   value?:
     | {
@@ -240,8 +998,12 @@ export interface PayloadMigration {
  * via the `definition` "users_select".
  */
 export interface UsersSelect<T extends boolean = true> {
+  name?: T;
   updatedAt?: T;
   createdAt?: T;
+  enableAPIKey?: T;
+  apiKey?: T;
+  apiKeyIndex?: T;
   email?: T;
   resetPasswordToken?: T;
   resetPasswordExpiration?: T;
@@ -274,6 +1036,398 @@ export interface MediaSelect<T extends boolean = true> {
   height?: T;
   focalX?: T;
   focalY?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "seoPages_select".
+ */
+export interface SeoPagesSelect<T extends boolean = true> {
+  key?: T;
+  title?: T;
+  description?: T;
+  keywords?: T;
+  canonicalPath?: T;
+  ogImage?: T;
+  noindex?: T;
+  inUse?: T;
+  updatedAt?: T;
+  createdAt?: T;
+  _status?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "authors_select".
+ */
+export interface AuthorsSelect<T extends boolean = true> {
+  name?: T;
+  slug?: T;
+  shortBio?: T;
+  bio?: T;
+  avatar?: T;
+  links?:
+    | T
+    | {
+        label?: T;
+        url?: T;
+        id?: T;
+      };
+  updatedAt?: T;
+  createdAt?: T;
+  _status?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "blogCategories_select".
+ */
+export interface BlogCategoriesSelect<T extends boolean = true> {
+  slug?: T;
+  name?: T;
+  description?: T;
+  icon?: T;
+  seo?:
+    | T
+    | {
+        title?: T;
+        description?: T;
+        keywords?: T;
+      };
+  updatedAt?: T;
+  createdAt?: T;
+  _status?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "articles_select".
+ */
+export interface ArticlesSelect<T extends boolean = true> {
+  title?: T;
+  slug?: T;
+  excerpt?: T;
+  category?: T;
+  author?: T;
+  publishedDate?: T;
+  updatedDate?: T;
+  readTime?: T;
+  heroImage?: T;
+  tags?:
+    | T
+    | {
+        tag?: T;
+        id?: T;
+      };
+  body?: T;
+  related?: T;
+  seo?:
+    | T
+    | {
+        title?: T;
+        description?: T;
+        keywords?: T;
+        canonicalPath?: T;
+        ogImage?: T;
+        noindex?: T;
+      };
+  updatedAt?: T;
+  createdAt?: T;
+  _status?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "webinars_select".
+ */
+export interface WebinarsSelect<T extends boolean = true> {
+  slug?: T;
+  title?: T;
+  subtitle?: T;
+  description?: T;
+  longDescription?: T;
+  instructor?:
+    | T
+    | {
+        name?: T;
+        title?: T;
+        bio?: T;
+        image?: T;
+        credentials?:
+          | T
+          | {
+              value?: T;
+              id?: T;
+            };
+      };
+  schedule?:
+    | T
+    | {
+        date?: T;
+        time?: T;
+        duration?: T;
+        timezone?: T;
+      };
+  topics?:
+    | T
+    | {
+        value?: T;
+        id?: T;
+      };
+  benefits?:
+    | T
+    | {
+        value?: T;
+        id?: T;
+      };
+  targetAudience?:
+    | T
+    | {
+        value?: T;
+        id?: T;
+      };
+  features?:
+    | T
+    | {
+        value?: T;
+        id?: T;
+      };
+  prerequisites?:
+    | T
+    | {
+        value?: T;
+        id?: T;
+      };
+  materialsIncluded?:
+    | T
+    | {
+        value?: T;
+        id?: T;
+      };
+  price?:
+    | T
+    | {
+        amount?: T;
+        currency?: T;
+        originalPrice?: T;
+      };
+  category?: T;
+  level?: T;
+  language?:
+    | T
+    | {
+        value?: T;
+        id?: T;
+      };
+  maxParticipants?: T;
+  currentRegistrations?: T;
+  certificateProvided?: T;
+  recordingAvailable?: T;
+  tags?:
+    | T
+    | {
+        value?: T;
+        id?: T;
+      };
+  seo?:
+    | T
+    | {
+        title?: T;
+        description?: T;
+        keywords?: T;
+        canonicalPath?: T;
+        ogImage?: T;
+        noindex?: T;
+      };
+  updatedAt?: T;
+  createdAt?: T;
+  _status?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "faqs_select".
+ */
+export interface FaqsSelect<T extends boolean = true> {
+  question?: T;
+  answer?: T;
+  category?: T;
+  order?: T;
+  featuredOnPages?: T;
+  updatedAt?: T;
+  createdAt?: T;
+  _status?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "legalPages_select".
+ */
+export interface LegalPagesSelect<T extends boolean = true> {
+  slug?: T;
+  title?: T;
+  lastUpdated?: T;
+  body?: T;
+  seo?:
+    | T
+    | {
+        title?: T;
+        description?: T;
+        keywords?: T;
+        canonicalPath?: T;
+        ogImage?: T;
+        noindex?: T;
+      };
+  updatedAt?: T;
+  createdAt?: T;
+  _status?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "marketingItems_select".
+ */
+export interface MarketingItemsSelect<T extends boolean = true> {
+  groupKey?: T;
+  order?: T;
+  icon?: T;
+  title?: T;
+  body?: T;
+  metric?: T;
+  metricLabel?: T;
+  image?: T;
+  href?: T;
+  extra?: T;
+  updatedAt?: T;
+  createdAt?: T;
+  _status?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "pages_select".
+ */
+export interface PagesSelect<T extends boolean = true> {
+  pageKey?: T;
+  hero?:
+    | T
+    | {
+        eyebrow?: T;
+        heading?: T;
+        subheading?: T;
+        primaryCta?:
+          | T
+          | {
+              label?: T;
+              href?: T;
+            };
+        secondaryCta?:
+          | T
+          | {
+              label?: T;
+              href?: T;
+            };
+      };
+  sections?: T;
+  seo?:
+    | T
+    | {
+        title?: T;
+        description?: T;
+        keywords?: T;
+        canonicalPath?: T;
+        ogImage?: T;
+        noindex?: T;
+      };
+  updatedAt?: T;
+  createdAt?: T;
+  _status?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "payload-mcp-api-keys_select".
+ */
+export interface PayloadMcpApiKeysSelect<T extends boolean = true> {
+  user?: T;
+  label?: T;
+  description?: T;
+  seoPages?:
+    | T
+    | {
+        find?: T;
+        create?: T;
+        update?: T;
+      };
+  articles?:
+    | T
+    | {
+        find?: T;
+        create?: T;
+        update?: T;
+      };
+  authors?:
+    | T
+    | {
+        find?: T;
+        create?: T;
+        update?: T;
+      };
+  blogCategories?:
+    | T
+    | {
+        find?: T;
+        create?: T;
+        update?: T;
+      };
+  webinars?:
+    | T
+    | {
+        find?: T;
+        create?: T;
+        update?: T;
+      };
+  faqs?:
+    | T
+    | {
+        find?: T;
+        create?: T;
+        update?: T;
+      };
+  legalPages?:
+    | T
+    | {
+        find?: T;
+        create?: T;
+        update?: T;
+      };
+  marketingItems?:
+    | T
+    | {
+        find?: T;
+        create?: T;
+        update?: T;
+      };
+  pages?:
+    | T
+    | {
+        find?: T;
+        create?: T;
+        update?: T;
+      };
+  siteSettings?:
+    | T
+    | {
+        find?: T;
+        update?: T;
+      };
+  structuredData?:
+    | T
+    | {
+        find?: T;
+        update?: T;
+      };
+  platformMetrics?:
+    | T
+    | {
+        find?: T;
+        update?: T;
+      };
+  updatedAt?: T;
+  createdAt?: T;
+  enableAPIKey?: T;
+  apiKey?: T;
+  apiKeyIndex?: T;
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
@@ -317,6 +1471,192 @@ export interface PayloadMigrationsSelect<T extends boolean = true> {
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "siteSettings".
+ */
+export interface SiteSetting {
+  id: string;
+  siteName?: string | null;
+  orgDescription?: string | null;
+  logoUrl?: string | null;
+  ogImageDefault?: string | null;
+  /**
+   * schema.org sameAs list
+   */
+  social?:
+    | {
+        platform: string;
+        url: string;
+        id?: string | null;
+      }[]
+    | null;
+  contact?: {
+    phone?: string | null;
+    email?: string | null;
+    addressLocality?: string | null;
+    addressRegion?: string | null;
+    addressCountry?: string | null;
+  };
+  foundingDate?: string | null;
+  _status?: ('draft' | 'published') | null;
+  updatedAt?: string | null;
+  createdAt?: string | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "structuredData".
+ */
+export interface StructuredDatum {
+  id: string;
+  softwareApplication?: {
+    name?: string | null;
+    softwareVersion?: string | null;
+    datePublished?: string | null;
+    applicationCategory?: string | null;
+    operatingSystem?:
+      | {
+          value: string;
+          id?: string | null;
+        }[]
+      | null;
+    offers?:
+      | {
+          name: string;
+          price: string;
+          priceCurrency?: string | null;
+          description?: string | null;
+          id?: string | null;
+        }[]
+      | null;
+    featureList?:
+      | {
+          value: string;
+          id?: string | null;
+        }[]
+      | null;
+  };
+  website?: {
+    /**
+     * e.g. https://trainzilla.in/search?q={search_term_string}
+     */
+    searchUrlTemplate?: string | null;
+  };
+  _status?: ('draft' | 'published') | null;
+  updatedAt?: string | null;
+  createdAt?: string | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "platformMetrics".
+ */
+export interface PlatformMetric {
+  id: string;
+  trainers?: string | null;
+  countries?: string | null;
+  clients?: string | null;
+  workouts?: string | null;
+  rating?: string | null;
+  cities?: string | null;
+  downloads?: string | null;
+  hoursSaved?: string | null;
+  _status?: ('draft' | 'published') | null;
+  updatedAt?: string | null;
+  createdAt?: string | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "siteSettings_select".
+ */
+export interface SiteSettingsSelect<T extends boolean = true> {
+  siteName?: T;
+  orgDescription?: T;
+  logoUrl?: T;
+  ogImageDefault?: T;
+  social?:
+    | T
+    | {
+        platform?: T;
+        url?: T;
+        id?: T;
+      };
+  contact?:
+    | T
+    | {
+        phone?: T;
+        email?: T;
+        addressLocality?: T;
+        addressRegion?: T;
+        addressCountry?: T;
+      };
+  foundingDate?: T;
+  _status?: T;
+  updatedAt?: T;
+  createdAt?: T;
+  globalType?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "structuredData_select".
+ */
+export interface StructuredDataSelect<T extends boolean = true> {
+  softwareApplication?:
+    | T
+    | {
+        name?: T;
+        softwareVersion?: T;
+        datePublished?: T;
+        applicationCategory?: T;
+        operatingSystem?:
+          | T
+          | {
+              value?: T;
+              id?: T;
+            };
+        offers?:
+          | T
+          | {
+              name?: T;
+              price?: T;
+              priceCurrency?: T;
+              description?: T;
+              id?: T;
+            };
+        featureList?:
+          | T
+          | {
+              value?: T;
+              id?: T;
+            };
+      };
+  website?:
+    | T
+    | {
+        searchUrlTemplate?: T;
+      };
+  _status?: T;
+  updatedAt?: T;
+  createdAt?: T;
+  globalType?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "platformMetrics_select".
+ */
+export interface PlatformMetricsSelect<T extends boolean = true> {
+  trainers?: T;
+  countries?: T;
+  clients?: T;
+  workouts?: T;
+  rating?: T;
+  cities?: T;
+  downloads?: T;
+  hoursSaved?: T;
+  _status?: T;
+  updatedAt?: T;
+  createdAt?: T;
+  globalType?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
  * via the `definition` "collections_widget".
  */
 export interface CollectionsWidget {
@@ -324,6 +1664,149 @@ export interface CollectionsWidget {
     [k: string]: unknown;
   };
   width: 'full';
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "CalloutBlock".
+ */
+export interface CalloutBlock {
+  variant?: ('info' | 'success' | 'warning' | 'tip') | null;
+  title?: string | null;
+  body: {
+    root: {
+      type: string;
+      children: {
+        type: any;
+        version: number;
+        [k: string]: unknown;
+      }[];
+      direction: ('ltr' | 'rtl') | null;
+      format: 'left' | 'start' | 'center' | 'right' | 'end' | 'justify' | '';
+      indent: number;
+      version: number;
+    };
+    [k: string]: unknown;
+  };
+  /**
+   * lucide-react icon name, optional
+   */
+  icon?: string | null;
+  id?: string | null;
+  blockName?: string | null;
+  blockType: 'callout';
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "StatGridBlock".
+ */
+export interface StatGridBlock {
+  items?:
+    | {
+        /**
+         * e.g. "40%", "2.5x"
+         */
+        value: string;
+        label: string;
+        /**
+         * optional colour token, e.g. "green"
+         */
+        accent?: string | null;
+        id?: string | null;
+      }[]
+    | null;
+  id?: string | null;
+  blockName?: string | null;
+  blockType: 'statGrid';
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "PullQuoteBlock".
+ */
+export interface PullQuoteBlock {
+  quote: string;
+  attribution?: string | null;
+  role?: string | null;
+  id?: string | null;
+  blockName?: string | null;
+  blockType: 'pullQuote';
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "CTACardBlock".
+ */
+export interface CTACardBlock {
+  heading: string;
+  body?: string | null;
+  buttonLabel: string;
+  buttonHref: string;
+  style?: ('gradient' | 'solid' | 'outline') | null;
+  id?: string | null;
+  blockName?: string | null;
+  blockType: 'ctaCard';
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "DataTableBlock".
+ */
+export interface DataTableBlock {
+  caption?: string | null;
+  columns?:
+    | {
+        header: string;
+        id?: string | null;
+      }[]
+    | null;
+  rows?:
+    | {
+        cells?:
+          | {
+              value?: string | null;
+              id?: string | null;
+            }[]
+          | null;
+        id?: string | null;
+      }[]
+    | null;
+  id?: string | null;
+  blockName?: string | null;
+  blockType: 'dataTable';
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "CardGridBlock".
+ */
+export interface CardGridBlock {
+  columns?: ('2' | '3' | '4') | null;
+  cards?:
+    | {
+        /**
+         * lucide-react icon name
+         */
+        icon?: string | null;
+        title: string;
+        body?: string | null;
+        href?: string | null;
+        id?: string | null;
+      }[]
+    | null;
+  id?: string | null;
+  blockName?: string | null;
+  blockType: 'cardGrid';
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "ImageBlockBlock".
+ */
+export interface ImageBlockBlock {
+  /**
+   * Absolute URL or /images/... path. Binary uploads are a follow-up.
+   */
+  src: string;
+  alt: string;
+  caption?: string | null;
+  id?: string | null;
+  blockName?: string | null;
+  blockType: 'imageBlock';
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema

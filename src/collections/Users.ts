@@ -4,10 +4,14 @@ export const Users: CollectionConfig = {
   slug: 'users',
   admin: {
     useAsTitle: 'email',
+    defaultColumns: ['name', 'email'],
   },
-  auth: true,
+  // useAPIKey lets a service user (e.g. build@trainzilla.in) hold a static key
+  // for `?draft=true` preview builds. Published builds need no key.
+  auth: {
+    useAPIKey: true,
+  },
   fields: [
-    // Email added by default
-    // Add more fields as needed
+    { name: 'name', type: 'text' },
   ],
 }

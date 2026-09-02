@@ -1,0 +1,2042 @@
+{
+  "root": {
+    "type": "root",
+    "format": "",
+    "indent": 0,
+    "version": 1,
+    "direction": "ltr",
+    "children": [
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "While metros like Mumbai and Delhi dominate fitness industry headlines, tier-2 cities present incredible opportunities for fitness entrepreneurs. With growing disposable incomes, increasing health awareness, and less market saturation, cities like Indore, Chandigarh, and Kochi are becoming fitness goldmines.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "The Tier-2 Fitness Market Opportunity",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Market Overview: Top Tier-2 Fitness Markets",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Indore",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Population: 3.3M",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Fitness Centers: 450+",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Avg Income: ₹35,000",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Chandigarh",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Population: 1.6M",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Fitness Centers: 280+",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Avg Income: ₹42,000",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Kochi",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Population: 2.1M",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Fitness Centers: 320+",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Avg Income: ₹38,000",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Coimbatore",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Population: 2.4M",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Fitness Centers: 380+",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Avg Income: ₹36,000",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Tier-2 cities are experiencing a fitness boom driven by several factors: rising disposable incomes, increasing health consciousness post-COVID, and the growing influence of social media fitness culture. Unlike saturated metro markets, these cities offer first-mover advantages and lower operational costs.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "pullQuote",
+          "quote": "I started my fitness business in Indore with just ₹2 lakhs. Today, I manage 4 locations and 200+ clients. The key was understanding the local market and building trust within the community.",
+          "attribution": "Priya Sharma, FitLife Studios, Indore",
+          "role": ""
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Key Success Strategies for Tier-2 Markets",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "1. Community-Centric Approach",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Tier-2 cities are built on relationships and community trust. Unlike metros where digital marketing drives business, word-of-mouth referrals are crucial in smaller cities.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "info",
+          "title": "Community Building Tactics:",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Partner with local doctors and health clinics for referrals",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Sponsor local sports events and marathons",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Organize free health camps in residential societies",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Collaborate with schools for children's fitness programs",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 5,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Join local business associations and chambers of commerce",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "2. Culturally Adapted Services",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Understanding local culture, festivals, and lifestyle patterns is crucial for long-term success. Your services need to align with regional preferences and traditions.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Regional Preferences",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Yoga and traditional exercises in morning slots",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Family-friendly group sessions",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Festival-specific fitness challenges",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Regional language communication",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Pricing Strategies",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Competitive pricing vs metro rates",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Flexible payment plans and EMI options",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Family packages and group discounts",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Seasonal membership offers",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "3. Smart Location Selection",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Real estate costs in tier-2 cities are significantly lower, allowing for strategic location choices that would be impossible in metros.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "success",
+          "title": "Prime Location Factors:",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Proximity to residential complexes and schools",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Easy parking availability",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Good connectivity via public transport",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Visibility from main roads",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 5,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Space for future expansion",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Revenue Diversification Strategies",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Successful tier-2 fitness businesses don't rely solely on membership fees. Multiple revenue streams ensure stability and growth.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Core Services",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Personal training",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Group fitness classes",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Corporate wellness",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Online coaching",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Additional Revenue",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Nutrition consulting",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Supplement sales",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Fitness equipment retail",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Wellness workshops",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Partnerships",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Healthcare providers",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Educational institutions",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Corporate tie-ups",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Event management",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Building Your Brand in Smaller Markets",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Brand building in tier-2 cities requires a different approach than metros. Personal reputation, community involvement, and consistent service quality are more important than flashy marketing campaigns.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "warning",
+          "title": "Brand Building Checklist:",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "",
+                          "version": 1
+                        },
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Establish yourself as a local fitness expert through workshops and seminars",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "",
+                          "version": 1
+                        },
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Create content in regional languages for social media",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "",
+                          "version": 1
+                        },
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Partner with local media for health and fitness segments",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "",
+                          "version": 1
+                        },
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Develop signature programs unique to your city's needs",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 5,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "",
+                          "version": 1
+                        },
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Build strong relationships with existing clients for referrals",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Common Pitfalls to Avoid",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Learning from others' mistakes can save you time, money, and frustration. Here are the most common errors tier-2 fitness entrepreneurs make:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "warning",
+          "title": "Overestimating Market Size",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Don't assume metro-level demand exists. Start small, validate your market, then scale gradually.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "warning",
+          "title": "Ignoring Local Competition",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Research existing players thoroughly. Find gaps in their services or areas where you can differentiate.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "info",
+          "title": "Over-investing in Equipment Initially",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Start with essential equipment. Invest in advanced machines only after establishing steady clientele.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "The Financial Reality",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Tier-2 city fitness businesses can be highly profitable with lower overhead costs and strong community loyalty. Here's what you can expect:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Typical Financial Projections (Year 1):",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Investment Required:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Initial setup: ₹3-8 lakhs",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Working capital: ₹2-4 lakhs",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Marketing: ₹50,000-1 lakh",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Expected Returns:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Monthly revenue: ₹2-6 lakhs",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Break-even: 8-12 months",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "ROI by year 2: 25-40%",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Taking the Next Step",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "The tier-2 fitness market offers incredible opportunities for entrepreneurs willing to understand local dynamics and build authentic community connections. Success comes to those who combine business acumen with genuine care for their clients' health and fitness goals.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Remember, in tier-2 cities, you're not just running a business – you're becoming a pillar of the community's health and wellness journey.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "ctaCard",
+          "heading": "Ready to Start Your Tier-2 Fitness Business?",
+          "body": "TrainZilla provides the tools and support you need to build a successful fitness business in any Indian city. Join 100+ early adopter coaches today.",
+          "buttonLabel": "Start Your Business Journey",
+          "buttonHref": "/register",
+          "style": "gradient"
+        }
+      }
+    ]
+  }
+}

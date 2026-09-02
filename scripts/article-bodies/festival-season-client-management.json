@@ -1,0 +1,2276 @@
+{
+  "root": {
+    "type": "root",
+    "format": "",
+    "indent": 0,
+    "version": 1,
+    "direction": "ltr",
+    "children": [
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "India celebrates over 50 major festivals annually, and each one presents unique challenges for fitness professionals. With proper planning and the right mindset, festival seasons can actually strengthen your client relationships rather than derail their progress.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Understanding Festival Challenges",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Indian festivals are deeply rooted in family traditions, social obligations, and cultural celebrations. As a fitness professional, your role isn't to restrict clients from participating, but to help them navigate these periods with balance and confidence.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "warning",
+          "title": "Major Festival Challenges & Solutions:",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "heading",
+                  "tag": "h4",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Diwali Season",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Duration: 5 days",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Challenge: Sweets, late nights, family gatherings",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Strategy: Pre-festival prep, damage control approach",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "tag": "h4",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Holi",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Duration: 2-3 days",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Challenge: Heavy foods, alcohol, disrupted sleep",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Strategy: Quick recovery protocols, hydration focus",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "tag": "h4",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Navratri",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Duration: 9 days",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Challenge: Fasting, irregular eating, late-night dancing",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Strategy: Fasting-friendly workouts, energy management",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "tag": "h4",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Eid/Christmas",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Duration: 1-2 days",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Challenge: Heavy meals, social obligations",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Strategy: Balance approach, enjoy guilt-free",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "pullQuote",
+          "quote": "The clients who succeed during festivals are those who understand it's about balance, not perfection. We plan for celebrations and focus on getting back on track, not avoiding life entirely.",
+          "attribution": "Experience from 8 years of festival seasons with 200+ clients",
+          "role": ""
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Pre-Festival Communication Strategy",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "The key to successful festival management starts weeks before the actual celebration. Proactive communication sets realistic expectations and prevents client guilt or abandonment.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Essential Pre-Festival Conversations",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Setting Realistic Expectations",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Acknowledge festival importance to family/culture",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Discuss typical festival eating patterns",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Set \"maintenance\" goals vs. aggressive targets",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Plan modified workout schedules",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Address common guilt and anxiety",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Practical Festival Planning",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Identify available workout windows",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Plan portable exercise options",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Discuss mindful eating strategies",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Create post-festival reset plan",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Schedule check-in touchpoints",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "The \"Festival Fitness Framework\"",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "This three-phase approach helps clients maintain their fitness identity while fully participating in celebrations:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "success",
+          "title": "Phase 1: Pre-Festival Prep (1-2 weeks before)",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Increase training intensity slightly, focus on building habits that can continue during festivals, educate about portion control and mindful eating.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "warning",
+          "title": "Phase 2: Festival Period (During celebrations)",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Maintain minimum effective dose of exercise, focus on damage control rather than progress, encourage enjoyment without guilt.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "info",
+          "title": "Phase 3: Post-Festival Reset (1 week after)",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Gradual return to normal routine, address any negative self-talk, use motivation from fresh start, plan next goals.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Festival-Specific Workout Strategies",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Different festivals require different approaches. Here are proven strategies for India's major celebrations:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Diwali Season (Most Challenging)",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "tip",
+          "title": "5-Day Diwali Survival Plan:",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "heading",
+                  "tag": "h4",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Days 1-2 (Dhanteras-Naraka):",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "20-minute morning HIIT sessions",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Focus on metabolism boosting exercises",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Evening stretching before family time",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "tag": "h4",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Days 3-5 (Lakshmi-Bhai Dooj):",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "10-minute bodyweight circuits",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Walking meetings with family",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Digestive yoga poses after meals",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Regional Festival Adaptations",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Each region has unique celebrations that require specific strategies:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "info",
+          "title": "South India (Onam, Pongal):",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Heavy rice-based meals",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Focus on digestive workouts",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Traditional dance as cardio",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Coconut water for hydration",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "info",
+          "title": "North India (Karva Chauth, Dussehra):",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Fasting periods consideration",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Modified workout intensity",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Evening social gatherings",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Sweet-heavy celebrations",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "info",
+          "title": "West India (Ganesh Chaturthi, Navratri):",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Extended celebration periods",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Dancing as primary cardio",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Community participation focus",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Late-night activities",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Managing Client Psychology",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "The biggest challenge isn't physical—it's mental. Festival periods trigger complex emotions around food, family expectations, and personal goals.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Common Client Concerns & Responses",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Concern: \"I don't want to disappoint my family by not eating\"",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Response:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " \"You can participate fully and still make mindful choices. Take small portions of everything, eat slowly, and focus on the celebration rather than restriction.\"",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Concern: \"I'll lose all my progress\"",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Response:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " \"5-7 days of celebration won't undo months of work. We plan for life, and festivals are part of life. Let's focus on getting back on track afterward.\"",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Concern: \"I feel guilty about skipping workouts\"",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Response:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " \"Family time and cultural participation are also forms of wellness. Missing a few workouts for meaningful connections is perfectly healthy.\"",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Post-Festival Recovery Protocol",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "The week after major festivals is crucial for re-establishing routine and momentum:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "success",
+          "title": "Week 1: Gentle Reset",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Hydration focus (3-4L water daily)",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Light, easy-to-digest meals",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "50% normal workout intensity",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "7-8 hours sleep priority",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 5,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Positive mindset reinforcement",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "info",
+          "title": "Week 2: Full Restart",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Return to normal training schedule",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Progressive intensity increase",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "New goal-setting session",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Meal planning restart",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 5,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Motivation boost activities",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Building Festival-Resilient Habits",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "The best approach is building habits that naturally withstand festival disruptions:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Year-Round Festival Preparation:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Flexible Habits:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "10-minute daily minimums",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Bodyweight exercise familiarity",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Mindful eating practices",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Stress management techniques",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Mental Resilience:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Progress tracking beyond weight",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Cultural celebration appreciation",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Long-term perspective focus",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Self-compassion practices",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "ctaCard",
+          "heading": "Master Festival Season Management",
+          "body": "TrainZilla's client management tools help you plan for festivals, track progress through celebrations, and maintain strong relationships year-round. Join trainers who've learned to work with India's festival calendar, not against it.",
+          "buttonLabel": "Improve Client Management",
+          "buttonHref": "/register",
+          "style": "gradient"
+        }
+      }
+    ]
+  }
+}

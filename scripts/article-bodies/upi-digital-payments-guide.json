@@ -1,0 +1,2593 @@
+{
+  "root": {
+    "type": "root",
+    "format": "",
+    "indent": 0,
+    "version": 1,
+    "direction": "ltr",
+    "children": [
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "In 2024, digital payments have become essential for fitness professionals across India. With UPI transactions growing by 50% annually and 95% of Indians using digital payments, accepting electronic payments isn't just convenient—it's necessary for business growth.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "The Digital Payment Revolution in India",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "India leads the world in digital payment adoption. For fitness trainers, this presents a massive opportunity to streamline payments, reduce cash handling, and attract tech-savvy clients who prefer cashless transactions.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "success",
+          "title": "Popular Payment Methods Comparison:",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "heading",
+                  "tag": "h4",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "UPI (Google Pay, PhonePe, Paytm)",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Fee: Free",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Settlement: Instant",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Usage: 95% of Indians",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "tag": "h4",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "QR Code Payments",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Fee: Free",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Settlement: Instant",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Usage: Very High",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "tag": "h4",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Digital Wallets",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Fee: 1.5-2%",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Settlement: 1-3 days",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Usage: High",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "tag": "h4",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Bank Transfers (IMPS/NEFT)",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Fee: ₹2-5",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Settlement: Instant-24hrs",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Usage: Medium",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "pullQuote",
+          "quote": "Switching to UPI payments increased my client retention by 30%. Clients love the convenience, and I never have to worry about collecting cash or giving change anymore.",
+          "attribution": "Priya Sharma, Personal Trainer, Mumbai (120+ clients)",
+          "role": ""
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Setting Up UPI Payments for Your Fitness Business",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Getting started with UPI payments is simpler than you think. Here's everything you need to know to start accepting digital payments today.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Essential Setup Requirements",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Basic Requirements",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Valid bank account with UPI enabled",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Smartphone with internet connection",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "PAN card for GST registration (if applicable)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Business bank account (recommended)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Government-issued ID proof",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Recommended Apps",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Google Pay for Business (Free QR codes)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "PhonePe Business (Analytics & insights)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Paytm Business (Multiple QR codes)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "BharatPe (Business loans & credit)",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "BHIM UPI (Government's official app)",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Step-by-Step Setup Guide",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Follow these steps to start accepting UPI payments in under 30 minutes:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "info",
+          "title": "Step 1: Choose Your Payment App",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Download Google Pay for Business or PhonePe Business. These offer the best features for fitness professionals, including QR code generation and transaction analytics.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "success",
+          "title": "Step 2: Link Your Bank Account",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Connect your business bank account to the app. This usually involves SMS verification and setting a UPI PIN for security.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "tip",
+          "title": "Step 3: Generate Your QR Code",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Create a business QR code with your name/business name. Print multiple copies for your training location, business cards, and WhatsApp status.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "warning",
+          "title": "Step 4: Test with a Small Payment",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "textFormat": 0,
+                  "children": [
+                    {
+                      "type": "text",
+                      "format": 0,
+                      "style": "",
+                      "mode": "normal",
+                      "detail": 0,
+                      "text": "Ask a friend or family member to send you ₹10 to test the system. Verify that money arrives in your account and notifications work properly.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Understanding GST for Fitness Professionals",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "If your annual income exceeds ₹20 lakhs (₹40 lakhs for northeastern states), GST registration becomes mandatory. Here's what you need to know:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "GST Basics for Trainers",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "tip",
+          "title": "GST Rates for Fitness Services:",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "",
+                          "version": 1
+                        },
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Personal training services: 18% GST",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "",
+                          "version": 1
+                        },
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Online fitness coaching: 18% GST",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "",
+                          "version": 1
+                        },
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Group fitness classes: 18% GST",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "",
+                          "version": 1
+                        },
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Nutrition consultation: 18% GST",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 5,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "!",
+                          "version": 1
+                        },
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Annual income below ₹20L: GST optional",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Managing GST with Digital Payments",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Digital payments make GST compliance easier by providing automatic transaction records:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "info",
+          "title": "Benefits:",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Automatic transaction records",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Easy monthly/quarterly reporting",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Reduced manual bookkeeping",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Digital receipts for clients",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "info",
+          "title": "Tools to Help:",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "ClearTax for GST filing",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Zoho Books for accounting",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "GSTN portal for returns",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Excel templates for tracking",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Maximizing Income with Payment Analytics",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Modern payment apps provide valuable insights that can help grow your fitness business:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Key Metrics to Track",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Essential Payment Analytics:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Revenue Metrics:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Daily/weekly/monthly income",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Average transaction amount",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Peak payment hours",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Client payment patterns",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Growth Indicators:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "New client acquisition rate",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Repeat payment frequency",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Service package popularity",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Seasonal trends analysis",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h3",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Using Data to Grow Your Business",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "tag": "ul",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "listitem",
+            "value": 1,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Peak Hours:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Schedule more sessions during high-payment periods",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 2,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Popular Services:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Focus marketing on your most profitable offerings",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 3,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Client Behavior:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Send payment reminders based on historical patterns",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 4,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Pricing Strategy:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Adjust rates based on demand and payment frequency",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "listitem",
+            "value": 5,
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Cash Flow:",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " Predict income to better manage business expenses",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Security Best Practices",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Protecting your payment setup is crucial for maintaining client trust and business security:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "warning",
+          "title": "Essential Security Measures:",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Never share your UPI PIN or banking passwords",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Verify client details before accepting large payments",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Use separate business and personal payment accounts",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Enable transaction notifications and monitor regularly",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 5,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Keep payment app updated to latest version",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Common Challenges and Solutions",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Here are the most frequent issues fitness trainers face with digital payments and how to solve them:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Challenge: Clients forgetting to pay",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Solution:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " Send payment reminders via WhatsApp with QR code attached. Set up automated reminders 1 day before due date.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Challenge: Network issues during payments",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Solution:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " Always have backup payment methods available. Accept offline payments and process when connectivity returns.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h4",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Challenge: Older clients uncomfortable with digital payments",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 1,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Solution:",
+            "version": 1
+          },
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": " Offer a hybrid approach. Show them how easy UPI is, but continue accepting cash until they're comfortable.",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "tag": "h2",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Getting Started: Your 7-Day Action Plan",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "textFormat": 0,
+        "children": [
+          {
+            "type": "text",
+            "format": 0,
+            "style": "",
+            "mode": "normal",
+            "detail": 0,
+            "text": "Ready to revolutionize your payment system? Here's your step-by-step guide:",
+            "version": 1
+          }
+        ]
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "success",
+          "title": "Days 1-2: Setup",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Download payment apps",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Link bank account",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Generate QR codes",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Test with small transactions",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "info",
+          "title": "Days 3-5: Implementation",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Inform existing clients",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Print QR codes for training space",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Update social media profiles",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Create payment reminder templates",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "callout",
+          "variant": "tip",
+          "title": "Days 6-7: Optimization",
+          "icon": null,
+          "body": {
+            "root": {
+              "type": "root",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "direction": "ltr",
+              "children": [
+                {
+                  "type": "list",
+                  "listType": "bullet",
+                  "start": 1,
+                  "tag": "ul",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "direction": "ltr",
+                  "children": [
+                    {
+                      "type": "listitem",
+                      "value": 1,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Monitor transaction patterns",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 2,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Gather client feedback",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 3,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Set up GST if required",
+                          "version": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listitem",
+                      "value": 4,
+                      "format": "",
+                      "indent": 0,
+                      "version": 1,
+                      "direction": "ltr",
+                      "children": [
+                        {
+                          "type": "text",
+                          "format": 0,
+                          "style": "",
+                          "mode": "normal",
+                          "detail": 0,
+                          "text": "Plan payment analytics review",
+                          "version": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "block",
+        "version": 2,
+        "format": "",
+        "fields": {
+          "blockType": "ctaCard",
+          "heading": "Ready to Go Cashless?",
+          "body": "TrainZilla integrates seamlessly with all major payment platforms, helping you track income, manage clients, and grow your fitness business. Join 100+ early adopter coaches who've simplified their payments and increased revenue.",
+          "buttonLabel": "Start Managing Payments Better",
+          "buttonHref": "/register",
+          "style": "gradient"
+        }
+      }
+    ]
+  }
+}

@@ -48,3 +48,7 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# local secrets / notes
+.mcp.local
+MCP_LOCAL_NOTES.md
