@@ -16,6 +16,7 @@ The Trainzilla CMS is live on the Square Brothers production VPS.
 | Nginx admin check | `Host: cms.trainzilla.in` on port 80 returns `200` before redirect |
 | HTTPS origin check | `https://cms.trainzilla.in/admin` returns `200` when resolved to the VPS origin |
 | TLS | Let's Encrypt certificate installed; Certbot renewal timer is enabled |
+| CMS seed | Completed against the production `trainzilla_cms` database on 2026-09-02 |
 
 ## Production Topology
 
@@ -60,11 +61,29 @@ The CMS certificate was created by Certbot after public resolvers confirmed the 
 
 `nginx -t` passes. It emits existing `protocol options redefined` warnings across the CMS and control-plane TLS sites; do not alter unrelated production TLS configuration as part of CMS maintenance without a separate review.
 
+## Seed Record
+
+The production seed scripts were run locally with the gitignored production CMS environment, which targets the same database as the server's `shared/.env`. This is intentional: deployed VPS releases are artifact-only and do not contain the Payload CLI or TypeScript seed sources.
+
+All seeded documents were verified as published:
+
+| Content | Published count |
+| --- | ---: |
+| SEO pages | 43 |
+| FAQs | 19 |
+| Webinars | 6 |
+| Authors | 7 |
+| Blog categories | 4 |
+| Articles | 7 |
+| Legal pages | 5 |
+
+The `users` collection already contained one record before this seed. Do not create another initial admin unless access to the existing account has been confirmed.
+
 ## Remaining Work
 
-- Create the first Payload admin at `https://cms.trainzilla.in/admin`.
-- Run the seed scripts only after reviewing the target content and confirming the new CMS database is intended to receive it.
-- Add `PAYLOAD_CMS_URL=https://cms.trainzilla.in` to the marketing site's Netlify build environment.
+- Confirm access to the existing Payload admin at `https://cms.trainzilla.in/admin`, then create an MCP API key with only the required capabilities.
+- Integrate the actual marketing-site repository with CMS fetching before redeploying it. The checked local marketing repository at `/Users/abhishek/Projects/trainzilla-website` is a Vite application and currently has no `cms:fetch` script, `PAYLOAD_CMS_URL` usage, or CMS endpoint reference; a Netlify redeploy of that repository will not consume CMS content yet.
+- Once that integration exists, add `PAYLOAD_CMS_URL=https://cms.trainzilla.in` to the marketing site's Netlify build environment and trigger one production deploy.
 - Add `NETLIFY_BUILD_HOOK_URL` to the private CMS environment if publish-triggered marketing rebuilds are wanted.
 - Add an email contact to the Certbot account or independently monitor certificate expiry.
 - Include `/home/ubuntu/apps/trainzilla-cms/shared/media` in production backups before relying on binary media uploads.
