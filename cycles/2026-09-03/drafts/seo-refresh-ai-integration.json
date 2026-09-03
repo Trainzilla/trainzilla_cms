@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "ai-integration",
+  "data": {
+    "title": "Connect Coaching Data to an AI Agent, Safely",
+    "description": "Give an AI agent access to clients, plans, habits and check-ins to draft weekly updates — bounded by guardrails, every write reviewed before a client sees it.",
+    "keywords": "AI agent for coaches, MCP fitness integration, connect coaching data to AI, AI workout automation, AI training plan guardrails, agentic coaching tools"
+  },
+  "_rationale": "Description was accurate but did not signal the safety/guardrails angle this cycle surfaced as the market gap; more technical searchers evaluating a data-access integration want to know the write path is bounded, not just \"reviewed\". Feature anchors: Guardrails on AI plan changes, Coach-in-the-loop review."
+}

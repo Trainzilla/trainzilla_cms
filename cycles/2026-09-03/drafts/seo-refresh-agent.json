@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "agent",
+  "data": {
+    "title": "AI Coaching Agent With Coach Approval & Guardrails",
+    "description": "TrainZilla's AI agent rewrites each client's plan weekly, explains every change in plain language, and stays inside the guardrails you set and approve.",
+    "keywords": "AI coaching agent, human-in-the-loop AI coaching, AI workout plan generator, coach approval AI workout plan, AI training plan guardrails, autonomous fitness coaching, AI diet plan generator"
+  },
+  "_rationale": "Was already strong but led with the generic \"writes and adjusts\" framing shared with ai-coach and home. Re-targeted the title and description toward the guardrails + plain-language-reason angle that research/competitive.md found no competitor markets, and added \"human-in-the-loop AI coaching\" and \"coach approval AI workout plan\" from research/keywords.md as supporting terms. Feature anchors: AI Coach agent weekly auto-adjust, Guardrails on AI plan changes."
+}

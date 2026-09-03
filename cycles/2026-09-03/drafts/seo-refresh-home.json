@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "home",
+  "data": {
+    "title": "AI Coaching Software for Trainers & Gyms | TrainZilla",
+    "description": "An AI agent weekly-adjusts every client’s plan and explains each change — you approve before it ships. Check-ins, payments, a client app. Start free.",
+    "keywords": "AI fitness coaching software, AI workout plan generator, personal trainer software, online coaching platform, coach approval AI workout plan, gym management software, client management for trainers"
+  },
+  "_rationale": "Homepage description already covered the weekly-adjust mechanic well; kept the title unchanged (it is doing its job) and tightened the description to add the explainability + approval trust signal that research/competitive.md found missing across every competitor’s homepage-equivalent page, without losing the existing payments/app/CTA content. Feature anchors: Coach-in-the-loop review, \"Why this changed\" rationale."
+}

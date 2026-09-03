@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "ai-coach",
+  "data": {
+    "title": "AI Fitness Coach With Weekly Auto-Adjust & Approval",
+    "description": "An AI fitness coach that rewrites workout and diet plans weekly from real logs and check-ins — bounded guardrails, your one-tap approval on every change.",
+    "keywords": "AI fitness coach, AI personal trainer, adaptive training plan, AI adjusts workout plan automatically, AI fitness coach with human oversight, personalised coaching app, AI workout plan generator"
+  },
+  "_rationale": "Overlapped heavily with the /agent page (\"adapts it weekly ... with a real coach reviewing\"). Differentiated by naming the weekly-rewrite mechanism and the guardrails, and pulled in \"AI adjusts workout plan automatically\" and \"AI fitness coach with human oversight\" from research/keywords.md, both flagged low-competition/nascent. Feature anchors: AI Coach agent weekly auto-adjust, Coach-in-the-loop review."
+}
