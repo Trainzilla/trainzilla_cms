@@ -12,6 +12,7 @@ LinkedIn / Instagram drafts.
 | `PLAYBOOK.md` | the scheduled cloud agent, weekly | full self-contained brief: research → drafts-as-files → PR |
 | `fetch-cms-state.mjs` | the agent (and you, anytime) | read-only snapshot of published CMS content into `cycles/<date>/inputs/` |
 | `_snapshot/` + `.github/workflows/seo-cms-snapshot.yml` | GitHub Action, Mondays 01:00 UTC | commits a fresh slim CMS snapshot into the repo, because the routine's sandbox can't reach `cms.trainzilla.in` directly |
+| `_images/` + `build-image-pool.mjs` + `.github/workflows/seo-image-pool.yml` | GitHub Action, Mondays 01:10 UTC | commits a pre-verified pool of commercially-usable CC images (Wikimedia Commons), one file per focus area, for the routine to pick hero + social images from — sandbox can't reach image hosts either. Most are CC BY / CC BY-SA: the attribution string ships with every use. |
 | `../docs/feature-inventory.md` | maintained by hand | the feature list content must anchor on; `[GAP]` = under-marketed, prioritise |
 | a PR titled `SEO cycle <date> — …` | opened by the agent | the week's output; **never auto-merged** |
 | `apply-cycle.mjs` | **you**, locally, after review | pushes the reviewed `drafts/*.json` into the CMS **as drafts** via MCP |

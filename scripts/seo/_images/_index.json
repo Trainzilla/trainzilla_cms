@@ -1,0 +1,36 @@
+{
+  "builtAt": "2026-09-03T12:15:27.807Z",
+  "source": "wikimedia-commons",
+  "focus": {
+    "ai-auto-adjust": {
+      "name": "AI auto-adjust & coach-in-the-loop",
+      "count": 12,
+      "file": "ai-auto-adjust.json"
+    },
+    "gym-operations": {
+      "name": "Gym / franchise operations",
+      "count": 12,
+      "file": "gym-operations.json"
+    },
+    "nutrition-flexibility": {
+      "name": "Nutrition flexibility",
+      "count": 12,
+      "file": "nutrition-flexibility.json"
+    },
+    "scale-solo-team": {
+      "name": "Scale for solo to small team",
+      "count": 8,
+      "file": "scale-solo-team.json"
+    },
+    "recovery-aware": {
+      "name": "Recovery-aware programming",
+      "count": 12,
+      "file": "recovery-aware.json"
+    },
+    "trust-transparency": {
+      "name": "Trust & transparency",
+      "count": 7,
+      "file": "trust-transparency.json"
+    }
+  }
+}

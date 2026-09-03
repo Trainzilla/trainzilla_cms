@@ -21,15 +21,17 @@ status: draft                 # draft | approved | scheduled | posted
 source: cycles/2026-09-08/drafts/article-new.json
 feature_anchor: "AI Coach weekly auto-adjust [GAP]"
 suggested_post_date: 2026-09-10
-image: https://images.unsplash.com/photo-XXXX?auto=format&fit=crop&w=1080&q=80
-image_alt: "coach reviewing a client's plan on a tablet"
+image: https://upload.wikimedia.org/wikipedia/commons/...  # from the committed pool
+image_alt: "coach reviewing a client plan on a tablet"
+image_credit: "Photo: <creator> / Wikimedia Commons — CC BY-SA 4.0"
 ---
 
 <post body — ready to paste, including hashtags>
 ```
 
-`image` is a verified Unsplash hot-link (required for Instagram, optional for
-LinkedIn). Full picking method + the per-cycle image table are in
+`image` comes from the committed pool `scripts/seo/_images/<focus>.json` (required
+for Instagram, optional for LinkedIn). Most pool images are CC BY / CC BY-SA, so
+`image_credit` (the attribution string) must travel with the post. Full method:
 `scripts/seo/PLAYBOOK.md` Step 6b and `cycles/<date>/images.md`.
 
 ## Workflow for the social team

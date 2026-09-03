@@ -14,7 +14,7 @@ cycles/<date>/
   research/
     keywords.md      # keyword + intent + SERP research for this week's focus area
     competitive.md   # what competitors rank for; content gaps
-  images.md          # every image used: search phrase, unsplash page, photographer, URL, alt, 200-OK check
+  images.md          # every image used: pool file, title, license, URL, alt, attribution
   drafts/            # the CMS changes, as JSON files a human later applies
     article-new.json         # 1 brand-new article (full record incl. Lexical body + heroImage)
     seo-refresh-<key>.json   # 5 of these — seoPages metadata refreshes
@@ -142,16 +142,15 @@ Shape (matches the `articles` collection; see real examples in
     "publishedDate": "<date -u +%Y-%m-%d>",
     "updatedDate": "<same>",
     "tags": [{ "tag": "…" }, { "tag": "…" }],
-    "heroImage": "https://images.unsplash.com/photo-<id>?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "<url from a scripts/seo/_images/<focus>.json entry>",
     "body": { "root": { "type": "root", "format": "", "indent": 0, "version": 1, "children": [ … ] } }
   },
   "_rationale": "primary keyword, focus area, feature anchor, why now",
-  "_image": { "source": "https://unsplash.com/photos/<slug>", "photographer": "<name>", "alt": "<descriptive alt text>" }
+  "_image": { "source": "<source_page>", "creator": "<creator>", "license": "<license>", "license_url": "<license_url>", "alt": "<descriptive alt text>", "attribution": "<verbatim attribution string from the pool entry>" }
 }
 ```
 
-`heroImage` is required and must be a **relevant, real Unsplash photo** — see
-Step 6b for how to pick and verify one.
+`heroImage` is required and comes from the committed image pool — see Step 6b.
 
 Do **not** set `author` or `category` to a raw string — they are relationships.
 Leave them out; the review packet tells the human which existing author slug and
@@ -189,38 +188,37 @@ they're optional. Keep it to the node types above; do not emit `block` nodes
 - One internal link to a relevant existing page (`/pricing`, `/solutions/...`, a
   sibling article from the snapshot).
 
-## Step 6b — Pick real, relevant images  → `cycles/$DATE/images.md`
+## Step 6b — Pick images from the committed pool  → `cycles/$DATE/images.md`
 
-Every content piece ships with an image. Use **Unsplash** (free licence, no
-attribution required — but record the credit anyway). No Unsplash API key, so:
+Every content piece ships with an image. **Do NOT fetch image sites** (Unsplash,
+Openverse, Commons) from here — the sandbox egress policy blocks them. Instead
+pick from the pre-verified pool the `SEO image pool` GitHub Action commits to
+`scripts/seo/_images/` (one file per focus area, refreshed weekly).
 
-1. Build 2–3 search phrases from the article topic + feature anchor that describe
-   a *literal scene*, not an abstraction — e.g. "personal trainer reviewing plan
-   on tablet", "coach and client in gym talking", "woman checking fitness app
-   watch". Avoid "AI", "algorithm", "data" as photo subjects — they return
-   generic circuit-board stock that looks like filler.
-2. `WebFetch https://unsplash.com/s/photos/<phrase-with-dashes>` and read the
-   results. Pick a photo that literally matches the topic (a real coaching /
-   training / nutrition / gym-ops scene). Landscape orientation for the hero.
-3. Open the photo page (`WebFetch https://unsplash.com/photos/<slug>`) to get the
-   photo ID and photographer name. The stable hot-link form is
-   `https://images.unsplash.com/photo-<ID>?ixlib=rb-4.0.3&auto=format&fit=crop&w=<W>&q=80`
-   — `w=1200` for the article hero, `w=1080` for social.
-4. **Verify each URL resolves**: `curl -sI "<url>" | head -1` must be `HTTP/… 200`
-   and content-type `image/*`. If not, pick another photo. Never ship an
-   unverified or placeholder URL.
+1. `cat scripts/seo/_images/_index.json` → find your focus area's file, e.g.
+   `scripts/seo/_images/<focus-slug>.json`. Each entry is an already-resolved,
+   commercially-licensed image: `{ title, url, width, height, creator, license,
+   license_url, needs_attribution, attribution, source_page, query }`.
+2. Choose the entry whose `title` / `query` best matches this cycle's article and
+   each social post. Landscape only (the pool is pre-filtered to that). Pick
+   **distinct** images across the batch; the article hero may be reused by one
+   social post.
+3. If your focus file has fewer than 3 usable matches, fall back to the
+   `gym-operations` or `trust-transparency` pool (both are broad fitness). If
+   *still* nothing fits, do not invent a URL — leave `heroImage` out, set
+   `image: TODO` on the social post, and flag it in `review-packet.md` Risks.
+4. Most pool images are **CC BY / CC BY-SA — attribution is required**. Copy the
+   entry's `attribution` string verbatim into `images.md`, into the article's
+   `_image` block, and into each social post's front matter (`image_credit:`).
 
-Write `cycles/$DATE/images.md` — a table: `use | search phrase | unsplash page |
-photographer | final URL | alt text | 200 OK?`. One row for the article hero,
-one per social post that needs an image (all Instagram, LinkedIn optional).
+Write `cycles/$DATE/images.md` — a table: `use | pool file | title | license |
+URL | alt text | attribution`. One row for the article hero, one per social post
+that needs an image (all Instagram; LinkedIn optional).
 
-Put the hero URL in `drafts/article-new.json` `data.heroImage` and its credit in
-`_image`. Put each social image URL in that post's front matter (`image:`) and an
-`image_alt:` line.
-
-If Unsplash is unreachable or nothing genuinely fits, do **not** invent a URL:
-leave `heroImage` out, add `image: TODO` to the social post, and flag it in
-`review-packet.md` under Risks so a human picks the image.
+Put the chosen `url` in `drafts/article-new.json` `data.heroImage`, and
+`{ source, creator, license, license_url, alt, attribution }` in `_image`. Put
+each social image `url` in that post's front matter (`image:`), plus `image_alt:`
+and `image_credit:`.
 
 ## Step 7 — Refresh 5 seoPages  → `drafts/seo-refresh-<key>.json`
 
@@ -260,8 +258,9 @@ Write 4 LinkedIn posts (`linkedin-1.md` … `-4.md`) and 4 Instagram captions
 pages, the webinar topic. Each post:
 
 - Front matter: `platform`, `status: draft`, `source` (which cycle artefact),
-  `feature_anchor`, `suggested_post_date`, `image` (verified Unsplash URL from
-  Step 6b — required for Instagram, optional for LinkedIn), `image_alt`.
+  `feature_anchor`, `suggested_post_date`, `image` (URL from the pool via Step 6b
+  — required for Instagram, optional for LinkedIn), `image_alt`, `image_credit`
+  (the pool entry's attribution string).
 - LinkedIn: 120–200 words, hook in line 1, one concrete feature detail, a soft CTA
   to the relevant page URL, 3–5 hashtags.
 - Instagram: 60–120 words, punchier, line breaks, 8–12 hashtags, CTA "link in bio".
@@ -294,12 +293,12 @@ This becomes the PR description. Sections:
    node scripts/seo/apply-cycle.mjs cycles/<date>
    # then publish the good drafts at https://cms.trainzilla.in/admin
    ```
-7. **Images** — link `images.md`; call out the article hero (URL + credit + alt)
-   and confirm every image row is `200 OK`. Flag any `TODO` image here.
+7. **Images** — link `images.md`; call out the article hero (URL + attribution +
+   alt). Every image is from the committed pool; flag any `TODO` image here.
 8. **Review checklist** — [ ] keyword intent matches page, [ ] every draft has a
    feature anchor, [ ] no invented stats/names, [ ] global English, [ ] internal
    link present, [ ] social posts have no unverifiable claims, [ ] every image is a
-   real verified Unsplash URL that literally matches the topic.
+   pool entry that matches the topic, with its attribution string carried through.
 9. **Risks / notes** — anything the reviewer should double-check.
 
 ## Step 11 — Open the PR
