@@ -324,6 +324,10 @@ export interface Article {
         id?: string | null;
       }[]
     | null;
+  /**
+   * Picks which CTA / offer trainzilla.in renders under this article.
+   */
+  funnelStage?: ('awareness' | 'consideration' | 'decision') | null;
   body: {
     root: {
       type: string;
@@ -1124,6 +1128,7 @@ export interface ArticlesSelect<T extends boolean = true> {
         tag?: T;
         id?: T;
       };
+  funnelStage?: T;
   body?: T;
   related?: T;
   seo?:
