@@ -14,13 +14,14 @@ cycles/<date>/
   research/
     keywords.md      # keyword + intent + SERP research for this week's focus area
     competitive.md   # what competitors rank for; content gaps
+  images.md          # every image used: search phrase, unsplash page, photographer, URL, alt, 200-OK check
   drafts/            # the CMS changes, as JSON files a human later applies
-    article-new.json         # 1 brand-new article (full record incl. Lexical body)
+    article-new.json         # 1 brand-new article (full record incl. Lexical body + heroImage)
     seo-refresh-<key>.json   # 5 of these — seoPages metadata refreshes
     webinar-topic.md         # 1 webinar topic brief (proposal only, not a CMS write)
   social/
-    linkedin-<n>.md  # LinkedIn posts
-    instagram-<n>.md # Instagram captions
+    linkedin-<n>.md  # LinkedIn posts (image optional, in front matter)
+    instagram-<n>.md # Instagram captions (image required, in front matter)
   review-packet.md   # the human summary; becomes the PR description
 ```
 
@@ -141,11 +142,16 @@ Shape (matches the `articles` collection; see real examples in
     "publishedDate": "<date -u +%Y-%m-%d>",
     "updatedDate": "<same>",
     "tags": [{ "tag": "…" }, { "tag": "…" }],
+    "heroImage": "https://images.unsplash.com/photo-<id>?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
     "body": { "root": { "type": "root", "format": "", "indent": 0, "version": 1, "children": [ … ] } }
   },
-  "_rationale": "primary keyword, focus area, feature anchor, why now"
+  "_rationale": "primary keyword, focus area, feature anchor, why now",
+  "_image": { "source": "https://unsplash.com/photos/<slug>", "photographer": "<name>", "alt": "<descriptive alt text>" }
 }
 ```
+
+`heroImage` is required and must be a **relevant, real Unsplash photo** — see
+Step 6b for how to pick and verify one.
 
 Do **not** set `author` or `category` to a raw string — they are relationships.
 Leave them out; the review packet tells the human which existing author slug and
@@ -182,6 +188,39 @@ they're optional. Keep it to the node types above; do not emit `block` nodes
   **₹499/mo, single coach** (₹86 ≈ $1).
 - One internal link to a relevant existing page (`/pricing`, `/solutions/...`, a
   sibling article from the snapshot).
+
+## Step 6b — Pick real, relevant images  → `cycles/$DATE/images.md`
+
+Every content piece ships with an image. Use **Unsplash** (free licence, no
+attribution required — but record the credit anyway). No Unsplash API key, so:
+
+1. Build 2–3 search phrases from the article topic + feature anchor that describe
+   a *literal scene*, not an abstraction — e.g. "personal trainer reviewing plan
+   on tablet", "coach and client in gym talking", "woman checking fitness app
+   watch". Avoid "AI", "algorithm", "data" as photo subjects — they return
+   generic circuit-board stock that looks like filler.
+2. `WebFetch https://unsplash.com/s/photos/<phrase-with-dashes>` and read the
+   results. Pick a photo that literally matches the topic (a real coaching /
+   training / nutrition / gym-ops scene). Landscape orientation for the hero.
+3. Open the photo page (`WebFetch https://unsplash.com/photos/<slug>`) to get the
+   photo ID and photographer name. The stable hot-link form is
+   `https://images.unsplash.com/photo-<ID>?ixlib=rb-4.0.3&auto=format&fit=crop&w=<W>&q=80`
+   — `w=1200` for the article hero, `w=1080` for social.
+4. **Verify each URL resolves**: `curl -sI "<url>" | head -1` must be `HTTP/… 200`
+   and content-type `image/*`. If not, pick another photo. Never ship an
+   unverified or placeholder URL.
+
+Write `cycles/$DATE/images.md` — a table: `use | search phrase | unsplash page |
+photographer | final URL | alt text | 200 OK?`. One row for the article hero,
+one per social post that needs an image (all Instagram, LinkedIn optional).
+
+Put the hero URL in `drafts/article-new.json` `data.heroImage` and its credit in
+`_image`. Put each social image URL in that post's front matter (`image:`) and an
+`image_alt:` line.
+
+If Unsplash is unreachable or nothing genuinely fits, do **not** invent a URL:
+leave `heroImage` out, add `image: TODO` to the social post, and flag it in
+`review-packet.md` under Risks so a human picks the image.
 
 ## Step 7 — Refresh 5 seoPages  → `drafts/seo-refresh-<key>.json`
 
@@ -221,11 +260,15 @@ Write 4 LinkedIn posts (`linkedin-1.md` … `-4.md`) and 4 Instagram captions
 pages, the webinar topic. Each post:
 
 - Front matter: `platform`, `status: draft`, `source` (which cycle artefact),
-  `feature_anchor`, `suggested_post_date`.
+  `feature_anchor`, `suggested_post_date`, `image` (verified Unsplash URL from
+  Step 6b — required for Instagram, optional for LinkedIn), `image_alt`.
 - LinkedIn: 120–200 words, hook in line 1, one concrete feature detail, a soft CTA
   to the relevant page URL, 3–5 hashtags.
 - Instagram: 60–120 words, punchier, line breaks, 8–12 hashtags, CTA "link in bio".
+  Must have a real, topic-matching `image`.
 - No invented metrics or testimonials.
+- Reuse the article hero for one post; source distinct images for the rest so the
+  batch isn't four copies of the same photo.
 
 Then copy the whole `social/` folder to `social/queue/$DATE/` (the durable queue
 the social team pulls from — see `social/queue/README.md`).
@@ -251,10 +294,13 @@ This becomes the PR description. Sections:
    node scripts/seo/apply-cycle.mjs cycles/<date>
    # then publish the good drafts at https://cms.trainzilla.in/admin
    ```
-7. **Review checklist** — [ ] keyword intent matches page, [ ] every draft has a
+7. **Images** — link `images.md`; call out the article hero (URL + credit + alt)
+   and confirm every image row is `200 OK`. Flag any `TODO` image here.
+8. **Review checklist** — [ ] keyword intent matches page, [ ] every draft has a
    feature anchor, [ ] no invented stats/names, [ ] global English, [ ] internal
-   link present, [ ] social posts have no unverifiable claims.
-8. **Risks / notes** — anything the reviewer should double-check.
+   link present, [ ] social posts have no unverifiable claims, [ ] every image is a
+   real verified Unsplash URL that literally matches the topic.
+9. **Risks / notes** — anything the reviewer should double-check.
 
 ## Step 11 — Open the PR
 
