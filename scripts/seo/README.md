@@ -40,7 +40,8 @@ and a review gate before it touches production content.
    node scripts/seo/apply-cycle.mjs cycles/<date>
    ```
 5. Open <https://cms.trainzilla.in/admin>. For the new article, attach the author
-   + category the review packet names. Review each draft version, click
+   + category the review packet names and confirm its `funnelStage` (it drives
+   which CTA the site renders under the article). Review each draft version, click
    **Publish changes** on the ones you want live.
 6. Redeploy the marketing site (its content is fetched at build time) so the
    published changes appear.
