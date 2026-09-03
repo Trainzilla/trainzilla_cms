@@ -56,7 +56,7 @@ the `## AHREFS (when connected)` stub in that file.
 | `social/instagram-1.md` … `-4.md` | — (proposal) | — | Instagram queue | Drawn from the new article, `aiFitnessRevolution` refresh, `ai-integration` refresh, and the webinar proposal |
 | `social/queue/2026-09-03/*` | — | — | durable social queue | Copy of the above 8 posts for the social team |
 
-## 5. Author / category to attach (new article only)
+## 5. Author / category / hero image to attach (new article only)
 
 `drafts/article-new.json` intentionally omits `author` and `category`
 (relationships) — attach in the admin:
@@ -67,6 +67,18 @@ the `## AHREFS (when connected)` stub in that file.
   Technology Expert") — closest existing author bio to a mechanics-of-the-
   AI-agent piece. `arun-malhotra` or another author slug from
   `inputs/authors.json` also works if you want a different byline.
+
+**`heroImage` is also unset and needs a human to add it.** All 7 existing
+articles set `heroImage` to a hotlinked Unsplash URL (see
+`scripts/seed-articles.ts`), and the field exists on the `articles`
+collection (`src/collections/Articles.ts`), but the playbook's Step 6 shape
+doesn't call for it and — more to the point — this sandbox's network policy
+blocks `unsplash.com` outright (same class of block as `cms.trainzilla.in`),
+so there was no way to search Unsplash and confirm a candidate photo ID
+actually resolves before writing it into the draft. Rather than guess a URL
+that could 404 once published, it's left blank. Pick one in the admin
+following the existing pattern:
+`https://images.unsplash.com/photo-<id>?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80`.
 
 ## 6. How to apply
 
@@ -89,7 +101,11 @@ node scripts/seo/apply-cycle.mjs cycles/2026-09-03
       `ai-fitness-revolution.json` body, since none of this cycle's target
       keywords are geo-specific)
 - [ ] Internal link present in the new article (`/agent`)
+- [ ] `heroImage` set on the new article before publishing (see section 5 —
+      left blank, sandbox can't reach Unsplash to verify a URL)
 - [ ] Social posts have no unverifiable claims
+- [ ] Image/video attached to each Instagram post before scheduling — the
+      queue only has caption text (see Risks / notes)
 - [ ] `seo-refresh-agent.json` and `seo-refresh-ai-coach.json` descriptions
       read as distinct from each other (both target the same cluster —
       check they don't cannibalize)
@@ -121,6 +137,16 @@ node scripts/seo/apply-cycle.mjs cycles/2026-09-03
 - **No Ahrefs this cycle** — all volume/difficulty figures in
   `research/keywords.md` are SERP-inspection estimates, explicitly labelled
   as such.
+- **No images anywhere in this cycle.** The new article has no `heroImage`
+  (see section 5), the seoPages refreshes don't touch `ogImage` (none of the
+  5 targeted pages had one set beforehand either — a pre-existing, site-wide
+  gap outside this cycle's scope), and the 8 social drafts are caption text
+  only. Instagram in particular cannot be published without an attached
+  image or video — the social team will need to pair each `instagram-*.md`
+  with a visual before scheduling. This pipeline currently has no image
+  sourcing/generation step; worth deciding whether to add one (e.g. a
+  vetted stock-photo/brand-asset library reachable from the sandbox, since
+  Unsplash itself is blocked) in a future revision of the playbook.
 - **Trainzilla MCP tool access:** a `Trainzilla` MCP server (client/session
   data — `list_clients`, `get_client_profile`, `billing_summary`, etc.)
   connected mid-session but was **not used** for this cycle — it exposes
