@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "aiFitnessRevolution",
+  "data": {
+    "title": "How AI Is Changing Personal Training | TrainZilla",
+    "description": "AI agents draft and weekly-adjust client plans, explain every change, and stay inside guardrails — what agentic coaching means for personal trainers today.",
+    "keywords": "AI personal training, AI fitness coaching, agentic coaching, AI workout plan generator for personal trainers, AI training plan explainability, future of personal training"
+  },
+  "_rationale": "This existing article is the closest sibling to the new article-new.json (same focus cluster). Tightened the description to name the weekly cadence and explainability concretely instead of the vaguer \"stay in control\", and swapped in \"AI training plan explainability\" (research/keywords.md: nascent, pure gap) so the two pages target adjacent, non-duplicate long-tail. Feature anchor: \"Why this changed\" rationale on every AI edit."
+}

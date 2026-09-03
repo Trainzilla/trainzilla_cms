@@ -1,0 +1,46 @@
+{
+  "createdAt": "2026-09-02T15:43:07.436Z",
+  "updatedAt": "2026-09-03T07:31:50.761Z",
+  "globalType": "siteSettings",
+  "siteName": "TrainZilla",
+  "orgDescription": "TrainZilla is an AI-first coaching platform for personal trainers, online fitness coaches and gyms. An autonomous AI agent builds and weekly-adjusts each client's workout and diet plan under coach review, alongside client management, habit tracking, check-ins, session booking, progress tracking, payments and a branded client app.",
+  "logoUrl": "https://trainzilla.in/app-icon.png",
+  "ogImageDefault": "https://trainzilla.in/og-image.png",
+  "social": [
+    {
+      "platform": "x",
+      "url": "https://x.com/trainzilla_in",
+      "id": "6a98440bcb24c569d7171387"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/people/Trainzillain/61578776257338/",
+      "id": "6a98440bcb24c569d7171388"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/trainzilla",
+      "id": "6a98440bcb24c569d7171389"
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/trainzilla.in",
+      "id": "6a98440bcb24c569d717138a"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@trainzilla_in",
+      "id": "6a98440bcb24c569d717138b"
+    }
+  ],
+  "contact": {
+    "phone": "+91-84596-91471",
+    "email": "support@trainzilla.in",
+    "addressLocality": "Pune",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN"
+  },
+  "foundingDate": "2025",
+  "_status": "published",
+  "id": "6a98440b36f85a38c0b838db"
+}

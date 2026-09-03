@@ -1,0 +1,808 @@
+[
+  {
+    "createdAt": "2026-09-02T15:43:05.459Z",
+    "updatedAt": "2026-09-02T15:43:05.459Z",
+    "question": "What equipment do I need for online training?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "For professional online training you need: a stable internet connection (minimum 2 Mbps), a device with camera and microphone (smartphone, tablet, or laptop), good lighting for demonstrations, and a clear background. A tripod or device stand is recommended for stable video.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "video-training",
+    "order": 190,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a98440936f85a38c0b83899"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:05.260Z",
+    "updatedAt": "2026-09-02T15:43:05.260Z",
+    "question": "How do I conduct video training sessions?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "TrainZilla includes integrated video calling: schedule sessions in your calendar, start calls directly from the dashboard, share your screen for exercise demonstrations, and record sessions for client review. The system works on mobile and desktop with good internet connectivity.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "video-training",
+    "order": 180,
+    "featuredOnPages": [
+      "faq",
+      "home"
+    ],
+    "_status": "published",
+    "id": "6a98440936f85a38c0b83891"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:05.067Z",
+    "updatedAt": "2026-09-02T15:43:05.067Z",
+    "question": "Can I export my client data?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Yes! You can export client data including contact information, progress reports, workout histories, and payment records. Go to Settings > Data Export and select the information you need. Data is provided in Excel format for your records.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "technical-support",
+    "order": 170,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a98440936f85a38c0b83889"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:04.878Z",
+    "updatedAt": "2026-09-02T15:43:04.878Z",
+    "question": "Why is my dashboard loading slowly?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Slow loading can be due to internet connectivity, browser cache, or high traffic. Try clearing your browser cache, checking your internet connection, using a different browser, or accessing during off-peak hours. Contact support if issues persist.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "technical-support",
+    "order": 160,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a98440836f85a38c0b83881"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:04.670Z",
+    "updatedAt": "2026-09-02T15:43:04.670Z",
+    "question": "What if I forget my password?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Use the \"Forgot Password\" link on the login page. You’ll receive a reset link via SMS and email. For additional security, you may need to verify your identity with your registered phone number. Contact support if you don’t receive the reset link within 5 minutes.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "technical-support",
+    "order": 150,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a98440836f85a38c0b83879"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:04.458Z",
+    "updatedAt": "2026-09-02T15:43:04.458Z",
+    "question": "How do I help clients download and set up the app?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "When you add a client, they automatically receive setup instructions via SMS and email. The onboarding process is guided with step-by-step instructions in Hindi and English. You can also share quick setup videos and provide in-person assistance during the first session.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "mobile-app",
+    "order": 140,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a98440836f85a38c0b83871"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:04.263Z",
+    "updatedAt": "2026-09-02T15:43:04.263Z",
+    "question": "Can I use TrainZilla offline during sessions?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "The mobile app includes offline functionality for essential features like viewing workout plans, logging exercises, and taking progress photos. Data syncs automatically when internet connection is restored. This is especially useful for outdoor sessions or areas with poor connectivity.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "mobile-app",
+    "order": 130,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a98440836f85a38c0b83869"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:04.068Z",
+    "updatedAt": "2026-09-02T15:43:04.069Z",
+    "question": "Is there a mobile app for clients?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Yes! The TrainZilla client app allows clients to view workout plans, track progress, communicate with trainers, make payments, and access nutrition guidance. It syncs with the trainer dashboard in real-time and works offline in areas with poor connectivity.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "mobile-app",
+    "order": 120,
+    "featuredOnPages": [
+      "faq",
+      "home"
+    ],
+    "_status": "published",
+    "id": "6a98440836f85a38c0b83861"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:03.844Z",
+    "updatedAt": "2026-09-02T15:43:03.844Z",
+    "question": "What happens if a client's payment fails?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Our system automatically retries failed payments after 24 hours, sends payment reminder notifications to clients, provides alternative payment methods, and notifies you of any issues. You can also manually process payments or adjust due dates as needed.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "payments-billing",
+    "order": 110,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a98440736f85a38c0b83859"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:03.649Z",
+    "updatedAt": "2026-09-02T15:43:03.649Z",
+    "question": "Can I offer EMI or installment plans to clients?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Yes! TrainZilla supports flexible payment options including EMIs for long-term plans. You can set up 3, 6, or 12-month installment plans. The system automatically handles recurring payments and sends reminders. This makes fitness services more accessible to clients.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "payments-billing",
+    "order": 100,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a98440736f85a38c0b83851"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:03.457Z",
+    "updatedAt": "2026-09-02T15:43:03.457Z",
+    "question": "How does GST billing work for fitness services?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "TrainZilla automatically handles GST compliance: if your annual income exceeds ₹20 lakhs, GST is automatically calculated and added to invoices. We generate GST-compliant invoices, maintain records for filing returns, and provide monthly GST reports. Consult with a CA for specific tax advice.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "payments-billing",
+    "order": 90,
+    "featuredOnPages": [
+      "faq",
+      "home"
+    ],
+    "_status": "published",
+    "id": "6a98440736f85a38c0b83849"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:03.262Z",
+    "updatedAt": "2026-09-02T15:43:03.262Z",
+    "question": "How do I set up UPI payments for Indian clients?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "UPI integration is built into TrainZilla: 1) Complete your bank account verification, 2) Set up your UPI ID in payment settings, 3) Configure your pricing plans, 4) Enable automatic payment reminders. Clients can pay instantly via any UPI app like GPay, PhonePe, or Paytm.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "payments-billing",
+    "order": 80,
+    "featuredOnPages": [
+      "faq",
+      "home"
+    ],
+    "_status": "published",
+    "id": "6a98440736f85a38c0b83841"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:03.076Z",
+    "updatedAt": "2026-09-02T15:43:03.076Z",
+    "question": "What if a client cancels or no-shows frequently?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Our platform includes attendance tracking and automated reminder systems. You can set cancellation policies, require advance notice, and track patterns. For frequent no-shows, the system can suggest scheduling adjustments or flag clients who might need different support approaches.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "client-management",
+    "order": 70,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a98440736f85a38c0b83839"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:02.882Z",
+    "updatedAt": "2026-09-02T15:43:02.882Z",
+    "question": "How do I track client progress effectively?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "TrainZilla offers comprehensive progress tracking: take regular measurements and photos, log workout performances, track goal achievements, use our AI analytics for insights, and generate automated progress reports. Clients can also self-report through the mobile app.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "client-management",
+    "order": 60,
+    "featuredOnPages": [
+      "faq",
+      "home"
+    ],
+    "_status": "published",
+    "id": "6a98440636f85a38c0b83831"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:02.690Z",
+    "updatedAt": "2026-09-02T15:43:02.690Z",
+    "question": "Can I manage family members or couples together?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Yes! TrainZilla supports family and couple accounts. You can create linked profiles that share certain information while maintaining individual workout plans and progress tracking. This is popular for families wanting to train together while respecting individual goals.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "client-management",
+    "order": 50,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a98440636f85a38c0b83829"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:02.496Z",
+    "updatedAt": "2026-09-02T15:43:02.496Z",
+    "question": "How do I add a new client to my dashboard?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "To add a new client: 1) Go to Client Management in your dashboard, 2) Click \"Add New Client\", 3) Enter their basic information and goals, 4) Complete the fitness assessment questionnaire, 5) Set their subscription plan and payment method. You can also invite clients to join via email or WhatsApp.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "client-management",
+    "order": 40,
+    "featuredOnPages": [
+      "faq",
+      "home"
+    ],
+    "_status": "published",
+    "id": "6a98440636f85a38c0b83821"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:02.290Z",
+    "updatedAt": "2026-09-02T15:43:02.290Z",
+    "question": "How does the AI workout generator work?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Our AI analyzes multiple factors including client goals, fitness level, available equipment, time constraints, injuries, and preferences. It then generates personalized workout plans drawing from our database of thousands of exercises. The AI learns from client feedback and progress to continuously improve recommendations.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "getting-started",
+    "order": 30,
+    "featuredOnPages": [
+      "faq",
+      "home"
+    ],
+    "_status": "published",
+    "id": "6a98440636f85a38c0b83819"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:02.090Z",
+    "updatedAt": "2026-09-02T15:43:02.090Z",
+    "question": "What certifications do I need to use TrainZilla?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "While TrainZilla welcomes trainers of all levels, we recommend having at least one recognized fitness certification (ACE, NASM, ACSM, K11, etc.). You can also join with relevant experience and work towards certification while using our platform. We provide resources to help you obtain recognized certifications.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "getting-started",
+    "order": 20,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a98440636f85a38c0b83811"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:01.821Z",
+    "updatedAt": "2026-09-02T15:43:01.821Z",
+    "question": "How do I create my trainer profile on TrainZilla?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Creating your trainer profile is simple: 1) Sign up with your email and phone number, 2) Verify your account via SMS/email, 3) Complete your professional details including certifications, 4) Add your specializations and experience, 5) Set your pricing and availability. Our AI will help optimize your profile for better client matching.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "getting-started",
+    "order": 10,
+    "featuredOnPages": [
+      "faq",
+      "home"
+    ],
+    "_status": "published",
+    "id": "6a98440536f85a38c0b83809"
+  }
+]
