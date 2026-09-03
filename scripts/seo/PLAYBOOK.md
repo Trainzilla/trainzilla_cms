@@ -143,6 +143,7 @@ Shape (matches the `articles` collection; see real examples in
     "updatedDate": "<same>",
     "tags": [{ "tag": "…" }, { "tag": "…" }],
     "heroImage": "<url from a scripts/seo/_images/<focus>.json entry>",
+    "funnelStage": "awareness" | "consideration" | "decision",
     "body": { "root": { "type": "root", "format": "", "indent": 0, "version": 1, "children": [ … ] } }
   },
   "_rationale": "primary keyword, focus area, feature anchor, why now",
@@ -151,6 +152,12 @@ Shape (matches the `articles` collection; see real examples in
 ```
 
 `heroImage` is required and comes from the committed image pool — see Step 6b.
+
+**`funnelStage`** decides which conversion CTA the site renders under the article.
+Pick it from the primary keyword's search intent (Step 4):
+- informational — "how to…", "what is…", "…ideas", "…mistakes" → `awareness`
+- comparison / evaluation — "best …", "… vs …", "… alternatives", "is … worth it" → `consideration`
+- transactional — "… software", "app for …", "… pricing", "sign up", "hire a …" → `decision`
 
 Do **not** set `author` or `category` to a raw string — they are relationships.
 Leave them out; the review packet tells the human which existing author slug and
@@ -171,7 +178,28 @@ Leave them out; the review packet tells the human which existing author slug and
 Every non-text node also needs `"format": ""`, `"indent": 0`, `"direction": "ltr"`
 if you want to exactly match existing records — but the CMS backfills those, so
 they're optional. Keep it to the node types above; do not emit `block` nodes
-(callout/statGrid/etc.) — those need exact field shapes and a human review.
+(callout/statGrid/etc.) — **except the one `ctaCard` in Step 6c** — those need
+exact field shapes and a human review.
+
+### Step 6c — one in-body CTA (skip for `awareness`)
+
+For `consideration` and `decision` articles, add **exactly one** `ctaCard` block
+as the last child of `body.root.children` (or just before a short closing
+paragraph):
+
+```json
+{ "type": "block", "version": 2, "fields": {
+    "blockType": "ctaCard",
+    "heading": "<tie to the feature anchor, e.g. 'Let the AI draft next week's plans'>",
+    "body": "<one sentence — what they get>",
+    "buttonLabel": "Start free",
+    "buttonHref": "https://app.trainzilla.in/register",
+    "style": "gradient"
+} }
+```
+
+The site UTM-tags this href and tracks the click. `awareness` articles get the
+soft newsletter CTA from `ArticleLayout` only — no in-body `ctaCard`.
 
 ### Article quality bar
 
@@ -266,6 +294,9 @@ pages, the webinar topic. Each post:
 - Instagram: 60–120 words, punchier, line breaks, 8–12 hashtags, CTA "link in bio".
   Must have a real, topic-matching `image`.
 - No invented metrics or testimonials.
+- **CTA URL**: a post derived from the new article links to
+  `https://trainzilla.in/blog/<new-slug>` (that page now carries the funnel) — not
+  the homepage. Posts derived from a refreshed seoPage link to that page's path.
 - Reuse the article hero for one post; source distinct images for the rest so the
   batch isn't four copies of the same photo.
 
@@ -284,22 +315,25 @@ This becomes the PR description. Sections:
 2. **Feature anchors used** (name + tag from the inventory).
 3. **Keyword targets** — primary + the supporting set, as a table.
 4. **Changes in this cycle** — a table: file | collection | op | target | one-line rationale.
-5. **Author / category to attach** — for the new article, the exact existing
+5. **Funnel** — the new article's `funnelStage` + why (search intent), which CTA
+   the site will render, and whether an in-body `ctaCard` was added (Step 6c).
+7. **Author / category to attach** — for the new article, the exact existing
    `authors` slug and `blogCategories` slug the human should set in the admin.
-6. **How to apply**:
+8. **How to apply**:
    ```
    export TRAINZILLA_CMS_MCP_KEY=...        # from MCP_LOCAL_NOTES.md
    node scripts/seo/apply-cycle.mjs cycles/<date> --dry-run
    node scripts/seo/apply-cycle.mjs cycles/<date>
    # then publish the good drafts at https://cms.trainzilla.in/admin
    ```
-7. **Images** — link `images.md`; call out the article hero (URL + attribution +
+9. **Images** — link `images.md`; call out the article hero (URL + attribution +
    alt). Every image is from the committed pool; flag any `TODO` image here.
-8. **Review checklist** — [ ] keyword intent matches page, [ ] every draft has a
-   feature anchor, [ ] no invented stats/names, [ ] global English, [ ] internal
-   link present, [ ] social posts have no unverifiable claims, [ ] every image is a
-   pool entry that matches the topic, with its attribution string carried through.
-9. **Risks / notes** — anything the reviewer should double-check.
+10. **Review checklist** — [ ] keyword intent matches page + `funnelStage`, [ ] every
+    draft has a feature anchor, [ ] no invented stats/names, [ ] global English,
+    [ ] internal link present, [ ] social posts have no unverifiable claims and link
+    to the article/page (not the homepage), [ ] every image is a pool entry that
+    matches the topic, with its attribution string carried through.
+11. **Risks / notes** — anything the reviewer should double-check.
 
 ## Step 11 — Open the PR
 
