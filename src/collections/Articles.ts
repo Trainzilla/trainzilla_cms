@@ -38,6 +38,17 @@ export const Articles: CollectionConfig = {
     },
     { name: 'heroImage', type: 'text', admin: { description: 'Image URL or /images/... path' } },
     { name: 'tags', type: 'array', localized: true, fields: [{ name: 'tag', type: 'text', required: true }] },
+    {
+      name: 'funnelStage',
+      type: 'select',
+      defaultValue: 'consideration',
+      options: [
+        { label: 'Awareness (soft — newsletter + "see how it works")', value: 'awareness' },
+        { label: 'Consideration (newsletter + "start free")', value: 'consideration' },
+        { label: 'Decision (hard — "start free" + "book a demo")', value: 'decision' },
+      ],
+      admin: { description: 'Picks which CTA / offer trainzilla.in renders under this article.' },
+    },
     { name: 'body', type: 'richText', localized: true, required: true, editor: richTextEditor },
     {
       name: 'related',
