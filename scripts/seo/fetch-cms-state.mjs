@@ -8,6 +8,11 @@
 // Usage:
 //   node scripts/seo/fetch-cms-state.mjs cycles/2026-09-08
 //   node scripts/seo/fetch-cms-state.mjs            # defaults to cycles/<today>/
+//   node scripts/seo/fetch-cms-state.mjs scripts/seo/_snapshot --slim
+//
+// --slim drops the heavy Lexical body fields (articles.body, webinars.longDescription)
+// from the written JSON — used for the committed repo snapshot so it doesn't churn.
+// The human-readable content-index.md is unaffected (it still summarises bodies).
 //
 // Zero dependencies. Needs Node >= 18 (global fetch).
 
@@ -16,8 +21,20 @@ import { join } from 'node:path'
 
 const BASE = process.env.PAYLOAD_CMS_URL || 'https://cms.trainzilla.in'
 const today = new Date().toISOString().slice(0, 10)
-const outDir = process.argv[2] || `cycles/${today}`
+const args = process.argv.slice(2)
+const slim = args.includes('--slim')
+const outDir = args.find((a) => !a.startsWith('--')) || `cycles/${today}`
 const inputsDir = join(outDir, 'inputs')
+
+const HEAVY = { articles: ['body', 'related'], webinars: ['longDescription'] }
+function slimDocs(slug, docs) {
+  if (!slim || !HEAVY[slug]) return docs
+  return docs.map((d) => {
+    const c = { ...d }
+    for (const k of HEAVY[slug]) delete c[k]
+    return c
+  })
+}
 
 const COLLECTIONS = ['seoPages', 'articles', 'authors', 'webinars', 'faqs', 'blogCategories']
 const GLOBALS = ['siteSettings', 'structuredData', 'platformMetrics']
@@ -114,8 +131,8 @@ async function main() {
   for (const slug of COLLECTIONS) {
     try {
       state[slug] = await fetchCollection(slug)
-      writeFileSync(join(inputsDir, `${slug}.json`), JSON.stringify(state[slug], null, 2))
-      console.log(`  ok    ${slug.padEnd(16)} ${state[slug].length} docs`)
+      writeFileSync(join(inputsDir, `${slug}.json`), JSON.stringify(slimDocs(slug, state[slug]), null, 2))
+      console.log(`  ok    ${slug.padEnd(16)} ${state[slug].length} docs${slim && HEAVY[slug] ? ' (slim)' : ''}`)
     } catch (e) {
       state[slug] = []
       console.log(`  WARN  ${slug.padEnd(16)} ${String(e).slice(0, 120)}`)

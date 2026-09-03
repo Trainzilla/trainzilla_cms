@@ -11,6 +11,7 @@ LinkedIn / Instagram drafts.
 | --- | --- | --- |
 | `PLAYBOOK.md` | the scheduled cloud agent, weekly | full self-contained brief: research → drafts-as-files → PR |
 | `fetch-cms-state.mjs` | the agent (and you, anytime) | read-only snapshot of published CMS content into `cycles/<date>/inputs/` |
+| `_snapshot/` + `.github/workflows/seo-cms-snapshot.yml` | GitHub Action, Mondays 01:00 UTC | commits a fresh slim CMS snapshot into the repo, because the routine's sandbox can't reach `cms.trainzilla.in` directly |
 | `../docs/feature-inventory.md` | maintained by hand | the feature list content must anchor on; `[GAP]` = under-marketed, prioritise |
 | a PR titled `SEO cycle <date> — …` | opened by the agent | the week's output; **never auto-merged** |
 | `apply-cycle.mjs` | **you**, locally, after review | pushes the reviewed `drafts/*.json` into the CMS **as drafts** via MCP |

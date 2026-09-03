@@ -1,0 +1,43 @@
+# Keeps scripts/seo/_snapshot/ current so the weekly SEO content routine has a
+# CMS content snapshot in its checkout — the routine's sandbox cannot reach
+# cms.trainzilla.in directly (egress policy), but a GitHub-hosted runner can.
+#
+# Runs Mondays 01:00 UTC (before the routine's 02:30 UTC fire) and on demand.
+name: SEO CMS snapshot
+
+on:
+  schedule:
+    - cron: '0 1 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: seo-cms-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Refresh CMS snapshot
+        run: node scripts/seo/fetch-cms-state.mjs scripts/seo/_snapshot --slim
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- scripts/seo/_snapshot; then
+            echo "snapshot unchanged"
+            exit 0
+          fi
+          git config user.name  "trainzilla-seo-bot"
+          git config user.email "seo-bot@users.noreply.github.com"
+          git add scripts/seo/_snapshot
+          git commit -m "chore(seo): refresh CMS snapshot"
+          git push

@@ -51,17 +51,32 @@ Read these two files fully before doing anything else:
 - `docs/feature-inventory.md` — the product features you must anchor content on.
 - this file.
 
-## Step 2 — Snapshot current CMS content
+## Step 2 — Get the CMS content snapshot
+
+The sandbox usually **cannot reach `cms.trainzilla.in`** (egress policy). A
+committed snapshot is kept fresh by the `SEO CMS snapshot` GitHub Action
+(`.github/workflows/seo-cms-snapshot.yml`, runs Mondays 01:00 UTC). Use it:
 
 ```bash
-node scripts/seo/fetch-cms-state.mjs cycles/$DATE
+mkdir -p cycles/$DATE/inputs
+cp -r scripts/seo/_snapshot/inputs/. cycles/$DATE/inputs/
+# then TRY a live refresh — fine if it fails:
+node scripts/seo/fetch-cms-state.mjs cycles/$DATE || echo "live fetch blocked — using committed snapshot"
 ```
 
-This writes `cycles/$DATE/inputs/`. Read `inputs/content-index.md` — it lists
-every seoPages key, every article, every webinar. You are refreshing *these*
-records, so know what already exists. Never invent a seoPages `key` or an
-article `slug`; only use ones present in the snapshot (except the single new
-article, which gets a new slug).
+If the live fetch succeeds it overwrites the copy with today's data (and adds
+full article bodies). If it fails, you keep the committed snapshot — note in the
+review packet which one you used and its `inputs/_meta.json` `fetchedAt` date.
+
+Read `cycles/$DATE/inputs/content-index.md` — it lists every seoPages key, every
+article, every webinar. You are refreshing *these* records. Never invent a
+seoPages `key` or an article `slug`; only use ones present in the snapshot
+(except the single new article, which gets a new slug).
+
+**If neither snapshot is available** (no `scripts/seo/_snapshot/` and live fetch
+blocked): you cannot safely target any page. Write `research/` and the new
+article only, put a big NOTE in `review-packet.md` that the 5 seoPages refreshes
+were skipped for lack of a snapshot, and still open the PR.
 
 ## Step 3 — Pick this week's focus area
 
@@ -255,6 +270,12 @@ Open the PR against `main` with `review-packet.md` as the body. Title:
 do not run `apply-cycle.mjs`, do not touch the CMS. Post a one-paragraph summary
 as your final message.
 
+**If `git push` or PR creation fails** (e.g. GitHub App not authorised for the
+org): the sandbox is ephemeral, so the commit will be lost. In that case your
+final message MUST include (a) the exact failure, (b) the full text of
+`review-packet.md`, and (c) `git format-patch main --stdout` output for the
+branch, so a human can recover the cycle. Still do everything else first.
+
 ---
 
 ## Ahrefs seam (for later)
@@ -272,7 +293,8 @@ When an Ahrefs MCP connector is attached to this routine:
   no admin). The routine has no MCP key and must not acquire one.
 - Never invent metrics, customer names, testimonials, or benchmarks.
 - Never introduce country-specific framing unless the target keyword is geo-specific.
-- Only touch files under `cycles/<date>/` and `social/queue/<date>/`. Do not edit
-  `scripts/`, `docs/`, `src/`, or config.
+- Only create files under `cycles/<date>/` and `social/queue/<date>/`. Do not edit
+  anything in `scripts/`, `docs/`, `src/`, `.github/`, or config. (Copying the
+  committed snapshot *into* `cycles/<date>/inputs/` in Step 2 is fine.)
 - If a step can't complete (e.g. web search unavailable), write what you have,
   note the gap in `review-packet.md`, and still open the PR.
