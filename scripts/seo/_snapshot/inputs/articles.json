@@ -1,7 +1,310 @@
 [
   {
+    "createdAt": "2026-09-05T14:50:01.575Z",
+    "updatedAt": "2026-09-06T11:30:43.421Z",
+    "title": "What AI coaching actually feels like for the client — and why that changes retention",
+    "slug": "ai-coaching-client-experience",
+    "excerpt": "\"AI coaching\" usually means the coach's workflow. But the client feels it too — in how fast their plan responds, and whether they understand why it changed. That second part is most of retention.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.437Z",
+      "updatedAt": "2026-09-02T15:43:17.437Z",
+      "slug": "ai-technology",
+      "name": "AI & Technology",
+      "description": "How AI and new tools are reshaping coaching in India.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad90"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.606Z",
+      "updatedAt": "2026-09-03T07:47:30.980Z",
+      "name": "Vikram Singh",
+      "slug": "vikram-singh",
+      "shortBio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
+      "bio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984414cf6855ff1eabad6d"
+    },
+    "publishedDate": "2026-09-05T00:00:00.000Z",
+    "readTime": "6 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/client_chain.png",
+    "funnelStage": "consideration",
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "tags": null,
+    "id": "6a9c2c191ffc75efe996044b"
+  },
+  {
+    "createdAt": "2026-09-05T14:49:42.435Z",
+    "updatedAt": "2026-09-06T11:30:44.043Z",
+    "title": "Software for multi-location gyms and studios: one system for every coach on the floor",
+    "slug": "gym-studio-management-software",
+    "excerpt": "Five coaches, three ways of tracking clients, no view of what's actually happening. Seat-based plans, per-coach dashboards and a single revenue picture — here's what Trainzilla does for a gym.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.645Z",
+      "updatedAt": "2026-09-02T15:43:17.645Z",
+      "slug": "business-growth",
+      "name": "Business & Growth",
+      "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad98"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.206Z",
+      "updatedAt": "2026-09-03T07:47:46.734Z",
+      "name": "Rajesh Kumar",
+      "slug": "rajesh-kumar",
+      "shortBio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
+      "bio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984414cf6855ff1eabad35"
+    },
+    "publishedDate": "2026-09-05T00:00:00.000Z",
+    "readTime": "7 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/gym_stat.png",
+    "funnelStage": "decision",
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "tags": null,
+    "id": "6a9c2c061ffc75efe996043e"
+  },
+  {
+    "createdAt": "2026-09-05T14:49:23.587Z",
+    "updatedAt": "2026-09-06T11:30:44.594Z",
+    "title": "Software for yoga and wellness coaches: light-touch tools that still hold people accountable",
+    "slug": "yoga-wellness-coaching-software",
+    "excerpt": "Yoga and wellness coaching isn't sets and reps. It's routines, consistency and check-ins. Most coaching software is built for lifting — here's the part of Trainzilla that fits how you actually work.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.841Z",
+      "updatedAt": "2026-09-02T15:43:17.841Z",
+      "slug": "client-management",
+      "name": "Client Management",
+      "description": "Retention, communication and coaching clients through real life.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabada0"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.411Z",
+      "updatedAt": "2026-09-02T15:43:16.411Z",
+      "name": "Sneha Joshi",
+      "slug": "sneha-joshi",
+      "shortBio": "Digital Marketing Specialist & Fitness Industry Expert with 7 years helping trainers grow their online presence.",
+      "bio": "Digital Marketing Specialist & Fitness Industry Expert with 7 years helping trainers grow their online presence.",
+      "_status": "published",
+      "id": "6a984414cf6855ff1eabad55",
+      "links": []
+    },
+    "publishedDate": "2026-09-05T00:00:00.000Z",
+    "readTime": "6 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/yoga_bars.png",
+    "funnelStage": "decision",
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "tags": null,
+    "id": "6a9c2bf31ffc75efe9960431"
+  },
+  {
+    "createdAt": "2026-09-05T14:49:04.573Z",
+    "updatedAt": "2026-09-06T11:30:45.145Z",
+    "title": "Software for nutritionists and diet coaches: the parts that actually save you time",
+    "slug": "nutrition-coaching-software",
+    "excerpt": "Building macros by hand, rewriting meal plans off every check-in, chasing food logs across WhatsApp. Here's how Trainzilla turns each of those into something faster — and where the AI genuinely helps.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:18.033Z",
+      "updatedAt": "2026-09-02T15:43:18.033Z",
+      "slug": "nutrition",
+      "name": "Nutrition",
+      "description": "Diet planning and nutrition guidance for Indian clients.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984416cf6855ff1eabada8"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.997Z",
+      "updatedAt": "2026-09-03T07:46:56.324Z",
+      "name": "Dr. Arjun Patel",
+      "slug": "arjun-patel",
+      "shortBio": "Nutritionist & Sports Dietitian with 10+ years specializing in vegetarian and plant-based nutrition for athletes.",
+      "bio": "Nutritionist & Sports Dietitian with 10+ years specializing in vegetarian and plant-based nutrition for athletes.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984414cf6855ff1eabad7e"
+    },
+    "publishedDate": "2026-09-05T00:00:00.000Z",
+    "readTime": "6 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/nutri_flow.png",
+    "funnelStage": "decision",
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "tags": null,
+    "id": "6a9c2be01ffc75efe9960424"
+  },
+  {
+    "createdAt": "2026-09-05T14:48:42.845Z",
+    "updatedAt": "2026-09-06T11:30:45.686Z",
+    "title": "Software for online fitness coaches: what changes when your business runs remote",
+    "slug": "online-fitness-coaching-software",
+    "excerpt": "No gym floor, no face-to-face read on a client's week. Everything you know about them comes through a screen — so the software you run it on isn't a nice-to-have, it's the practice. Here's how Trainzilla is built for that.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.841Z",
+      "updatedAt": "2026-09-02T15:43:17.841Z",
+      "slug": "client-management",
+      "name": "Client Management",
+      "description": "Retention, communication and coaching clients through real life.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabada0"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.804Z",
+      "updatedAt": "2026-09-03T07:47:14.646Z",
+      "name": "Kavya Reddy",
+      "slug": "kavya-reddy",
+      "shortBio": "Certified Trainer & Seasonal Training Specialist with 8 years of experience building programs that hold up in any weather.",
+      "bio": "Certified Trainer & Seasonal Training Specialist with 8 years of experience building programs that hold up in any weather.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984414cf6855ff1eabad76"
+    },
+    "publishedDate": "2026-09-05T00:00:00.000Z",
+    "readTime": "7 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/online_loop.png",
+    "funnelStage": "decision",
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "tags": null,
+    "id": "6a9c2bca1ffc75efe9960417"
+  },
+  {
+    "createdAt": "2026-09-05T14:19:38.494Z",
+    "updatedAt": "2026-09-06T11:30:46.303Z",
+    "title": "What coaching software actually costs — and when it starts paying for itself",
+    "slug": "coaching-software-cost-india",
+    "excerpt": "Free Launch is ₹0 forever and Coach Pro is ₹499/month — but the number that matters is what you're already paying in Sunday evenings. The honest arithmetic, including when not to upgrade.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.645Z",
+      "updatedAt": "2026-09-02T15:43:17.645Z",
+      "slug": "business-growth",
+      "name": "Business & Growth",
+      "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad98"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.206Z",
+      "updatedAt": "2026-09-03T07:47:46.734Z",
+      "name": "Rajesh Kumar",
+      "slug": "rajesh-kumar",
+      "shortBio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
+      "bio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984414cf6855ff1eabad35"
+    },
+    "publishedDate": "2026-09-05T00:00:00.000Z",
+    "readTime": "6 min read",
+    "funnelStage": "decision",
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "tags": null,
+    "id": "6a9c24fa1ffc75efe996033e"
+  },
+  {
+    "createdAt": "2026-09-05T13:50:39.558Z",
+    "updatedAt": "2026-09-06T11:30:46.740Z",
+    "title": "How to connect Trainzilla to Claude (step by step)",
+    "slug": "connect-trainzilla-to-claude",
+    "excerpt": "A short, exact walkthrough: connect your Trainzilla coach account to Claude, verify it worked, and run your first real client workflow — plus what the connector will never do.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.437Z",
+      "updatedAt": "2026-09-02T15:43:17.437Z",
+      "slug": "ai-technology",
+      "name": "AI & Technology",
+      "description": "How AI and new tools are reshaping coaching in India.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad90"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.606Z",
+      "updatedAt": "2026-09-03T07:47:30.980Z",
+      "name": "Vikram Singh",
+      "slug": "vikram-singh",
+      "shortBio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
+      "bio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984414cf6855ff1eabad6d"
+    },
+    "publishedDate": "2026-09-05T00:00:00.000Z",
+    "readTime": "5 min read",
+    "funnelStage": "decision",
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "tags": null,
+    "heroImage": "https://cms.trainzilla.in/api/media/file/step2-add-connector.png",
+    "id": "6a9c1e2f1ffc75efe996016c"
+  },
+  {
+    "createdAt": "2026-09-05T13:49:18.765Z",
+    "updatedAt": "2026-09-06T11:30:47.236Z",
+    "title": "AI agents for coaches: what changes when the AI can actually see your clients",
+    "slug": "ai-agents-mcp-coaching",
+    "excerpt": "Most AI for fitness is a chatbot that has never met your clients. Here is what changes when your assistant can read your real Trainzilla account, and what we deliberately stopped it from doing.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.437Z",
+      "updatedAt": "2026-09-02T15:43:17.437Z",
+      "slug": "ai-technology",
+      "name": "AI & Technology",
+      "description": "How AI and new tools are reshaping coaching in India.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad90"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.606Z",
+      "updatedAt": "2026-09-03T07:47:30.980Z",
+      "name": "Vikram Singh",
+      "slug": "vikram-singh",
+      "shortBio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
+      "bio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984414cf6855ff1eabad6d"
+    },
+    "publishedDate": "2026-09-05T00:00:00.000Z",
+    "readTime": "7 min read",
+    "funnelStage": "consideration",
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "tags": null,
+    "heroImage": "https://cms.trainzilla.in/api/media/file/step4-tool-result.png",
+    "id": "6a9c1dde1ffc75efe9960159"
+  },
+  {
     "createdAt": "2026-09-02T15:43:19.613Z",
-    "updatedAt": "2026-09-03T07:54:09.096Z",
+    "updatedAt": "2026-09-06T11:30:06.517Z",
     "title": "Digital Payments: A Complete Guide for Coaches",
     "slug": "upi-digital-payments-guide",
     "excerpt": "Everything you need to accept digital payments, stay on top of tax compliance, and use payment data to grow your coaching income.",
@@ -56,11 +359,12 @@
       "noindex": false
     },
     "_status": "published",
+    "funnelStage": "awareness",
     "id": "6a984417cf6855ff1eabade0"
   },
   {
     "createdAt": "2026-09-02T15:43:19.395Z",
-    "updatedAt": "2026-09-03T07:53:51.509Z",
+    "updatedAt": "2026-09-06T11:30:07.022Z",
     "title": "Nutrition Planning for Vegetarian Clients",
     "slug": "vegetarian-nutrition-planning",
     "excerpt": "Build vegetarian meal plans clients actually follow — protein combining, sample plans by goal, deficiency management, and practical food swaps.",
@@ -115,11 +419,12 @@
       "noindex": false
     },
     "_status": "published",
+    "funnelStage": "awareness",
     "id": "6a984417cf6855ff1eabadd8"
   },
   {
     "createdAt": "2026-09-02T15:43:19.176Z",
-    "updatedAt": "2026-09-03T07:53:33.672Z",
+    "updatedAt": "2026-09-06T11:30:07.517Z",
     "title": "Keeping Clients Training Through Bad-Weather Seasons",
     "slug": "monsoon-fitness-training",
     "excerpt": "When rain, heat, or cold pushes training indoors for weeks, the right indoor programming and motivation tactics keep clients engaged and retention high.",
@@ -174,11 +479,12 @@
       "noindex": false
     },
     "_status": "published",
+    "funnelStage": "awareness",
     "id": "6a984417cf6855ff1eabadd0"
   },
   {
     "createdAt": "2026-09-02T15:43:18.951Z",
-    "updatedAt": "2026-09-03T07:53:16.063Z",
+    "updatedAt": "2026-09-06T11:30:07.980Z",
     "title": "Managing Client Expectations Through the Holidays",
     "slug": "festival-season-client-management",
     "excerpt": "Holidays and celebrations don't have to derail client progress. A pre / during / post framework that keeps people on track without asking them to sit out.",
@@ -233,6 +539,7 @@
       "noindex": false
     },
     "_status": "published",
+    "funnelStage": "awareness",
     "id": "6a984416cf6855ff1eabadc8"
   },
   {
@@ -292,11 +599,12 @@
       "noindex": false
     },
     "_status": "published",
-    "id": "6a984416cf6855ff1eabadc0"
+    "id": "6a984416cf6855ff1eabadc0",
+    "funnelStage": "consideration"
   },
   {
     "createdAt": "2026-09-02T15:43:18.505Z",
-    "updatedAt": "2026-09-03T07:52:39.515Z",
+    "updatedAt": "2026-09-06T11:30:08.430Z",
     "title": "Building a Sustainable Fitness Business in Smaller Cities",
     "slug": "business-growth-tier2-cities",
     "excerpt": "Rising disposable incomes, growing health awareness, and less competition make secondary cities strong markets for a coaching business. Here's how to build one.",
@@ -351,6 +659,7 @@
       "noindex": false
     },
     "_status": "published",
+    "funnelStage": "awareness",
     "id": "6a984416cf6855ff1eabadb8"
   },
   {
@@ -410,6 +719,7 @@
       "noindex": false
     },
     "_status": "published",
-    "id": "6a984416cf6855ff1eabadb0"
+    "id": "6a984416cf6855ff1eabadb0",
+    "funnelStage": "consideration"
   }
 ]

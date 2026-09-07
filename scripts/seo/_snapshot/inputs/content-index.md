@@ -1,4 +1,4 @@
-# CMS content snapshot — 2026-09-03
+# CMS content snapshot — 2026-09-07
 
 Source: https://cms.trainzilla.in (published only). Regenerate with `node scripts/seo/fetch-cms-state.mjs scripts/seo/_snapshot`.
 
@@ -50,10 +50,18 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 | `workoutPlanning` | true | false | Build Workout Plans in TrainZilla \| Help | Create workout plans from training-split templates, add exercises with video, set progress |
 | `workoutPlans` | true | false | Workout Plan Builder for Personal Trainers \| TrainZilla | Build workout plans on real training-split templates — strength, HYROX, running, hybrid —  |
 
-## articles (7)
+## articles (15)
 
 | slug | title | category | published | updated | readTime |
 | --- | --- | --- | --- | --- | --- |
+| `ai-coaching-client-experience` | What AI coaching actually feels like for the client — and why that changes retention | ai-technology | 2026-09-05T00:00:00.000Z |  | 6 min read |
+| `gym-studio-management-software` | Software for multi-location gyms and studios: one system for every coach on the floor | business-growth | 2026-09-05T00:00:00.000Z |  | 7 min read |
+| `yoga-wellness-coaching-software` | Software for yoga and wellness coaches: light-touch tools that still hold people accountable | client-management | 2026-09-05T00:00:00.000Z |  | 6 min read |
+| `nutrition-coaching-software` | Software for nutritionists and diet coaches: the parts that actually save you time | nutrition | 2026-09-05T00:00:00.000Z |  | 6 min read |
+| `online-fitness-coaching-software` | Software for online fitness coaches: what changes when your business runs remote | client-management | 2026-09-05T00:00:00.000Z |  | 7 min read |
+| `coaching-software-cost-india` | What coaching software actually costs — and when it starts paying for itself | business-growth | 2026-09-05T00:00:00.000Z |  | 6 min read |
+| `connect-trainzilla-to-claude` | How to connect Trainzilla to Claude (step by step) | ai-technology | 2026-09-05T00:00:00.000Z |  | 5 min read |
+| `ai-agents-mcp-coaching` | AI agents for coaches: what changes when the AI can actually see your clients | ai-technology | 2026-09-05T00:00:00.000Z |  | 7 min read |
 | `upi-digital-payments-guide` | Digital Payments: A Complete Guide for Coaches | business-growth | 2024-12-25T00:00:00.000Z | 2024-12-25T00:00:00.000Z | 6 min read |
 | `vegetarian-nutrition-planning` | Nutrition Planning for Vegetarian Clients | nutrition | 2025-01-03T00:00:00.000Z | 2025-01-03T00:00:00.000Z | 7 min read |
 | `monsoon-fitness-training` | Keeping Clients Training Through Bad-Weather Seasons | client-management | 2025-01-05T00:00:00.000Z | 2025-01-05T00:00:00.000Z | 7 min read |
@@ -62,6 +70,14 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 | `business-growth-tier2-cities` | Building a Sustainable Fitness Business in Smaller Cities | business-growth | 2025-01-08T00:00:00.000Z | 2025-01-08T00:00:00.000Z | 6 min read |
 | `ai-fitness-revolution` | The Future of Personal Training: The AI Revolution | ai-technology | 2025-01-10T00:00:00.000Z | 2025-01-10T00:00:00.000Z | 8 min read |
 
+- **ai-coaching-client-experience** — excerpt: "AI coaching" usually means the coach's workflow. But the client feels it too — in how fast their plan responds, and whether they understand why it changed. Tha  _(~585 words in body)_
+- **gym-studio-management-software** — excerpt: Five coaches, three ways of tracking clients, no view of what's actually happening. Seat-based plans, per-coach dashboards and a single revenue picture — here's  _(~526 words in body)_
+- **yoga-wellness-coaching-software** — excerpt: Yoga and wellness coaching isn't sets and reps. It's routines, consistency and check-ins. Most coaching software is built for lifting — here's the part of Train  _(~547 words in body)_
+- **nutrition-coaching-software** — excerpt: Building macros by hand, rewriting meal plans off every check-in, chasing food logs across WhatsApp. Here's how Trainzilla turns each of those into something fa  _(~574 words in body)_
+- **online-fitness-coaching-software** — excerpt: No gym floor, no face-to-face read on a client's week. Everything you know about them comes through a screen — so the software you run it on isn't a nice-to-hav  _(~716 words in body)_
+- **coaching-software-cost-india** — excerpt: Free Launch is ₹0 forever and Coach Pro is ₹499/month — but the number that matters is what you're already paying in Sunday evenings. The honest arithmetic, inc  _(~842 words in body)_
+- **connect-trainzilla-to-claude** — excerpt: A short, exact walkthrough: connect your Trainzilla coach account to Claude, verify it worked, and run your first real client workflow — plus what the connector  _(~783 words in body)_
+- **ai-agents-mcp-coaching** — excerpt: Most AI for fitness is a chatbot that has never met your clients. Here is what changes when your assistant can read your real Trainzilla account, and what we de  _(~992 words in body)_
 - **upi-digital-payments-guide** — excerpt: Everything you need to accept digital payments, stay on top of tax compliance, and use payment data to grow your coaching income.  _(~488 words in body)_
 - **vegetarian-nutrition-planning** — excerpt: Build vegetarian meal plans clients actually follow — protein combining, sample plans by goal, deficiency management, and practical food swaps.  _(~716 words in body)_
 - **monsoon-fitness-training** — excerpt: When rain, heat, or cold pushes training indoors for weeks, the right indoor programming and motivation tactics keep clients engaged and retention high.  _(~487 words in body)_
@@ -91,10 +107,19 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
   - Master the Future of Personal Training with Artificial Intelligence
   - topics: [object Object]; [object Object]; [object Object]; [object Object]; [object Object]; [object Object]; [object Object]; [object Object]
 
-## faqs (19)
+## faqs (28)
 
+- [payments-billing] Does Trainzilla take a cut of my client payments?
+- [getting-started] Does the AI change my clients' plans on its own?
+- [payments-billing] How much does Trainzilla cost?
+- [getting-started] Can I try Trainzilla with real clients before I pay?
+- [getting-started] Can I connect Trainzilla to Claude, ChatGPT or another AI assistant?
+- [getting-started] What can the AI assistant inside the coach app do?
 - [getting-started] How do I create my trainer profile on TrainZilla?
 - [getting-started] What certifications do I need to use TrainZilla?
+- [client-management] How do I move my existing clients onto Trainzilla?
+- [payments-billing] Is there a contract or lock-in?
+- [payments-billing] What happens when I outgrow the Free plan?
 - [getting-started] How does the AI workout generator work?
 - [client-management] How do I add a new client to my dashboard?
 - [client-management] Can I manage family members or couples together?
@@ -111,7 +136,7 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 - [technical-support] Why is my dashboard loading slowly?
 - [technical-support] Can I export my client data?
 - [video-training] How do I conduct video training sessions?
-- [video-training] What equipment do I need for online training?
+- [video-training] What do I need to start using Trainzilla?
 
 ## blogCategories (4)
 

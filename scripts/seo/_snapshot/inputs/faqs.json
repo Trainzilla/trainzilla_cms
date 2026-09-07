@@ -1,8 +1,8 @@
 [
   {
-    "createdAt": "2026-09-02T15:43:05.459Z",
-    "updatedAt": "2026-09-02T15:43:05.459Z",
-    "question": "What equipment do I need for online training?",
+    "createdAt": "2026-09-06T11:32:08.690Z",
+    "updatedAt": "2026-09-06T11:32:08.690Z",
+    "question": "What happens when I outgrow the Free plan?",
     "answer": {
       "root": {
         "type": "root",
@@ -25,7 +25,390 @@
                 "style": "",
                 "mode": "normal",
                 "detail": 0,
-                "text": "For professional online training you need: a stable internet connection (minimum 2 Mbps), a device with camera and microphone (smartphone, tablet, or laptop), good lighting for demonstrations, and a clear background. A tripod or device stand is recommended for stable video.",
+                "text": "Free Launch has no time limit — you move to Coach Pro when you want the client app, check-ins, habits, multiple offers and analytics, not because a trial expired. Upgrading is one click and keeps everything you've already set up. Gyms with several coaches move to seat-based plans starting at ₹1,499/month for 5 coaches.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "payments-billing",
+    "order": 26,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a9d4f381ffc75efe9960ad1"
+  },
+  {
+    "createdAt": "2026-09-06T11:32:08.497Z",
+    "updatedAt": "2026-09-06T11:32:08.497Z",
+    "question": "Is there a contract or lock-in?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "No contract. Coach Pro is month-to-month — cancel any time and you drop back to Free Launch. You can export your client data (contacts, progress history, workout logs, payment records) as a spreadsheet whenever you want, so nothing is trapped.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "payments-billing",
+    "order": 24,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a9d4f381ffc75efe9960aca"
+  },
+  {
+    "createdAt": "2026-09-06T11:32:08.296Z",
+    "updatedAt": "2026-09-06T11:32:08.296Z",
+    "question": "How do I move my existing clients onto Trainzilla?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Add each client from your dashboard with their basic details and goals, then send them an invite by email or WhatsApp to install the client app. You rebuild their current plan once from a template (or let the AI draft it from their profile), and from then on check-ins, habits and progress all live in one place. Most coaches move their roster over a week or two, a few clients at a time.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "client-management",
+    "order": 22,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a9d4f381ffc75efe9960ac3"
+  },
+  {
+    "createdAt": "2026-09-06T11:32:08.106Z",
+    "updatedAt": "2026-09-06T11:32:08.106Z",
+    "question": "Can I try Trainzilla with real clients before I pay?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Yes. Free Launch is ₹0 forever and lets you run a profile, one paid offer and an invite link — enough to onboard a first client and see how it works. Coach Pro (₹499/month) unlocks the client app, check-ins, habits and the full toolset when you're ready; there's no card required to start and no trial clock.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "getting-started",
+    "order": 13,
+    "featuredOnPages": [
+      "faq",
+      "home"
+    ],
+    "_status": "published",
+    "id": "6a9d4f381ffc75efe9960abc"
+  },
+  {
+    "createdAt": "2026-09-06T11:32:07.906Z",
+    "updatedAt": "2026-09-06T11:32:07.906Z",
+    "question": "Does Trainzilla take a cut of my client payments?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "No. Your clients pay you directly through your own payment setup — Trainzilla doesn't sit between you and your revenue or take a percentage. You pay a flat monthly platform fee (₹0 on Free Launch, ₹499 on Coach Pro) and keep 100% of what your clients pay you.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "payments-billing",
+    "order": 10,
+    "featuredOnPages": [
+      "faq",
+      "home"
+    ],
+    "_status": "published",
+    "id": "6a9d4f371ffc75efe9960ab5"
+  },
+  {
+    "createdAt": "2026-09-06T10:26:41.848Z",
+    "updatedAt": "2026-09-06T11:32:05.894Z",
+    "question": "How much does Trainzilla cost?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Free Launch is ₹0 forever — a coach profile, one paid offer, an invite link and a marketplace listing. Coach Pro is ₹499/month and adds the client app, workout and nutrition tools, check-ins, habits, payments, messaging and analytics. Gyms use seat-based plans starting at ₹1,499/month for up to 5 coaches. You can start on Free Launch without a card.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "payments-billing",
+    "order": 12,
+    "featuredOnPages": [
+      "faq",
+      "home"
+    ],
+    "_status": "published",
+    "id": "6a9d3fe11ffc75efe99608e8"
+  },
+  {
+    "createdAt": "2026-09-06T10:26:41.640Z",
+    "updatedAt": "2026-09-06T10:26:41.640Z",
+    "question": "What can the AI assistant inside the coach app do?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "It reads a client's profile, logged sessions, habit compliance and recent check-ins, then proposes the next adjustment to their workout or diet plan with the reasoning attached. It can also sweep your whole roster for clients who have gone quiet, dropped below a compliance threshold, or whose subscription is about to lapse. You review and approve everything it suggests.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "getting-started",
+    "order": 16,
+    "featuredOnPages": [
+      "faq"
+    ],
+    "_status": "published",
+    "id": "6a9d3fe11ffc75efe99608e1"
+  },
+  {
+    "createdAt": "2026-09-06T10:26:41.418Z",
+    "updatedAt": "2026-09-06T11:32:05.595Z",
+    "question": "Does the AI change my clients' plans on its own?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "No. The AI drafts changes and explains its reasoning, but nothing reaches a client until you approve it. It cannot message your clients, cancel anyone, or push a plan change by itself. It does the assembling and the arithmetic — you stay the coach who decides.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "getting-started",
+    "order": 11,
+    "featuredOnPages": [
+      "faq",
+      "home"
+    ],
+    "_status": "published",
+    "id": "6a9d3fe11ffc75efe99608da"
+  },
+  {
+    "createdAt": "2026-09-06T10:26:41.212Z",
+    "updatedAt": "2026-09-06T11:32:06.157Z",
+    "question": "Can I connect Trainzilla to Claude, ChatGPT or another AI assistant?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Yes. Trainzilla has a secure connector (MCP) that links your coach account to Claude and other assistants that support it. Once connected you can ask in plain language — \"which clients haven't checked in this week?\", \"recalculate macros for this client at 2g protein per kg\" — and the assistant works with your real client data. You authorise the connection yourself, it only ever acts as you, and every change it proposes is shown to you before anything is saved.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "category": "getting-started",
+    "order": 14,
+    "featuredOnPages": [
+      "faq",
+      "home"
+    ],
+    "_status": "published",
+    "id": "6a9d3fe11ffc75efe99608d3"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:05.459Z",
+    "updatedAt": "2026-09-06T10:26:39.516Z",
+    "question": "What do I need to start using Trainzilla?",
+    "answer": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Just a phone or laptop with a browser — Trainzilla runs online, there is nothing for you to install. Your clients use the free Trainzilla mobile app to see their plan, log workouts, tick off habits and message you. For live video sessions you can use any call tool you already have (Zoom, Google Meet, WhatsApp); Trainzilla stores the link and handles the scheduling and reminders.",
                 "version": 1
               }
             ]
@@ -43,7 +426,7 @@
   },
   {
     "createdAt": "2026-09-02T15:43:05.260Z",
-    "updatedAt": "2026-09-02T15:43:05.260Z",
+    "updatedAt": "2026-09-06T10:26:39.853Z",
     "question": "How do I conduct video training sessions?",
     "answer": {
       "root": {
@@ -67,7 +450,7 @@
                 "style": "",
                 "mode": "normal",
                 "detail": 0,
-                "text": "TrainZilla includes integrated video calling: schedule sessions in your calendar, start calls directly from the dashboard, share your screen for exercise demonstrations, and record sessions for client review. The system works on mobile and desktop with good internet connectivity.",
+                "text": "Schedule an online or in-person session in Trainzilla and attach your own video-call link — Zoom, Google Meet or whatever you already use. The session appears in your calendar and in the client's app with automatic reminders. Afterwards you mark attendance, so no-shows and patterns stay visible on the client's record.",
                 "version": 1
               }
             ]
@@ -86,7 +469,7 @@
   },
   {
     "createdAt": "2026-09-02T15:43:05.067Z",
-    "updatedAt": "2026-09-02T15:43:05.067Z",
+    "updatedAt": "2026-09-06T10:26:40.141Z",
     "question": "Can I export my client data?",
     "answer": {
       "root": {
@@ -110,7 +493,7 @@
                 "style": "",
                 "mode": "normal",
                 "detail": 0,
-                "text": "Yes! You can export client data including contact information, progress reports, workout histories, and payment records. Go to Settings > Data Export and select the information you need. Data is provided in Excel format for your records.",
+                "text": "Yes. You can export your client data — contact details, progress history, workout logs and payment records — from your account settings as a spreadsheet. Your data is yours; there is no lock-in.",
                 "version": 1
               }
             ]
@@ -128,7 +511,7 @@
   },
   {
     "createdAt": "2026-09-02T15:43:04.878Z",
-    "updatedAt": "2026-09-02T15:43:04.878Z",
+    "updatedAt": "2026-09-06T10:26:40.435Z",
     "question": "Why is my dashboard loading slowly?",
     "answer": {
       "root": {
@@ -152,7 +535,7 @@
                 "style": "",
                 "mode": "normal",
                 "detail": 0,
-                "text": "Slow loading can be due to internet connectivity, browser cache, or high traffic. Try clearing your browser cache, checking your internet connection, using a different browser, or accessing during off-peak hours. Contact support if issues persist.",
+                "text": "First try a hard refresh and check your connection. Trainzilla works best on a current version of Chrome, Safari or Edge. If it is still slow, tell support which page and roughly when — they can check whether it is your account or something wider.",
                 "version": 1
               }
             ]
@@ -423,7 +806,7 @@
   },
   {
     "createdAt": "2026-09-02T15:43:03.457Z",
-    "updatedAt": "2026-09-02T15:43:03.457Z",
+    "updatedAt": "2026-09-06T11:32:07.714Z",
     "question": "How does GST billing work for fitness services?",
     "answer": {
       "root": {
@@ -458,15 +841,14 @@
     "category": "payments-billing",
     "order": 90,
     "featuredOnPages": [
-      "faq",
-      "home"
+      "faq"
     ],
     "_status": "published",
     "id": "6a98440736f85a38c0b83849"
   },
   {
     "createdAt": "2026-09-02T15:43:03.262Z",
-    "updatedAt": "2026-09-02T15:43:03.262Z",
+    "updatedAt": "2026-09-06T11:32:07.457Z",
     "question": "How do I set up UPI payments for Indian clients?",
     "answer": {
       "root": {
@@ -501,8 +883,7 @@
     "category": "payments-billing",
     "order": 80,
     "featuredOnPages": [
-      "faq",
-      "home"
+      "faq"
     ],
     "_status": "published",
     "id": "6a98440736f85a38c0b83841"
@@ -551,7 +932,7 @@
   },
   {
     "createdAt": "2026-09-02T15:43:02.882Z",
-    "updatedAt": "2026-09-02T15:43:02.882Z",
+    "updatedAt": "2026-09-06T11:32:07.199Z",
     "question": "How do I track client progress effectively?",
     "answer": {
       "root": {
@@ -575,7 +956,7 @@
                 "style": "",
                 "mode": "normal",
                 "detail": 0,
-                "text": "TrainZilla offers comprehensive progress tracking: take regular measurements and photos, log workout performances, track goal achievements, use our AI analytics for insights, and generate automated progress reports. Clients can also self-report through the mobile app.",
+                "text": "Progress lives in three places that connect: scheduled check-ins (measurements, photos and the questions you set, in one queue), habit tracking (a daily-target compliance percentage over any date range), and session attendance. The AI can read all of it and flag clients who have stalled or gone quiet before your next call.",
                 "version": 1
               }
             ]
@@ -586,8 +967,7 @@
     "category": "client-management",
     "order": 60,
     "featuredOnPages": [
-      "faq",
-      "home"
+      "faq"
     ],
     "_status": "published",
     "id": "6a98440636f85a38c0b83831"
@@ -636,7 +1016,7 @@
   },
   {
     "createdAt": "2026-09-02T15:43:02.496Z",
-    "updatedAt": "2026-09-02T15:43:02.496Z",
+    "updatedAt": "2026-09-06T11:32:06.937Z",
     "question": "How do I add a new client to my dashboard?",
     "answer": {
       "root": {
@@ -671,15 +1051,14 @@
     "category": "client-management",
     "order": 40,
     "featuredOnPages": [
-      "faq",
-      "home"
+      "faq"
     ],
     "_status": "published",
     "id": "6a98440636f85a38c0b83821"
   },
   {
     "createdAt": "2026-09-02T15:43:02.290Z",
-    "updatedAt": "2026-09-02T15:43:02.290Z",
+    "updatedAt": "2026-09-06T11:32:06.673Z",
     "question": "How does the AI workout generator work?",
     "answer": {
       "root": {
@@ -703,7 +1082,7 @@
                 "style": "",
                 "mode": "normal",
                 "detail": 0,
-                "text": "Our AI analyzes multiple factors including client goals, fitness level, available equipment, time constraints, injuries, and preferences. It then generates personalized workout plans drawing from our database of thousands of exercises. The AI learns from client feedback and progress to continuously improve recommendations.",
+                "text": "You give the AI the client's goal, experience, available equipment, time per session and any injuries, and it builds a structured plan from Trainzilla's exercise catalogue — real movements with demo content, not free text. You review it, change anything you want, and publish it to the client's app. As check-ins come in, the AI can propose updates to keep the plan current — always for your approval, never on its own.",
                 "version": 1
               }
             ]
@@ -714,8 +1093,7 @@
     "category": "getting-started",
     "order": 30,
     "featuredOnPages": [
-      "faq",
-      "home"
+      "faq"
     ],
     "_status": "published",
     "id": "6a98440636f85a38c0b83819"
@@ -764,7 +1142,7 @@
   },
   {
     "createdAt": "2026-09-02T15:43:01.821Z",
-    "updatedAt": "2026-09-02T15:43:01.821Z",
+    "updatedAt": "2026-09-06T11:32:06.416Z",
     "question": "How do I create my trainer profile on TrainZilla?",
     "answer": {
       "root": {
@@ -797,10 +1175,9 @@
       }
     },
     "category": "getting-started",
-    "order": 10,
+    "order": 18,
     "featuredOnPages": [
-      "faq",
-      "home"
+      "faq"
     ],
     "_status": "published",
     "id": "6a98440536f85a38c0b83809"
