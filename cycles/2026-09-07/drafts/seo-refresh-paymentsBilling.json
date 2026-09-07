@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "paymentsBilling",
+  "data": {
+    "title": "Payments, Billing & Coach Payouts | TrainZilla Help",
+    "description": "Set up Razorpay UPI, card and wallet payments, then automate revenue-share payouts to every coach — no manual invoice — plus GST invoices, from one dashboard.",
+    "keywords": "TrainZilla payments, Razorpay Route payouts, automatic coach payouts, UPI payments for coaches, revenue share software for personal trainers, GST invoices"
+  },
+  "_rationale": "The old description mentioned 'enable payouts' as one item in a list, burying the differentiator this cycle's competitive research found missing everywhere else (FLiiP/Wellyx automate franchisor-level payouts, not a no-invoice coach revenue share). Rewritten to lead with the automatic, no-invoice payout mechanism. Feature anchor: Razorpay Route payouts [GAP]."
+}

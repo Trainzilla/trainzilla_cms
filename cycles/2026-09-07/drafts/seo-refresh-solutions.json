@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "solutions",
+  "data": {
+    "title": "Multi-Location Gym & Franchise Software | TrainZilla",
+    "description": "Run every location and coach from one dashboard: per-location and per-coach revenue, automatic payouts, and an AI agent that drafts client plans.",
+    "keywords": "multi-location gym management software, gym franchise management software, per-location revenue dashboard, coach payout software gym, franchise gym software, gym software with franchise reporting"
+  },
+  "_rationale": "Existing copy already nodded to 'multi-location gym software' but stopped at a generic 'revenue dashboard' — this cycle's research shows the real gap competitors (Glofox, FLiiP) miss is the per-coach breakdown, so the title leads with the primary keyword and the description names the per-coach dashboard and automatic payouts explicitly. Feature anchors: per-location & per-coach revenue dashboards [GAP], Razorpay Route payouts [GAP]."
+}

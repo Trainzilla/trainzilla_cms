@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "successStories",
+  "data": {
+    "title": "Gym & Franchise Success Stories | TrainZilla",
+    "description": "How multi-location gyms and franchise owners track revenue per site and coach, automate payouts, and grow their client roster on TrainZilla.",
+    "keywords": "gym franchise success stories, multi-location gym management software, per-location revenue dashboard, franchise gym software, coaching business growth"
+  },
+  "_rationale": "Old copy was broad ('personal trainers, online coaches and studios') with no franchise/multi-location angle, even though this page is the natural proof point for a gym-ops buyer doing comparison research. Retitled and re-keyworded toward the focus cluster without adding or implying any specific customer name or figure not already on the page."
+}

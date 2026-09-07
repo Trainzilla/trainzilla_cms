@@ -1,0 +1,415 @@
+[
+  {
+    "createdAt": "2026-09-02T15:43:19.613Z",
+    "updatedAt": "2026-09-03T07:54:09.096Z",
+    "title": "Digital Payments: A Complete Guide for Coaches",
+    "slug": "upi-digital-payments-guide",
+    "excerpt": "Everything you need to accept digital payments, stay on top of tax compliance, and use payment data to grow your coaching income.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.645Z",
+      "updatedAt": "2026-09-02T15:43:17.645Z",
+      "slug": "business-growth",
+      "name": "Business & Growth",
+      "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad98"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:17.210Z",
+      "updatedAt": "2026-09-03T07:46:39.627Z",
+      "name": "Arun Malhotra",
+      "slug": "arun-malhotra",
+      "shortBio": "Financial Technology Expert & Business Consultant specializing in digital payments for small businesses.",
+      "bio": "Financial Technology Expert & Business Consultant specializing in digital payments for small businesses.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984415cf6855ff1eabad86"
+    },
+    "publishedDate": "2024-12-25T00:00:00.000Z",
+    "updatedDate": "2024-12-25T00:00:00.000Z",
+    "readTime": "6 min read",
+    "heroImage": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      {
+        "tag": "Digital Payments",
+        "id": "6a99271c5831af63f457e2ef"
+      },
+      {
+        "tag": "Payment Processing",
+        "id": "6a99271c5831af63f457e2f0"
+      },
+      {
+        "tag": "Tax Compliance",
+        "id": "6a99271c5831af63f457e2f1"
+      },
+      {
+        "tag": "Finance",
+        "id": "6a99271c5831af63f457e2f2"
+      },
+      {
+        "tag": "Business Growth",
+        "id": "6a99271c5831af63f457e2f3"
+      }
+    ],
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6a984417cf6855ff1eabade0"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:19.395Z",
+    "updatedAt": "2026-09-03T07:53:51.509Z",
+    "title": "Nutrition Planning for Vegetarian Clients",
+    "slug": "vegetarian-nutrition-planning",
+    "excerpt": "Build vegetarian meal plans clients actually follow — protein combining, sample plans by goal, deficiency management, and practical food swaps.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:18.033Z",
+      "updatedAt": "2026-09-02T15:43:18.033Z",
+      "slug": "nutrition",
+      "name": "Nutrition",
+      "description": "Diet planning and nutrition guidance for Indian clients.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984416cf6855ff1eabada8"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.997Z",
+      "updatedAt": "2026-09-03T07:46:56.324Z",
+      "name": "Dr. Arjun Patel",
+      "slug": "arjun-patel",
+      "shortBio": "Nutritionist & Sports Dietitian with 10+ years specializing in vegetarian and plant-based nutrition for athletes.",
+      "bio": "Nutritionist & Sports Dietitian with 10+ years specializing in vegetarian and plant-based nutrition for athletes.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984414cf6855ff1eabad7e"
+    },
+    "publishedDate": "2025-01-03T00:00:00.000Z",
+    "updatedDate": "2025-01-03T00:00:00.000Z",
+    "readTime": "7 min read",
+    "heroImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      {
+        "tag": "Vegetarian Nutrition",
+        "id": "6a99271c5831af63f457e2f4"
+      },
+      {
+        "tag": "Plant-Based Diet",
+        "id": "6a99271c5831af63f457e2f5"
+      },
+      {
+        "tag": "Meal Planning",
+        "id": "6a99271c5831af63f457e2f6"
+      },
+      {
+        "tag": "Protein Sources",
+        "id": "6a99271c5831af63f457e2f7"
+      },
+      {
+        "tag": "Fitness Nutrition",
+        "id": "6a99271c5831af63f457e2f8"
+      }
+    ],
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6a984417cf6855ff1eabadd8"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:19.176Z",
+    "updatedAt": "2026-09-03T07:53:33.672Z",
+    "title": "Keeping Clients Training Through Bad-Weather Seasons",
+    "slug": "monsoon-fitness-training",
+    "excerpt": "When rain, heat, or cold pushes training indoors for weeks, the right indoor programming and motivation tactics keep clients engaged and retention high.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.841Z",
+      "updatedAt": "2026-09-02T15:43:17.841Z",
+      "slug": "client-management",
+      "name": "Client Management",
+      "description": "Retention, communication and coaching clients through real life.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabada0"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.804Z",
+      "updatedAt": "2026-09-03T07:47:14.646Z",
+      "name": "Kavya Reddy",
+      "slug": "kavya-reddy",
+      "shortBio": "Certified Trainer & Seasonal Training Specialist with 8 years of experience building programs that hold up in any weather.",
+      "bio": "Certified Trainer & Seasonal Training Specialist with 8 years of experience building programs that hold up in any weather.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984414cf6855ff1eabad76"
+    },
+    "publishedDate": "2025-01-05T00:00:00.000Z",
+    "updatedDate": "2025-01-05T00:00:00.000Z",
+    "readTime": "7 min read",
+    "heroImage": "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      {
+        "tag": "Bad-Weather Training",
+        "id": "6a99271b5831af63f457e2ea"
+      },
+      {
+        "tag": "Indoor Workouts",
+        "id": "6a99271b5831af63f457e2eb"
+      },
+      {
+        "tag": "Seasonal Training",
+        "id": "6a99271b5831af63f457e2ec"
+      },
+      {
+        "tag": "Client Retention",
+        "id": "6a99271b5831af63f457e2ed"
+      },
+      {
+        "tag": "Weather Challenges",
+        "id": "6a99271b5831af63f457e2ee"
+      }
+    ],
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6a984417cf6855ff1eabadd0"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:18.951Z",
+    "updatedAt": "2026-09-03T07:53:16.063Z",
+    "title": "Managing Client Expectations Through the Holidays",
+    "slug": "festival-season-client-management",
+    "excerpt": "Holidays and celebrations don't have to derail client progress. A pre / during / post framework that keeps people on track without asking them to sit out.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.841Z",
+      "updatedAt": "2026-09-02T15:43:17.841Z",
+      "slug": "client-management",
+      "name": "Client Management",
+      "description": "Retention, communication and coaching clients through real life.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabada0"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.606Z",
+      "updatedAt": "2026-09-03T07:47:30.980Z",
+      "name": "Vikram Singh",
+      "slug": "vikram-singh",
+      "shortBio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
+      "bio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984414cf6855ff1eabad6d"
+    },
+    "publishedDate": "2024-12-28T00:00:00.000Z",
+    "updatedDate": "2024-12-28T00:00:00.000Z",
+    "readTime": "9 min read",
+    "heroImage": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      {
+        "tag": "Client Management",
+        "id": "6a99271b5831af63f457e2e5"
+      },
+      {
+        "tag": "Holiday Season",
+        "id": "6a99271b5831af63f457e2e6"
+      },
+      {
+        "tag": "Motivation",
+        "id": "6a99271b5831af63f457e2e7"
+      },
+      {
+        "tag": "Client Retention",
+        "id": "6a99271b5831af63f457e2e8"
+      },
+      {
+        "tag": "Fitness Goals",
+        "id": "6a99271b5831af63f457e2e9"
+      }
+    ],
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6a984416cf6855ff1eabadc8"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:18.740Z",
+    "updatedAt": "2026-09-03T07:52:56.244Z",
+    "title": "Digital Marketing for Fitness Professionals",
+    "slug": "digital-marketing-fitness-professionals",
+    "excerpt": "Use messaging apps, short-form video, and local search to attract more clients and build a recognisable coaching brand online.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.645Z",
+      "updatedAt": "2026-09-02T15:43:17.645Z",
+      "slug": "business-growth",
+      "name": "Business & Growth",
+      "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad98"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.411Z",
+      "updatedAt": "2026-09-02T15:43:16.411Z",
+      "name": "Sneha Joshi",
+      "slug": "sneha-joshi",
+      "shortBio": "Digital Marketing Specialist & Fitness Industry Expert with 7 years helping trainers grow their online presence.",
+      "bio": "Digital Marketing Specialist & Fitness Industry Expert with 7 years helping trainers grow their online presence.",
+      "_status": "published",
+      "id": "6a984414cf6855ff1eabad55",
+      "links": []
+    },
+    "publishedDate": "2024-12-30T00:00:00.000Z",
+    "updatedDate": "2024-12-30T00:00:00.000Z",
+    "readTime": "9 min read",
+    "heroImage": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      {
+        "tag": "Digital Marketing",
+        "id": "6a99271b5831af63f457e2e0"
+      },
+      {
+        "tag": "Social Media",
+        "id": "6a99271b5831af63f457e2e1"
+      },
+      {
+        "tag": "Messaging Apps",
+        "id": "6a99271b5831af63f457e2e2"
+      },
+      {
+        "tag": "Local SEO",
+        "id": "6a99271b5831af63f457e2e3"
+      },
+      {
+        "tag": "Fitness Marketing",
+        "id": "6a99271b5831af63f457e2e4"
+      }
+    ],
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6a984416cf6855ff1eabadc0"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:18.505Z",
+    "updatedAt": "2026-09-03T07:52:39.515Z",
+    "title": "Building a Sustainable Fitness Business in Smaller Cities",
+    "slug": "business-growth-tier2-cities",
+    "excerpt": "Rising disposable incomes, growing health awareness, and less competition make secondary cities strong markets for a coaching business. Here's how to build one.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.645Z",
+      "updatedAt": "2026-09-02T15:43:17.645Z",
+      "slug": "business-growth",
+      "name": "Business & Growth",
+      "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad98"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.206Z",
+      "updatedAt": "2026-09-03T07:47:46.734Z",
+      "name": "Rajesh Kumar",
+      "slug": "rajesh-kumar",
+      "shortBio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
+      "bio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984414cf6855ff1eabad35"
+    },
+    "publishedDate": "2025-01-08T00:00:00.000Z",
+    "updatedDate": "2025-01-08T00:00:00.000Z",
+    "readTime": "6 min read",
+    "heroImage": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      {
+        "tag": "Business Growth",
+        "id": "6a99271a5831af63f457e2db"
+      },
+      {
+        "tag": "Smaller Cities",
+        "id": "6a99271a5831af63f457e2dc"
+      },
+      {
+        "tag": "Entrepreneurship",
+        "id": "6a99271a5831af63f457e2dd"
+      },
+      {
+        "tag": "Fitness Business",
+        "id": "6a99271a5831af63f457e2de"
+      },
+      {
+        "tag": "Local Marketing",
+        "id": "6a99271a5831af63f457e2df"
+      }
+    ],
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6a984416cf6855ff1eabadb8"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:18.259Z",
+    "updatedAt": "2026-09-03T07:52:18.779Z",
+    "title": "The Future of Personal Training: The AI Revolution",
+    "slug": "ai-fitness-revolution",
+    "excerpt": "How AI is transforming the fitness industry — from workout generation to progress prediction — and why the trainers adopting it now are pulling ahead.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.437Z",
+      "updatedAt": "2026-09-02T15:43:17.437Z",
+      "slug": "ai-technology",
+      "name": "AI & Technology",
+      "description": "How AI and new tools are reshaping coaching in India.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad90"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:14.963Z",
+      "updatedAt": "2026-09-02T15:43:14.964Z",
+      "name": "Dr. Priya Sharma",
+      "slug": "priya-sharma",
+      "shortBio": "AI Researcher & Fitness Technology Expert with 12 years of experience in health tech innovation.",
+      "bio": "AI Researcher & Fitness Technology Expert with 12 years of experience in health tech innovation.",
+      "_status": "published",
+      "id": "6a984412cf6855ff1eabacd8",
+      "links": []
+    },
+    "publishedDate": "2025-01-10T00:00:00.000Z",
+    "updatedDate": "2025-01-10T00:00:00.000Z",
+    "readTime": "8 min read",
+    "heroImage": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      {
+        "tag": "AI Technology",
+        "id": "6a99271a5831af63f457e2d6"
+      },
+      {
+        "tag": "Fitness Tech",
+        "id": "6a99271a5831af63f457e2d7"
+      },
+      {
+        "tag": "Digital Transformation",
+        "id": "6a99271a5831af63f457e2d8"
+      },
+      {
+        "tag": "Coaching Business",
+        "id": "6a99271a5831af63f457e2d9"
+      },
+      {
+        "tag": "Personal Training",
+        "id": "6a99271a5831af63f457e2da"
+      }
+    ],
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6a984416cf6855ff1eabadb0"
+  }
+]

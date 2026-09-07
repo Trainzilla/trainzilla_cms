@@ -1,0 +1,470 @@
+{
+  "collection": "articles",
+  "op": "create",
+  "data": {
+    "title": "Multi-Location Gym Management Software: A Buyer's Guide",
+    "slug": "multi-location-gym-management-software",
+    "excerpt": "A buyer's guide to multi-location gym management software: per-location and per-coach revenue, automatic coach payouts, and attendance tracking.",
+    "readTime": "8 min read",
+    "publishedDate": "2026-09-07",
+    "updatedDate": "2026-09-07",
+    "tags": [
+      {
+        "tag": "Gym Operations"
+      },
+      {
+        "tag": "Franchise Management"
+      },
+      {
+        "tag": "Business Growth"
+      }
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/2/20/Personal_Training_at_a_Gym_-_Pushups.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "funnelStage": "decision",
+    "body": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "If you're running more than one location, spreadsheets and per-site logins stop working fast. Multi-location gym management software is supposed to fix that — one login, one view of every site, one place to see whether the business as a whole is actually working. The trouble is most software built for this problem stops at reporting revenue location by location and calls it done. This guide covers what a franchise or multi-location gym should actually expect: revenue broken down to the coach level, payouts that don't need an invoice, and attendance tracking that ties a coach's presence to the numbers they're credited with.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "What Counts as Multi-Location Gym Management Software",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "At minimum, it means one dashboard covering every site instead of logging into each location's system separately: shared client and coach records, one billing setup, and consolidated reporting. Beyond that baseline, the real test is whether the software treats a multi-location or franchise business as a different shape of problem — not just the single-gym product with more logins bolted on. Gym franchise management software should let a franchisor see the whole network while each location's team still runs its own day without duplicate data entry.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "See Revenue by Location — and by Coach",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Most multi-location platforms report revenue per site: which location is growing, which one is falling behind. That's useful, but it stops one layer too early — it tells an owner where the problem is, not who is driving it. TrainZilla's per-location and per-coach revenue dashboards add that second layer: see which location and which coach is actually profitable in the same view, instead of cross-referencing a location report against a separate staff spreadsheet.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "That matters most at the franchisor level. Instead of one rolled-up number, a franchise owner can see per-location and per-coach revenue side by side and know within minutes whether a slow month at one site is a location problem or a specific coach's roster shrinking — a per-location revenue dashboard that turns a monthly review meeting into a five-minute check.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Automate the Payout, Not Just the Report",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Reporting who earned what is only half the job — someone still has to move the money. A lot of gym franchise software automates the calculation (a commission percentage per trainer, a franchisee's monthly cut) but leaves the actual transfer as a manual step: an invoice, a bank transfer, a wait until the end of the month.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Razorpay Route payouts close that gap. The platform's cut is taken automatically, and each coach's revenue share reaches their bank account without either side raising an invoice. For a gym or studio paying multiple coaches on a revenue-share basis, that's the difference between a payout system and a payout report — coach payout software that actually pays, not just tallies.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "What Changes When You Add a Second (or Tenth) Location",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "A single-location gym mostly needs one thing: keep this location's clients on their plans. A franchise or multi-location operator needs that, plus a layer above it — comparing locations, standardising how coaches onboard clients, and rolling the same habit or workout template out to every site instead of rebuilding it five times. Multi-location fitness studio software earns its name at that second layer: plan templates a coach can deploy to fifty clients in a tap, and training-split templates so a new location's coaches aren't starting from a blank page.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Know Who Showed Up, Per Shift, Per Site",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Coach attendance gets treated as a scheduling detail in most gym software — a calendar entry, not a metric. Across multiple locations, that's a real gap: an owner reviewing per-location and per-coach revenue has no easy way to check whether a slow-earning coach is also under-showing for shifts. TrainZilla's coach attendance tracking sits next to the revenue numbers, so knowing which coaches showed up, per shift, isn't a separate report an owner has to go find.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Moving Your Existing Roster Over",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Switching gym management software with an existing client base across several locations is the part most owners dread. Bulk CSV client import handles the actual migration — bring in the whole roster in one upload instead of re-entering every client, location by location, by hand. It's a smaller feature than the payout or revenue-dashboard story, but it's usually the thing that decides whether a multi-location operator switches software at all.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Franchisor View vs. Franchisee View",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "A franchisor and a franchisee are usually looking for different things in the same dashboard. The franchisor wants the network-wide comparison — which locations and which coaches are pulling their weight, across the whole chain. A franchisee running one or two of those locations mostly wants their own site's numbers, without wading through data for locations they don't own. Software built for gym franchise management should support both views from the same underlying data, rather than forcing a franchisor to stitch together separate exports from each location's owner.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "What Multi-Location Gym Software Costs",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Pricing in this category is usually seat-based rather than a flat platform fee once a business adds coaches or locations. TrainZilla's ",
+                "version": 1
+              },
+              {
+                "type": "link",
+                "version": 2,
+                "format": "",
+                "indent": 0,
+                "direction": "ltr",
+                "fields": {
+                  "url": "https://trainzilla.in/pricing",
+                  "newTab": false,
+                  "linkType": "custom"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "format": 0,
+                    "style": "",
+                    "mode": "normal",
+                    "detail": 0,
+                    "text": "pricing page",
+                    "version": 1
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " breaks down the seat tiers for gyms and franchises, on top of a free-forever tier for solo coaches and Coach Pro at ₹499/month for a single coach (about $1 = ₹86). The right way to evaluate cost for a multi-location business isn't the per-seat number in isolation — it's whether the per-location and per-coach revenue view and the automatic payouts save more admin time than the extra seats cost.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "None of this replaces good operations — a per-location revenue dashboard doesn't fix a badly run location, and automatic payouts don't replace a fair commission structure. What it does is put the information and the money in the same place as the schedule, so running five locations doesn't take five times the admin of running one.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "block",
+            "version": 2,
+            "format": "",
+            "fields": {
+              "blockType": "ctaCard",
+              "heading": "See every location's revenue in one dashboard",
+              "body": "Track per-location and per-coach revenue, automate coach payouts, and track attendance across every site — free to start.",
+              "buttonLabel": "Start free",
+              "buttonHref": "https://app.trainzilla.in/register",
+              "style": "gradient"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "_rationale": "Primary keyword 'multi-location gym management software' (decision intent — 'software' head term, page-1 dominated by vendor landing pages/roundups per research/competitive.md). Focus area: Gym / franchise operations (ISO week 37 % 6 = 1). Feature anchors: per-location & per-coach revenue dashboards [GAP], Razorpay Route payouts [GAP], coach attendance tracking [GAP], with multi-location/franchise management [PARTIAL] and bulk CSV client import [PARTIAL] as supporting anchors. Why now: none of the page-1 competitors (ABC Ignite, Mindbody, Glofox, FLiiP, Wellyx/MyStudio) combine per-coach revenue with automatic no-invoice payouts and coach attendance in one view — see research/competitive.md.",
+  "_image": {
+    "source": "https://commons.wikimedia.org/wiki/File:Personal_Training_at_a_Gym_-_Pushups.jpg",
+    "creator": "www.localfitness.com.au",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "alt": "A personal trainer coaching a client through push-ups on a gym floor",
+    "attribution": "Photo: www.localfitness.com.au / Wikimedia Commons — CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)"
+  }
+}
