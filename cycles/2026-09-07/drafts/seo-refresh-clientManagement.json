@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "clientManagement",
+  "data": {
+    "title": "Manage Clients Across Every Location | TrainZilla Help",
+    "description": "Invite clients, reassign coaches across locations, and bulk-import your existing roster with one CSV — keep every plan, log and check-in in one place.",
+    "keywords": "manage clients TrainZilla, bulk import clients gym software, reassign coach multi-location, client roster, multi-location fitness studio software"
+  },
+  "_rationale": "The page already documents coach reassignment and bulk CSV import in the product, but the old metadata never surfaced either as a keyword — both matter specifically to a multi-location operator switching software. Title and keywords now target 'bulk import clients gym software' and the cross-location reassignment angle from this cycle's research."
+}

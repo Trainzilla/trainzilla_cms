@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "pricing",
+  "data": {
+    "title": "TrainZilla Pricing: Coach Pro & Gym Franchise Plans",
+    "description": "Free forever for solo coaches. Gym and franchise plans add per-location revenue dashboards and automatic coach payouts — see seat tiers and what's included.",
+    "keywords": "gym franchise software pricing, multi-location gym management software cost, Coach Pro, gym management pricing, seat-based gym plans, franchise gym software"
+  },
+  "_rationale": "Previous keywords were generic ('per client pricing') with no franchise-buyer language, even though the Gym seat tiers (GYM_STARTER/PRO/ENTERPRISE) are exactly what a multi-location evaluator searches pricing for. Title and description now name the franchise buyer directly and reference the per-location revenue dashboard feature anchor without changing any price figures."
+}

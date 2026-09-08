@@ -1,0 +1,112 @@
+{
+  "createdAt": "2026-09-02T15:43:07.700Z",
+  "updatedAt": "2026-09-03T07:31:34.837Z",
+  "globalType": "structuredData",
+  "softwareApplication": {
+    "name": "TrainZilla",
+    "softwareVersion": "2.0",
+    "datePublished": "2024-01-01",
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": [
+      {
+        "value": "Web",
+        "id": "6a984d855831af63f457e1d1"
+      },
+      {
+        "value": "iOS",
+        "id": "6a984d855831af63f457e1d2"
+      },
+      {
+        "value": "Android",
+        "id": "6a984d855831af63f457e1d3"
+      }
+    ],
+    "offers": [
+      {
+        "name": "Free Plan",
+        "price": "0",
+        "priceCurrency": "INR",
+        "description": "Free plan for individual personal trainers",
+        "id": "6a98440bcb24c569d717138f"
+      },
+      {
+        "name": "Professional Plan",
+        "price": "999",
+        "priceCurrency": "INR",
+        "description": "Professional plan with advanced features",
+        "id": "6a98440bcb24c569d7171390"
+      }
+    ],
+    "featureList": [
+      {
+        "value": "AI coaching agent that builds and weekly-adjusts client workout and diet plans",
+        "id": "6a984d855831af63f457e1d4"
+      },
+      {
+        "value": "Coach reviews and approves every AI plan before the client sees it",
+        "id": "6a984d855831af63f457e1d5"
+      },
+      {
+        "value": "In-dashboard AI assistant for managing your coaching business",
+        "id": "6a984d855831af63f457e1d6"
+      },
+      {
+        "value": "Workout builder with training-split templates and a video exercise library",
+        "id": "6a984d855831af63f457e1d7"
+      },
+      {
+        "value": "Diet and meal-plan builder with per-ingredient macro tracking",
+        "id": "6a984d855831af63f457e1d8"
+      },
+      {
+        "value": "Client meal and exercise swaps with instant macro-impact preview",
+        "id": "6a984d855831af63f457e1d9"
+      },
+      {
+        "value": "Habit tracking with streaks, milestones and reusable master habits",
+        "id": "6a984d855831af63f457e1da"
+      },
+      {
+        "value": "Custom client check-ins with photo, scale and text questions",
+        "id": "6a984d855831af63f457e1db"
+      },
+      {
+        "value": "Session booking with availability and online or in-person options",
+        "id": "6a984d855831af63f457e1dc"
+      },
+      {
+        "value": "Progress tracking with Apple Health and Health Connect sync",
+        "id": "6a984d855831af63f457e1dd"
+      },
+      {
+        "value": "Recurring client subscriptions and one-off payments via Razorpay, Google Play and Apple",
+        "id": "6a984d855831af63f457e1de"
+      },
+      {
+        "value": "Coach payouts to a linked bank account",
+        "id": "6a984d855831af63f457e1df"
+      },
+      {
+        "value": "Marketplace to sell workout and diet plans and templates",
+        "id": "6a984d855831af63f457e1e0"
+      },
+      {
+        "value": "Multi-location gym and franchise dashboard with per-coach revenue",
+        "id": "6a984d855831af63f457e1e1"
+      },
+      {
+        "value": "Coach app plus a free client app for Android and iOS",
+        "id": "6a984d855831af63f457e1e2"
+      },
+      {
+        "value": "Plan PDF export",
+        "id": "6a984d855831af63f457e1e3"
+      }
+    ]
+  },
+  "website": {
+    "searchUrlTemplate": "https://trainzilla.in/search?q={search_term_string}"
+  },
+  "_status": "published",
+  "id": "6a98440b36f85a38c0b838e4"
+}
