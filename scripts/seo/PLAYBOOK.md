@@ -27,7 +27,12 @@ cycles/<date>/
 
 A human then reviews the PR, edits the `drafts/*.json` if needed, and runs
 `node scripts/seo/apply-cycle.mjs cycles/<date>` locally to push them into the
-CMS **as drafts**, then publishes the good ones in the Payload admin.
+CMS. **`seoPages` refreshes publish immediately** — the server-side
+`mcpDraftGuard` hook (`src/hooks/mcpDraftGuard.ts`) deliberately exempts that
+one collection because a title/description/keywords change is low-risk and
+trivially reverted with another write. Everything else — the new article
+first among them — still lands **as an unpublished draft version**; a human
+publishes those deliberately in the Payload admin.
 
 ## Standard volume (per run)
 
@@ -324,7 +329,10 @@ This becomes the PR description. Sections:
    export TRAINZILLA_CMS_MCP_KEY=...        # from MCP_LOCAL_NOTES.md
    node scripts/seo/apply-cycle.mjs cycles/<date> --dry-run
    node scripts/seo/apply-cycle.mjs cycles/<date>
-   # then publish the good drafts at https://cms.trainzilla.in/admin
+   # seoPages refreshes above are now LIVE (src/hooks/mcpDraftGuard.ts exempts
+   # that collection from the draft guard — see below). The new article still
+   # landed as an unpublished draft: publish it at https://cms.trainzilla.in/admin
+   # after attaching the author/category named above.
    ```
 9. **Images** — link `images.md`; call out the article hero (URL + attribution +
    alt). Every image is from the committed pool; flag any `TODO` image here.
@@ -369,7 +377,11 @@ When an Ahrefs MCP connector is attached to this routine:
 ## Hard rules
 
 - Never merge the PR. Never write to the CMS (no `apply-cycle.mjs`, no MCP calls,
-  no admin). The routine has no MCP key and must not acquire one.
+  no admin). The routine has no MCP key and must not acquire one, and this
+  sandbox's network egress policy blocks `cms.trainzilla.in` outright even if
+  it did. (A human running `apply-cycle.mjs` from a trusted machine, after PR
+  review, is the only path to the CMS — see "How this cycle reaches the CMS"
+  below.)
 - Never invent metrics, customer names, testimonials, or benchmarks.
 - Never introduce country-specific framing unless the target keyword is geo-specific.
 - Only create files under `cycles/<date>/` and `social/queue/<date>/`. Do not edit

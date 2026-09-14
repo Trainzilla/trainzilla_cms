@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "ai-coach",
+  "data": {
+    "title": "AI Fitness Coach: Learns From Meal Swaps | TrainZilla",
+    "description": "An AI fitness coach that adapts workout and diet plans weekly — factoring in every meal swap and macro delta, with a coach reviewing every change.",
+    "keywords": "AI fitness coach, adaptive diet plan, meal swap macro delta, AI diet plan, personalised coaching app, AI workout plan generator"
+  },
+  "_rationale": "Ties the AI Coach page (usually anchored on recovery/check-in data) to this cycle's nutrition-flexibility cluster — the weekly adjust already factors in diet plan changes, so surfacing meal-swap awareness is accurate, not invented. Feature anchor: Per-ingredient macro breakdown [PARTIAL]."
+}
