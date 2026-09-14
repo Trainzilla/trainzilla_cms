@@ -82,7 +82,12 @@ for (const f of files) {
 
   const tool = `${op === 'create' ? 'create' : 'update'}${pascal(collection)}`
   const publishing = AUTO_PUBLISH_COLLECTIONS.has(collection)
-  const args = { data, draft: !publishing }
+  // The MCP tools take each field flat at the top level (confirmed via
+  // tools/list) — there is no `data` wrapper in their input schema.
+  // `draft: false` alone does not publish on this Payload setup — the
+  // versioned `_status` field has to be set explicitly, or the write lands
+  // as an unpublished draft version even though the call "succeeds".
+  const args = { ...data, draft: !publishing, ...(publishing && { _status: 'published' }) }
   if (op !== 'create') {
     if (key != null) args.where = JSON.stringify({ key: { equals: key } })
     else if (slug != null) args.where = JSON.stringify({ slug: { equals: slug } })
@@ -102,8 +107,9 @@ for (const f of files) {
   }
 
   try {
-    await callTool(tool, args)
+    const result = await callTool(tool, args)
     console.log(`  ok    ${tool}  ${key || slug || '(new)'}  ${publishing ? '[published]' : '[draft]'}`)
+    console.log(`        response: ${(typeof result === 'string' ? result : JSON.stringify(result)).slice(0, 2000)}`)
     applied.push(name)
   } catch (e) {
     console.log(`  FAIL  ${tool}  ${key || slug || '(new)'}  ${String(e).slice(0, 240)}`)
