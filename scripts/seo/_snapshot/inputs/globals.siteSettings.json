@@ -1,6 +1,6 @@
 {
   "createdAt": "2026-09-02T15:43:07.436Z",
-  "updatedAt": "2026-09-03T07:31:50.761Z",
+  "updatedAt": "2026-09-09T14:11:52.268Z",
   "globalType": "siteSettings",
   "siteName": "TrainZilla",
   "orgDescription": "TrainZilla is an AI-first coaching platform for personal trainers, online fitness coaches and gyms. An autonomous AI agent builds and weekly-adjusts each client's workout and diet plan under coach review, alongside client management, habit tracking, check-ins, session booking, progress tracking, payments and a branded client app.",
@@ -10,27 +10,72 @@
     {
       "platform": "x",
       "url": "https://x.com/trainzilla_in",
-      "id": "6a98440bcb24c569d7171387"
+      "id": "6aa169288292f62035e49264"
     },
     {
       "platform": "facebook",
       "url": "https://www.facebook.com/people/Trainzillain/61578776257338/",
-      "id": "6a98440bcb24c569d7171388"
+      "id": "6aa169288292f62035e49265"
     },
     {
       "platform": "linkedin",
       "url": "https://www.linkedin.com/company/trainzilla",
-      "id": "6a98440bcb24c569d7171389"
+      "id": "6aa169288292f62035e49266"
     },
     {
       "platform": "instagram",
       "url": "https://www.instagram.com/trainzilla.in",
-      "id": "6a98440bcb24c569d717138a"
+      "id": "6aa169288292f62035e49267"
     },
     {
       "platform": "youtube",
       "url": "https://www.youtube.com/@trainzilla_in",
-      "id": "6a98440bcb24c569d717138b"
+      "id": "6aa169288292f62035e49268"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/Trainzilla",
+      "id": "6aa169288292f62035e49269"
+    },
+    {
+      "platform": "producthunt",
+      "url": "https://www.producthunt.com/products/trainzilla",
+      "id": "6aa169288292f62035e4926a"
+    },
+    {
+      "platform": "playstore",
+      "url": "https://play.google.com/store/apps/details?id=com.devops.tzilla.trainzillaclient",
+      "id": "6aa169288292f62035e4926b"
+    },
+    {
+      "platform": "appstore",
+      "url": "https://apps.apple.com/us/app/trainzilla-for-clients/id6756607090",
+      "id": "6aa169288292f62035e4926c"
+    },
+    {
+      "platform": "capterra",
+      "url": "https://www.capterra.com/p/10041943/TrainZilla/",
+      "id": "6aa169288292f62035e4926d"
+    },
+    {
+      "platform": "trustpilot",
+      "url": "https://www.trustpilot.com/review/trainzilla.in",
+      "id": "6aa169288292f62035e4926e"
+    },
+    {
+      "platform": "peerpush",
+      "url": "https://peerpush.com/p/trainzilla",
+      "id": "6aa169288292f62035e4926f"
+    },
+    {
+      "platform": "indiehackers",
+      "url": "https://www.indiehackers.com/trainzilla",
+      "id": "6aa169288292f62035e49270"
+    },
+    {
+      "platform": "stork",
+      "url": "https://www.stork.ai/tools/trainzilla",
+      "id": "6aa169288292f62035e49271"
     }
   ],
   "contact": {

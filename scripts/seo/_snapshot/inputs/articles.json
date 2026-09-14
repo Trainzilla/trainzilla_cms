@@ -1,5 +1,56 @@
 [
   {
+    "createdAt": "2026-09-07T12:52:10.091Z",
+    "updatedAt": "2026-09-07T12:53:05.526Z",
+    "title": "Multi-Location Gym Management Software: A Buyer's Guide",
+    "slug": "multi-location-gym-management-software",
+    "excerpt": "A buyer's guide to multi-location gym management software: per-location and per-coach revenue, automatic coach payouts, and attendance tracking.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.645Z",
+      "updatedAt": "2026-09-02T15:43:17.645Z",
+      "slug": "business-growth",
+      "name": "Business & Growth",
+      "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad98"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:17.210Z",
+      "updatedAt": "2026-09-03T07:46:39.627Z",
+      "name": "Arun Malhotra",
+      "slug": "arun-malhotra",
+      "shortBio": "Financial Technology Expert & Business Consultant specializing in digital payments for small businesses.",
+      "bio": "Financial Technology Expert & Business Consultant specializing in digital payments for small businesses.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984415cf6855ff1eabad86"
+    },
+    "publishedDate": "2026-09-07T00:00:00.000Z",
+    "readTime": "8 min read",
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/2/20/Personal_Training_at_a_Gym_-_Pushups.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "tags": [
+      {
+        "tag": "Gym Operations",
+        "id": "6a9eb37ab7fab517e41a0ef4"
+      },
+      {
+        "tag": "Franchise Management",
+        "id": "6a9eb37ab7fab517e41a0ef5"
+      },
+      {
+        "tag": "Business Growth",
+        "id": "6a9eb37ab7fab517e41a0ef6"
+      }
+    ],
+    "funnelStage": "decision",
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6a9eb37a1ffc75efe9960c36"
+  },
+  {
     "createdAt": "2026-09-05T14:50:01.575Z",
     "updatedAt": "2026-09-06T11:30:43.421Z",
     "title": "What AI coaching actually feels like for the client — and why that changes retention",

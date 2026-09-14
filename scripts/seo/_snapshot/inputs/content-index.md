@@ -1,4 +1,4 @@
-# CMS content snapshot — 2026-09-07
+# CMS content snapshot — 2026-09-14
 
 Source: https://cms.trainzilla.in (published only). Regenerate with `node scripts/seo/fetch-cms-state.mjs scripts/seo/_snapshot`.
 
@@ -16,7 +16,7 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 | `blog` | true | false | TrainZilla Blog \| Grow Your Coaching Business | Practical guides for personal trainers and online coaches: pricing, client retention, mark |
 | `businessGrowthTier2` | true | false | Growing a Fitness Coaching Business Beyond Big Cities | How online coaches build a sustainable client base outside major metros — pricing, local m |
 | `client-app` | true | false | Free Fitness App for Clients \| TrainZilla | Your clients get a free app to follow their workout and diet plan, log sessions, build hab |
-| `clientManagement` | true | false | Manage Clients in TrainZilla \| Help | Invite and organise clients, accept client requests, assign or reassign coaches, and keep  |
+| `clientManagement` | true | false | Manage Clients Across Every Location \| TrainZilla Help | Invite clients, reassign coaches across locations, and bulk-import your existing roster wi |
 | `contact` | true | false | Contact TrainZilla \| Sales, Demos & Support | Talk to the TrainZilla team: book a product demo, ask about gym and enterprise plans, or g |
 | `dietPlans` | true | false | Diet & Meal Plan Builder for Coaches \| TrainZilla | Build client meal plans with per-ingredient macros and scheduled meals. Clients can swap a |
 | `digitalMarketingFitness` | true | false | Digital Marketing for Fitness Professionals \| TrainZilla | A practical digital marketing playbook for personal trainers and online coaches: content,  |
@@ -33,14 +33,14 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 | `mobileApp` | true | false | TrainZilla Mobile Apps Guide \| Help | How the TrainZilla coach app and the free client app work on Android and iOS: logging, cha |
 | `monsoonFitness` | true | false | Training Clients Through the Rainy Season \| TrainZilla | Keep clients active when the weather won't cooperate: home and indoor workout options, hab |
 | `nutritionVegetarian` | true | false | Vegetarian Nutrition Planning for Clients \| TrainZilla | Build high-protein vegetarian meal plans that clients actually follow — practical food swa |
-| `paymentsBilling` | true | false | Payments & Billing in TrainZilla \| Help | Set up Razorpay, take card, UPI and wallet payments, create client subscription plans, ena |
-| `pricing` | true | false | TrainZilla Pricing: Free Forever, Coach Pro & Gym Plans | Start free forever with core coaching tools. Upgrade to Coach Pro for plan templates, PDF  |
+| `paymentsBilling` | true | false | Payments, Billing & Coach Payouts \| TrainZilla Help | Set up Razorpay UPI, card and wallet payments, then automate revenue-share payouts to ever |
+| `pricing` | true | false | TrainZilla Pricing: Coach Pro & Gym Franchise Plans | Free forever for solo coaches. Gym and franchise plans add per-location revenue dashboards |
 | `privacyPolicy` | true | false | Privacy Policy \| TrainZilla | How TrainZilla collects, uses, stores and protects personal data for coaches and their cli |
 | `progressTracking` | true | false | Track Client Progress in TrainZilla \| Help | Review workout and diet logs, daily metrics and progress photos, sync Apple Health and Hea |
 | `refundPolicy` | true | false | Refund Policy \| TrainZilla | TrainZilla's refund policy for platform subscriptions and marketplace purchases — eligibil |
 | `register` | true | false | Start Free — Coaching Software for Trainers \| TrainZilla | Create a free TrainZilla account and start coaching in minutes: add clients, build workout |
-| `solutions` | true | false | Personal Trainer, Online Coach & Gym Software \| TrainZilla | One platform for solo trainers, online coaches and multi-site gyms: AI plan-building, clie |
-| `successStories` | true | false | Coach Success Stories & Client Transformations \| TrainZilla | See how personal trainers, online coaches and studios grew their client base and revenue o |
+| `solutions` | true | false | Multi-Location Gym & Franchise Software \| TrainZilla | Run every location and coach from one dashboard: per-location and per-coach revenue, autom |
+| `successStories` | true | false | Gym & Franchise Success Stories \| TrainZilla | How multi-location gyms and franchise owners track revenue per site and coach, automate pa |
 | `support` | true | false | Contact TrainZilla Support \| Help | Reach TrainZilla support for account, billing or technical issues. See what to include in  |
 | `termsOfService` | true | false | Terms of Service \| TrainZilla | The terms that govern your use of TrainZilla — accounts, subscriptions and payments, accep |
 | `training` | true | false | TrainZilla Training & Webinars for Coaches | Learn TrainZilla and level up your coaching: product training, live and recorded webinars, |
@@ -50,10 +50,11 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 | `workoutPlanning` | true | false | Build Workout Plans in TrainZilla \| Help | Create workout plans from training-split templates, add exercises with video, set progress |
 | `workoutPlans` | true | false | Workout Plan Builder for Personal Trainers \| TrainZilla | Build workout plans on real training-split templates — strength, HYROX, running, hybrid —  |
 
-## articles (15)
+## articles (16)
 
 | slug | title | category | published | updated | readTime |
 | --- | --- | --- | --- | --- | --- |
+| `multi-location-gym-management-software` | Multi-Location Gym Management Software: A Buyer's Guide | business-growth | 2026-09-07T00:00:00.000Z |  | 8 min read |
 | `ai-coaching-client-experience` | What AI coaching actually feels like for the client — and why that changes retention | ai-technology | 2026-09-05T00:00:00.000Z |  | 6 min read |
 | `gym-studio-management-software` | Software for multi-location gyms and studios: one system for every coach on the floor | business-growth | 2026-09-05T00:00:00.000Z |  | 7 min read |
 | `yoga-wellness-coaching-software` | Software for yoga and wellness coaches: light-touch tools that still hold people accountable | client-management | 2026-09-05T00:00:00.000Z |  | 6 min read |
@@ -70,6 +71,7 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 | `business-growth-tier2-cities` | Building a Sustainable Fitness Business in Smaller Cities | business-growth | 2025-01-08T00:00:00.000Z | 2025-01-08T00:00:00.000Z | 6 min read |
 | `ai-fitness-revolution` | The Future of Personal Training: The AI Revolution | ai-technology | 2025-01-10T00:00:00.000Z | 2025-01-10T00:00:00.000Z | 8 min read |
 
+- **multi-location-gym-management-software** — excerpt: A buyer's guide to multi-location gym management software: per-location and per-coach revenue, automatic coach payouts, and attendance tracking.  _(~965 words in body)_
 - **ai-coaching-client-experience** — excerpt: "AI coaching" usually means the coach's workflow. But the client feels it too — in how fast their plan responds, and whether they understand why it changed. Tha  _(~585 words in body)_
 - **gym-studio-management-software** — excerpt: Five coaches, three ways of tracking clients, no view of what's actually happening. Seat-based plans, per-coach dashboards and a single revenue picture — here's  _(~526 words in body)_
 - **yoga-wellness-coaching-software** — excerpt: Yoga and wellness coaching isn't sets and reps. It's routines, consistency and check-ins. Most coaching software is built for lifting — here's the part of Train  _(~547 words in body)_

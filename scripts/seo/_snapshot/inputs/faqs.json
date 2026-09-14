@@ -722,21 +722,17 @@
   },
   {
     "createdAt": "2026-09-02T15:43:03.844Z",
-    "updatedAt": "2026-09-02T15:43:03.844Z",
+    "updatedAt": "2026-09-09T13:49:50.895Z",
     "question": "What happens if a client's payment fails?",
     "answer": {
       "root": {
         "type": "root",
-        "format": "",
-        "indent": 0,
-        "version": 1,
-        "direction": "ltr",
         "children": [
           {
             "type": "paragraph",
+            "version": 1,
             "format": "",
             "indent": 0,
-            "version": 1,
             "direction": "ltr",
             "textFormat": 0,
             "children": [
@@ -746,12 +742,16 @@
                 "style": "",
                 "mode": "normal",
                 "detail": 0,
-                "text": "Our system automatically retries failed payments after 24 hours, sends payment reminder notifications to clients, provides alternative payment methods, and notifies you of any issues. You can also manually process payments or adjust due dates as needed.",
+                "text": "You are notified when a client's payment fails. Recurring payments retry automatically through the payment provider and the client is prompted to update or complete payment. You can also record a payment manually or change the due date from the client's billing page.",
                 "version": 1
               }
             ]
           }
-        ]
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "version": 1
       }
     },
     "category": "payments-billing",
@@ -764,21 +764,17 @@
   },
   {
     "createdAt": "2026-09-02T15:43:03.649Z",
-    "updatedAt": "2026-09-02T15:43:03.649Z",
+    "updatedAt": "2026-09-09T13:49:51.451Z",
     "question": "Can I offer EMI or installment plans to clients?",
     "answer": {
       "root": {
         "type": "root",
-        "format": "",
-        "indent": 0,
-        "version": 1,
-        "direction": "ltr",
         "children": [
           {
             "type": "paragraph",
+            "version": 1,
             "format": "",
             "indent": 0,
-            "version": 1,
             "direction": "ltr",
             "textFormat": 0,
             "children": [
@@ -788,12 +784,16 @@
                 "style": "",
                 "mode": "normal",
                 "detail": 0,
-                "text": "Yes! TrainZilla supports flexible payment options including EMIs for long-term plans. You can set up 3, 6, or 12-month installment plans. The system automatically handles recurring payments and sends reminders. This makes fitness services more accessible to clients.",
+                "text": "You can bill clients monthly on a recurring plan, so a longer package is spread across regular payments instead of one upfront charge. Trainzilla does not offer formal bank EMI, but month-to-month billing covers most pay-as-you-go cases and the system handles the recurring charge and reminders.",
                 "version": 1
               }
             ]
           }
-        ]
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "version": 1
       }
     },
     "category": "payments-billing",
@@ -806,21 +806,17 @@
   },
   {
     "createdAt": "2026-09-02T15:43:03.457Z",
-    "updatedAt": "2026-09-06T11:32:07.714Z",
+    "updatedAt": "2026-09-09T13:49:49.303Z",
     "question": "How does GST billing work for fitness services?",
     "answer": {
       "root": {
         "type": "root",
-        "format": "",
-        "indent": 0,
-        "version": 1,
-        "direction": "ltr",
         "children": [
           {
             "type": "paragraph",
+            "version": 1,
             "format": "",
             "indent": 0,
-            "version": 1,
             "direction": "ltr",
             "textFormat": 0,
             "children": [
@@ -830,12 +826,16 @@
                 "style": "",
                 "mode": "normal",
                 "detail": 0,
-                "text": "TrainZilla automatically handles GST compliance: if your annual income exceeds ₹20 lakhs, GST is automatically calculated and added to invoices. We generate GST-compliant invoices, maintain records for filing returns, and provide monthly GST reports. Consult with a CA for specific tax advice.",
+                "text": "Trainzilla issues invoices for the payments your clients make to you and keeps records you can export. It does not file returns or give tax advice — GST registration and filing depend on your turnover and setup, so check with a CA. If you are GST-registered, add your GSTIN and rate so it appears on invoices.",
                 "version": 1
               }
             ]
           }
-        ]
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "version": 1
       }
     },
     "category": "payments-billing",
@@ -974,21 +974,17 @@
   },
   {
     "createdAt": "2026-09-02T15:43:02.690Z",
-    "updatedAt": "2026-09-02T15:43:02.690Z",
+    "updatedAt": "2026-09-09T13:49:50.051Z",
     "question": "Can I manage family members or couples together?",
     "answer": {
       "root": {
         "type": "root",
-        "format": "",
-        "indent": 0,
-        "version": 1,
-        "direction": "ltr",
         "children": [
           {
             "type": "paragraph",
+            "version": 1,
             "format": "",
             "indent": 0,
-            "version": 1,
             "direction": "ltr",
             "textFormat": 0,
             "children": [
@@ -998,12 +994,16 @@
                 "style": "",
                 "mode": "normal",
                 "detail": 0,
-                "text": "Yes! TrainZilla supports family and couple accounts. You can create linked profiles that share certain information while maintaining individual workout plans and progress tracking. This is popular for families wanting to train together while respecting individual goals.",
+                "text": "You add each person as their own client, with their own plan, check-ins and progress. There is no shared household account — training a couple or family just means adding two or three clients and, if you like, building their plans from the same template so they stay in sync.",
                 "version": 1
               }
             ]
           }
-        ]
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "version": 1
       }
     },
     "category": "client-management",
