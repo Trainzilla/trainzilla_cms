@@ -4,8 +4,11 @@
 // response framed as Server-Sent Events (one `data: ` line carries the JSON).
 //
 // Every create/update routed through here is forced to `draft: true` by the
-// server-side `mcpDraftGuard` hook — publishing is only possible by a human in
-// the Payload admin UI. That is deliberate: this pipeline never publishes.
+// server-side `mcpDraftGuard` hook (src/hooks/mcpDraftGuard.ts) — except the
+// `seoPages` collection, which the hook deliberately exempts so metadata
+// refreshes can publish immediately. Everything else (articles first among
+// them) still only publishes when a human clicks "Publish changes" in the
+// Payload admin UI.
 //
 // Needs env TRAINZILLA_CMS_MCP_KEY. Never commit the key; it lives in the
 // gitignored MCP_LOCAL_NOTES.md and in the shell env of whoever runs apply.

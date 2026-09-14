@@ -1,10 +1,15 @@
 #!/usr/bin/env node
-// Push a reviewed SEO cycle into the CMS *as drafts*.
+// Push a reviewed SEO cycle into the CMS.
 //
 // Run this on a trusted machine AFTER the cycle PR has been reviewed and its
-// drafts/*.json edited to taste. It never publishes — every write lands as a
-// Payload draft version (enforced by the server's mcpDraftGuard hook). A human
-// then publishes each one in the Payload admin UI.
+// drafts/*.json edited to taste.
+//
+// `seoPages` writes publish immediately — the server's mcpDraftGuard hook
+// (src/hooks/mcpDraftGuard.ts) deliberately exempts that collection, because
+// title/description/keywords refreshes are low-risk and easy to revert with
+// another write. Every other collection (articles first among them) is
+// forced to land as an unpublished Payload draft version no matter what this
+// script sends — a human still reviews and publishes those in the admin UI.
 //
 // Usage:
 //   export TRAINZILLA_CMS_MCP_KEY=...        # from MCP_LOCAL_NOTES.md (gitignored)
@@ -39,6 +44,11 @@ if (!dryRun) requireKey()
 
 const pascal = (s) => s.charAt(0).toUpperCase() + s.slice(1)
 
+// Kept in sync with MCP_AUTO_PUBLISH_COLLECTIONS in src/hooks/mcpDraftGuard.ts.
+// Sending draft:false for anything else would be a no-op — the server forces
+// draft:true for every other collection regardless of what this script sends.
+const AUTO_PUBLISH_COLLECTIONS = new Set(['seoPages'])
+
 const draftsDir = join(cycleDir, 'drafts')
 let files
 try {
@@ -71,7 +81,8 @@ for (const f of files) {
   }
 
   const tool = `${op === 'create' ? 'create' : 'update'}${pascal(collection)}`
-  const args = { data, draft: true }
+  const publishing = AUTO_PUBLISH_COLLECTIONS.has(collection)
+  const args = { data, draft: !publishing }
   if (op !== 'create') {
     if (key != null) args.where = JSON.stringify({ key: { equals: key } })
     else if (slug != null) args.where = JSON.stringify({ slug: { equals: slug } })
@@ -83,14 +94,16 @@ for (const f of files) {
   }
 
   if (dryRun) {
-    console.log(`  DRY   ${tool}  ${key || slug || '(new)'}  fields: ${Object.keys(data).join(', ')}`)
+    console.log(
+      `  DRY   ${tool}  ${key || slug || '(new)'}  ${publishing ? '[PUBLISH]' : '[draft]'}  fields: ${Object.keys(data).join(', ')}`,
+    )
     applied.push(name)
     continue
   }
 
   try {
     await callTool(tool, args)
-    console.log(`  ok    ${tool}  ${key || slug || '(new)'}`)
+    console.log(`  ok    ${tool}  ${key || slug || '(new)'}  ${publishing ? '[published]' : '[draft]'}`)
     applied.push(name)
   } catch (e) {
     console.log(`  FAIL  ${tool}  ${key || slug || '(new)'}  ${String(e).slice(0, 240)}`)
@@ -102,7 +115,8 @@ console.log('')
 console.log(`  applied ${applied.length} / ${files.length}${failed.length ? `,  failed: ${failed.join(', ')}` : ''}`)
 if (!dryRun && applied.length) {
   console.log('')
-  console.log('  Next: open https://cms.trainzilla.in/admin, review each draft version,')
-  console.log('  and click "Publish changes" on the ones you want live. Nothing is live yet.')
+  console.log(`  seoPages writes above marked [published] are already live — no admin step needed.`)
+  console.log('  Next: open https://cms.trainzilla.in/admin, review each remaining draft version,')
+  console.log('  and click "Publish changes" on the ones you want live.')
 }
 process.exit(failed.length ? 1 : 0)
