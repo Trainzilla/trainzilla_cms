@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "nutritionVegetarian",
+  "data": {
+    "title": "Vegetarian Meal Swaps & Macro Planning | TrainZilla",
+    "description": "High-protein vegetarian meal plans with practical food swaps — see the macro delta before you trade a paneer bowl for dal, without losing your targets.",
+    "keywords": "vegetarian nutrition planning, vegetarian meal swap, high protein vegetarian diet, macro delta preview, plant-based client nutrition, macro planning"
+  },
+  "_rationale": "Sibling to the new article; previous description mentioned 'practical food swaps' generically without the macro-delta mechanic. Now ties directly to this cycle's feature anchor and cross-links naturally from the new article. Feature anchor: Meal swap with macro-delta preview [GAP]."
+}

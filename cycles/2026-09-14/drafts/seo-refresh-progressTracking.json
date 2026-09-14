@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "progressTracking",
+  "data": {
+    "title": "Track Client Progress & Meal Swaps | Help | TrainZilla",
+    "description": "Review workout and diet logs, progress photos, and every meal swap a client makes — with the macro delta logged, so adherence stays visible to the coach.",
+    "keywords": "client progress tracking, meal swap tracking, macro delta, diet log review, workout and diet logs, coach dashboard"
+  },
+  "_rationale": "Previous description covered logs/photos/Apple Health generically without mentioning swap visibility, which is the coach-oversight half of this cycle's feature anchor. Feature anchor: Meal swap with macro-delta preview [GAP] (coach-visibility angle)."
+}

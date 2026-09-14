@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "client-app",
+  "data": {
+    "title": "Free Client App with Flexible Meal Swaps | TrainZilla",
+    "description": "Clients follow their workout and diet plan free — including meal swaps that recalculate macros instantly, so flexibility never breaks the coach's plan.",
+    "keywords": "free fitness app for clients, client meal swap, flexible dieting app, macro tracking app, diet plan app, free client app"
+  },
+  "_rationale": "Previous description was generic ('follow their workout and diet plan, log sessions, build hab...'); this is literally where a client performs the swap, so it's a natural place to surface the feature anchor. Feature anchor: Meal swap with macro-delta preview [GAP]."
+}

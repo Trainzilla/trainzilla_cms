@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "dietPlans",
+  "data": {
+    "title": "Meal Swap Software with Macro Delta Preview | TrainZilla",
+    "description": "Build per-ingredient meal plans, then let clients swap a meal and see the exact macro delta before they commit — flexible dieting, still on target.",
+    "keywords": "meal swap software, macro delta preview, per-ingredient macro breakdown, flexible dieting app, diet plan builder, meal plan software for trainers, nutrition coaching software"
+  },
+  "_rationale": "Already the strongest page in the cluster; sharpened title/description around this cycle's exact keyword cluster (macro delta preview, meal swap software) instead of the more generic 'per-ingredient macros and scheduled meals' phrasing. Feature anchor: Meal swap with macro-delta preview [GAP]."
+}
