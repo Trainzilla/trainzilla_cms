@@ -74,6 +74,20 @@
     },
     {
       "query": "gym interior members",
+      "title": "Ausstellung, Turnsaal, Szemlőhegystrasse 27B, 2026 Szemlőhegy",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Ausstellung%2C_Turnsaal%2C_Szeml%C5%91hegystrasse_27B%2C_2026_Szeml%C5%91hegy.jpg/1920px-Ausstellung%2C_Turnsaal%2C_Szeml%C5%91hegystrasse_27B%2C_2026_Szeml%C5%91hegy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ausstellung%2C_Turnsaal%2C_Szeml%C5%91hegystrasse_27B%2C_2026_Szeml%C5%91hegy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1600,
+      "height": 1200,
+      "creator": "Globetrotter19",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "needs_attribution": true,
+      "attribution": "Photo: Globetrotter19 / Wikimedia Commons — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ausstellung,_Turnsaal,_Szeml%C5%91hegystrasse_27B,_2026_Szeml%C5%91hegy.jpg"
+    },
+    {
+      "query": "gym interior members",
       "title": "Decke, Erdgeschoss, Szemlőhegystrasse 27B, 2026 Szemlőhegy",
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Decke%2C_Erdgeschoss%2C_Szeml%C5%91hegystrasse_27B%2C_2026_Szeml%C5%91hegy.jpg/1920px-Decke%2C_Erdgeschoss%2C_Szeml%C5%91hegystrasse_27B%2C_2026_Szeml%C5%91hegy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Decke%2C_Erdgeschoss%2C_Szeml%C5%91hegystrasse_27B%2C_2026_Szeml%C5%91hegy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -155,20 +169,6 @@
       "needs_attribution": true,
       "attribution": "Photo: Libraries Taskforce / Wikimedia Commons — CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
       "source_page": "https://commons.wikimedia.org/wiki/File:North_Ormesby_Community_Hub_-_reception_desk_(27974727953).jpg"
-    },
-    {
-      "query": "gym reception staff",
-      "title": "Polish Gym Opening (7611871)",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Polish_Gym_Opening_%287611871%29.jpg/1920px-Polish_Gym_Opening_%287611871%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Polish_Gym_Opening_%287611871%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "width": 1600,
-      "height": 1067,
-      "creator": "U.S. Army 2BCT-1ID by Sgt. Timothy Brokhoff",
-      "license": "Public domain",
-      "license_url": null,
-      "needs_attribution": false,
-      "attribution": "U.S. Army 2BCT-1ID by Sgt. Timothy Brokhoff / Wikimedia Commons (Public domain)",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Polish_Gym_Opening_(7611871).jpg"
     }
   ]
 }
