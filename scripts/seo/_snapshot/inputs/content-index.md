@@ -1,4 +1,4 @@
-# CMS content snapshot — 2026-09-14
+# CMS content snapshot — 2026-09-21
 
 Source: https://cms.trainzilla.in (published only). Regenerate with `node scripts/seo/fetch-cms-state.mjs scripts/seo/_snapshot`.
 
@@ -9,16 +9,16 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 | `about` | false | false | About TrainZilla \| The AI-First Coaching Platform | TrainZilla is an AI-first platform for personal trainers, online coaches and gyms — pairin |
 | `about-us` | true | false | About TrainZilla \| The AI-First Coaching Platform | TrainZilla is an AI-first platform for personal trainers, online coaches and gyms — pairin |
 | `agent` | true | false | The AI Coaching Agent for Personal Trainers \| TrainZilla | TrainZilla's AI agent writes each client's workout and diet plan, adjusts it weekly from t |
-| `ai-coach` | true | false | AI Fitness Coach: Adaptive Workout & Diet Plans \| TrainZilla | An AI fitness coach that builds a custom workout and diet plan, then adapts it weekly from |
+| `ai-coach` | true | false | AI Fitness Coach: Learns From Meal Swaps \| TrainZilla | An AI fitness coach that adapts workout and diet plans weekly — factoring in every meal sw |
 | `ai-integration` | true | false | Connect Your Coaching Data to an AI Agent \| TrainZilla | Give an AI agent secure access to your clients, plans, habits and check-ins so it can draf |
 | `aiFitnessRevolution` | true | false | How AI Is Changing Personal Training \| TrainZilla Blog | AI agents now draft and adjust client workout and diet plans while coaches stay in control |
 | `app-privacy-policy` | true | false | Client App Privacy Policy \| TrainZilla | Privacy practices for the TrainZilla client app: what health, activity and profile data th |
 | `blog` | true | false | TrainZilla Blog \| Grow Your Coaching Business | Practical guides for personal trainers and online coaches: pricing, client retention, mark |
 | `businessGrowthTier2` | true | false | Growing a Fitness Coaching Business Beyond Big Cities | How online coaches build a sustainable client base outside major metros — pricing, local m |
-| `client-app` | true | false | Free Fitness App for Clients \| TrainZilla | Your clients get a free app to follow their workout and diet plan, log sessions, build hab |
+| `client-app` | true | false | Free Client App with Flexible Meal Swaps \| TrainZilla | Clients follow their workout and diet plan free — including meal swaps that recalculate ma |
 | `clientManagement` | true | false | Manage Clients Across Every Location \| TrainZilla Help | Invite clients, reassign coaches across locations, and bulk-import your existing roster wi |
 | `contact` | true | false | Contact TrainZilla \| Sales, Demos & Support | Talk to the TrainZilla team: book a product demo, ask about gym and enterprise plans, or g |
-| `dietPlans` | true | false | Diet & Meal Plan Builder for Coaches \| TrainZilla | Build client meal plans with per-ingredient macros and scheduled meals. Clients can swap a |
+| `dietPlans` | true | false | Meal Swap Software with Macro Delta Preview \| TrainZilla | Build per-ingredient meal plans, then let clients swap a meal and see the exact macro delt |
 | `digitalMarketingFitness` | true | false | Digital Marketing for Fitness Professionals \| TrainZilla | A practical digital marketing playbook for personal trainers and online coaches: content,  |
 | `faq` | true | false | TrainZilla FAQ \| Common Questions from Coaches | Answers to common TrainZilla questions on getting started, client management, payments and |
 | `features` | false | false | Fitness Coaching Software Features \| TrainZilla | Everything in TrainZilla: an AI coaching agent, workout and diet builders, habit tracking, |
@@ -32,11 +32,11 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 | `marketplace` | true | false | Sell Workout & Diet Plans Online \| TrainZilla Marketplace | Package your workout and diet plans and templates as one-off purchases, deliver them as PD |
 | `mobileApp` | true | false | TrainZilla Mobile Apps Guide \| Help | How the TrainZilla coach app and the free client app work on Android and iOS: logging, cha |
 | `monsoonFitness` | true | false | Training Clients Through the Rainy Season \| TrainZilla | Keep clients active when the weather won't cooperate: home and indoor workout options, hab |
-| `nutritionVegetarian` | true | false | Vegetarian Nutrition Planning for Clients \| TrainZilla | Build high-protein vegetarian meal plans that clients actually follow — practical food swa |
+| `nutritionVegetarian` | true | false | Vegetarian Meal Swaps & Macro Planning \| TrainZilla | High-protein vegetarian meal plans with practical food swaps — see the macro delta before  |
 | `paymentsBilling` | true | false | Payments, Billing & Coach Payouts \| TrainZilla Help | Set up Razorpay UPI, card and wallet payments, then automate revenue-share payouts to ever |
 | `pricing` | true | false | TrainZilla Pricing: Coach Pro & Gym Franchise Plans | Free forever for solo coaches. Gym and franchise plans add per-location revenue dashboards |
 | `privacyPolicy` | true | false | Privacy Policy \| TrainZilla | How TrainZilla collects, uses, stores and protects personal data for coaches and their cli |
-| `progressTracking` | true | false | Track Client Progress in TrainZilla \| Help | Review workout and diet logs, daily metrics and progress photos, sync Apple Health and Hea |
+| `progressTracking` | true | false | Track Client Progress & Meal Swaps \| Help \| TrainZilla | Review workout and diet logs, progress photos, and every meal swap a client makes — with t |
 | `refundPolicy` | true | false | Refund Policy \| TrainZilla | TrainZilla's refund policy for platform subscriptions and marketplace purchases — eligibil |
 | `register` | true | false | Start Free — Coaching Software for Trainers \| TrainZilla | Create a free TrainZilla account and start coaching in minutes: add clients, build workout |
 | `solutions` | true | false | Multi-Location Gym & Franchise Software \| TrainZilla | Run every location and coach from one dashboard: per-location and per-coach revenue, autom |
