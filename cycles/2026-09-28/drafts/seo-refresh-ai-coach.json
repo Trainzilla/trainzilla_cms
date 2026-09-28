@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "ai-coach",
+  "data": {
+    "title": "AI Fitness Coach That Reads Recovery Data | TrainZilla",
+    "description": "TrainZilla's AI fitness coach factors in recovery signals — sleep, HRV, RHR — alongside meal swaps, dialling back volume before a client burns out.",
+    "keywords": "AI fitness coach, recovery tracking software for personal trainers, HRV guided training, sleep and recovery for personal trainers, adaptive diet plan, AI workout plan generator"
+  },
+  "_rationale": "Current copy is entirely meal-swap focused (previous cycle's cluster) and generic for this cycle's recovery keywords. Refreshed to add the recovery-signal mechanism (sleep/HRV/RHR feeding the weekly rewrite) while keeping the existing meal-swap proof point. Feature referenced: Recovery signals feeding the AI Coach [GAP]."
+}

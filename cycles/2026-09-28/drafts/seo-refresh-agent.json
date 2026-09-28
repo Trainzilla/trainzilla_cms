@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "agent",
+  "data": {
+    "title": "AI Coaching Agent: Auto-Adjusts for Recovery | TrainZilla",
+    "description": "TrainZilla's AI agent reads sleep, HRV and check-ins, then adjusts plans within safe guardrails — with a plain-language reason for each change.",
+    "keywords": "AI coaching agent, recovery tracking software for personal trainers, HRV guided training, AI workout plan generator, recovery-aware programming, AI personal trainer, training load monitoring"
+  },
+  "_rationale": "Previous description was scoped to meal-swap/check-in adjustment only (last cycle's nutrition focus) and said nothing about recovery data, leaving this high-intent page keyword-thin for the current Recovery-aware programming cluster. Now targets 'recovery tracking software for personal trainers' and 'HRV guided training' while staying accurate to the real weekly-rewrite + guardrails + rationale mechanism. Feature referenced: Recovery signals feeding the AI Coach [GAP], Guardrails on AI plan changes [GAP]."
+}

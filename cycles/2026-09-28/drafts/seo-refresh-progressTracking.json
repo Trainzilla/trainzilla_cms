@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "progressTracking",
+  "data": {
+    "title": "Track Client Recovery & Progress | Help | TrainZilla",
+    "description": "Review workout logs, meal swaps and recovery signals — sleep, HRV, RHR — in one dashboard, so you catch under-recovery before performance drops.",
+    "keywords": "client progress tracking, recovery tracking software for personal trainers, overtraining warning signs, workout and diet logs, HRV guided training, coach dashboard"
+  },
+  "_rationale": "This Help page currently describes only workout/diet logs and meal-swap tracking. Refreshed to fold in the recovery-signal dashboard view (sleep, HRV, RHR) that belongs on the same page, targeting this cycle's 'recovery tracking software' and 'overtraining warning signs' keywords without dropping the existing meal-swap coverage. Feature referenced: Recovery signals feeding the AI Coach [GAP]."
+}

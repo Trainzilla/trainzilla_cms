@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "ai-integration",
+  "data": {
+    "title": "Connect Recovery & Coaching Data to an AI Agent | TrainZilla",
+    "description": "Give an AI agent secure access to plans, check-ins and recovery data from Apple Health or Health Connect — every plan write still reviewed by you.",
+    "keywords": "AI agent for coaches, recovery tracking software for personal trainers, MCP fitness integration, connect coaching data to AI, Apple Health integration training app, AI workout automation"
+  },
+  "_rationale": "Description listed 'clients, plans, habits and check-ins' but omitted recovery/wearable data, which is exactly the new data source this cycle's cluster is about. Refreshed to include it while keeping the existing human-review trust point front and center. Feature referenced: Recovery signals feeding the AI Coach [GAP], Apple Health / Health Connect sync [PARTIAL]."
+}

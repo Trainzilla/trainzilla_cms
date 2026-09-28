@@ -1,0 +1,42 @@
+[
+  {
+    "createdAt": "2026-09-02T15:43:18.033Z",
+    "updatedAt": "2026-09-02T15:43:18.033Z",
+    "slug": "nutrition",
+    "name": "Nutrition",
+    "description": "Diet planning and nutrition guidance for Indian clients.",
+    "seo": {},
+    "_status": "published",
+    "id": "6a984416cf6855ff1eabada8"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:17.841Z",
+    "updatedAt": "2026-09-02T15:43:17.841Z",
+    "slug": "client-management",
+    "name": "Client Management",
+    "description": "Retention, communication and coaching clients through real life.",
+    "seo": {},
+    "_status": "published",
+    "id": "6a984415cf6855ff1eabada0"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:17.645Z",
+    "updatedAt": "2026-09-02T15:43:17.645Z",
+    "slug": "business-growth",
+    "name": "Business & Growth",
+    "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+    "seo": {},
+    "_status": "published",
+    "id": "6a984415cf6855ff1eabad98"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:17.437Z",
+    "updatedAt": "2026-09-02T15:43:17.437Z",
+    "slug": "ai-technology",
+    "name": "AI & Technology",
+    "description": "How AI and new tools are reshaping coaching in India.",
+    "seo": {},
+    "_status": "published",
+    "id": "6a984415cf6855ff1eabad90"
+  }
+]
