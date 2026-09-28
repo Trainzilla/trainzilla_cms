@@ -1,4 +1,4 @@
-# CMS content snapshot — 2026-09-21
+# CMS content snapshot — 2026-09-28
 
 Source: https://cms.trainzilla.in (published only). Regenerate with `node scripts/seo/fetch-cms-state.mjs scripts/seo/_snapshot`.
 
@@ -34,7 +34,7 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 | `monsoonFitness` | true | false | Training Clients Through the Rainy Season \| TrainZilla | Keep clients active when the weather won't cooperate: home and indoor workout options, hab |
 | `nutritionVegetarian` | true | false | Vegetarian Meal Swaps & Macro Planning \| TrainZilla | High-protein vegetarian meal plans with practical food swaps — see the macro delta before  |
 | `paymentsBilling` | true | false | Payments, Billing & Coach Payouts \| TrainZilla Help | Set up Razorpay UPI, card and wallet payments, then automate revenue-share payouts to ever |
-| `pricing` | true | false | TrainZilla Pricing: Coach Pro & Gym Franchise Plans | Free forever for solo coaches. Gym and franchise plans add per-location revenue dashboards |
+| `pricing` | true | false | TrainZilla Pricing: Coach Pro & Gym Franchise Plans | Start free for 30 days. Coach Pro is ₹499/month; gym and franchise plans add per-location  |
 | `privacyPolicy` | true | false | Privacy Policy \| TrainZilla | How TrainZilla collects, uses, stores and protects personal data for coaches and their cli |
 | `progressTracking` | true | false | Track Client Progress & Meal Swaps \| Help \| TrainZilla | Review workout and diet logs, progress photos, and every meal swap a client makes — with t |
 | `refundPolicy` | true | false | Refund Policy \| TrainZilla | TrainZilla's refund policy for platform subscriptions and marketplace purchases — eligibil |
@@ -50,10 +50,16 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 | `workoutPlanning` | true | false | Build Workout Plans in TrainZilla \| Help | Create workout plans from training-split templates, add exercises with video, set progress |
 | `workoutPlans` | true | false | Workout Plan Builder for Personal Trainers \| TrainZilla | Build workout plans on real training-split templates — strength, HYROX, running, hybrid —  |
 
-## articles (16)
+## articles (22)
 
 | slug | title | category | published | updated | readTime |
 | --- | --- | --- | --- | --- | --- |
+| `gym-trainer-revenue-share-automatic-payouts` | How to Split Revenue with Gym Trainers: Automatic Payouts and Per-Location Reporting | business-growth | 2026-09-21T00:00:00.000Z | 2026-09-21T00:00:00.000Z | 7 min read |
+| `switch-coaching-software-without-losing-clients` | How to Switch Coaching Software Without Losing Clients: A Migration Checklist | business-growth | 2026-09-21T00:00:00.000Z | 2026-09-21T00:00:00.000Z | 7 min read |
+| `how-to-sell-workout-plans-online` | How to Sell Workout Plans Online as a Personal Trainer | business-growth | 2026-09-21T00:00:00.000Z | 2026-09-21T00:00:00.000Z | 7 min read |
+| `is-ai-safe-for-personal-training-coach-approval` | Is AI Safe for Personal Training? How Coach-Approved AI Plans Work | ai-technology | 2026-09-21T00:00:00.000Z | 2026-09-21T00:00:00.000Z | 7 min read |
+| `adjust-training-plan-sleep-recovery-data` | How to Adjust a Client's Training Plan Based on Sleep and Recovery Data | client-management | 2026-09-21T00:00:00.000Z | 2026-09-21T00:00:00.000Z | 7 min read |
+| `meal-swap-without-breaking-macros` | How to Let Clients Swap Meals Without Breaking Their Macros | nutrition | 2026-09-14T00:00:00.000Z | 2026-09-14T00:00:00.000Z | 7 min read |
 | `multi-location-gym-management-software` | Multi-Location Gym Management Software: A Buyer's Guide | business-growth | 2026-09-07T00:00:00.000Z |  | 8 min read |
 | `ai-coaching-client-experience` | What AI coaching actually feels like for the client — and why that changes retention | ai-technology | 2026-09-05T00:00:00.000Z |  | 6 min read |
 | `gym-studio-management-software` | Software for multi-location gyms and studios: one system for every coach on the floor | business-growth | 2026-09-05T00:00:00.000Z |  | 7 min read |
@@ -71,13 +77,19 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 | `business-growth-tier2-cities` | Building a Sustainable Fitness Business in Smaller Cities | business-growth | 2025-01-08T00:00:00.000Z | 2025-01-08T00:00:00.000Z | 6 min read |
 | `ai-fitness-revolution` | The Future of Personal Training: The AI Revolution | ai-technology | 2025-01-10T00:00:00.000Z | 2025-01-10T00:00:00.000Z | 8 min read |
 
-- **multi-location-gym-management-software** — excerpt: A buyer's guide to multi-location gym management software: per-location and per-coach revenue, automatic coach payouts, and attendance tracking.  _(~965 words in body)_
+- **gym-trainer-revenue-share-automatic-payouts** — excerpt: Gym trainer revenue share without the spreadsheet: how automatic coach payouts, per-coach revenue dashboards and attendance tracking work across locations.  _(~489 words in body)_
+- **switch-coaching-software-without-losing-clients** — excerpt: How to switch coaching software without losing clients: a step-by-step migration checklist covering exports, templates, bulk client invites and a safe overlap w  _(~573 words in body)_
+- **how-to-sell-workout-plans-online** — excerpt: How to sell workout plans online: pick a niche, package plans you already write, price them, take payments and list them where clients can find you.  _(~570 words in body)_
+- **is-ai-safe-for-personal-training-coach-approval** — excerpt: Is AI safe for personal training? See how guardrails, coach approval and plain-language explanations keep AI-built workout and diet plans under a coach's contro  _(~627 words in body)_
+- **adjust-training-plan-sleep-recovery-data** — excerpt: Learn how to adjust a client's training plan based on sleep and recovery data: which signals matter, simple dial-back rules, and how to automate them safely.  _(~672 words in body)_
+- **meal-swap-without-breaking-macros** — excerpt: A practical guide for coaches: how to let clients swap meals without breaking their macros, using ingredient-level plans and a macro-delta preview.  _(~997 words in body)_
+- **multi-location-gym-management-software** — excerpt: A buyer's guide to multi-location gym management software: per-location and per-coach revenue, automatic coach payouts, and attendance tracking.  _(~966 words in body)_
 - **ai-coaching-client-experience** — excerpt: "AI coaching" usually means the coach's workflow. But the client feels it too — in how fast their plan responds, and whether they understand why it changed. Tha  _(~585 words in body)_
 - **gym-studio-management-software** — excerpt: Five coaches, three ways of tracking clients, no view of what's actually happening. Seat-based plans, per-coach dashboards and a single revenue picture — here's  _(~526 words in body)_
-- **yoga-wellness-coaching-software** — excerpt: Yoga and wellness coaching isn't sets and reps. It's routines, consistency and check-ins. Most coaching software is built for lifting — here's the part of Train  _(~547 words in body)_
-- **nutrition-coaching-software** — excerpt: Building macros by hand, rewriting meal plans off every check-in, chasing food logs across WhatsApp. Here's how Trainzilla turns each of those into something fa  _(~574 words in body)_
-- **online-fitness-coaching-software** — excerpt: No gym floor, no face-to-face read on a client's week. Everything you know about them comes through a screen — so the software you run it on isn't a nice-to-hav  _(~716 words in body)_
-- **coaching-software-cost-india** — excerpt: Free Launch is ₹0 forever and Coach Pro is ₹499/month — but the number that matters is what you're already paying in Sunday evenings. The honest arithmetic, inc  _(~842 words in body)_
+- **yoga-wellness-coaching-software** — excerpt: Yoga and wellness coaching isn't sets and reps. It's routines, consistency and check-ins. Most coaching software is built for lifting — here's the part of Train  _(~561 words in body)_
+- **nutrition-coaching-software** — excerpt: Building macros by hand, rewriting meal plans off every check-in, chasing food logs across WhatsApp. Here's how Trainzilla turns each of those into something fa  _(~588 words in body)_
+- **online-fitness-coaching-software** — excerpt: No gym floor, no face-to-face read on a client's week. Everything you know about them comes through a screen — so the software you run it on isn't a nice-to-hav  _(~730 words in body)_
+- **coaching-software-cost-india** — excerpt: Every new coach gets 30 days free and Coach Pro is ₹499/month — but the number that matters is what you're already paying in Sunday evenings. The honest arithme  _(~859 words in body)_
 - **connect-trainzilla-to-claude** — excerpt: A short, exact walkthrough: connect your Trainzilla coach account to Claude, verify it worked, and run your first real client workflow — plus what the connector  _(~783 words in body)_
 - **ai-agents-mcp-coaching** — excerpt: Most AI for fitness is a chatbot that has never met your clients. Here is what changes when your assistant can read your real Trainzilla account, and what we de  _(~992 words in body)_
 - **upi-digital-payments-guide** — excerpt: Everything you need to accept digital payments, stay on top of tax compliance, and use payment data to grow your coaching income.  _(~488 words in body)_
@@ -121,7 +133,7 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 - [getting-started] What certifications do I need to use TrainZilla?
 - [client-management] How do I move my existing clients onto Trainzilla?
 - [payments-billing] Is there a contract or lock-in?
-- [payments-billing] What happens when I outgrow the Free plan?
+- [payments-billing] What happens when my 30-day free trial ends?
 - [getting-started] How does the AI workout generator work?
 - [client-management] How do I add a new client to my dashboard?
 - [client-management] Can I manage family members or couples together?

@@ -1,36 +1,28 @@
 [
   {
     "createdAt": "2026-09-06T11:32:08.690Z",
-    "updatedAt": "2026-09-06T11:32:08.690Z",
-    "question": "What happens when I outgrow the Free plan?",
+    "updatedAt": "2026-09-21T07:31:11.451Z",
+    "question": "What happens when my 30-day free trial ends?",
     "answer": {
       "root": {
         "type": "root",
-        "format": "",
-        "indent": 0,
-        "version": 1,
-        "direction": "ltr",
         "children": [
           {
             "type": "paragraph",
-            "format": "",
-            "indent": 0,
             "version": 1,
-            "direction": "ltr",
-            "textFormat": 0,
             "children": [
               {
                 "type": "text",
-                "format": 0,
-                "style": "",
-                "mode": "normal",
-                "detail": 0,
-                "text": "Free Launch has no time limit — you move to Coach Pro when you want the client app, check-ins, habits, multiple offers and analytics, not because a trial expired. Upgrading is one click and keeps everything you've already set up. Gyms with several coaches move to seat-based plans starting at ₹1,499/month for 5 coaches.",
-                "version": 1
+                "version": 1,
+                "text": "Every new coach gets 30 days free on Free Launch, with one starter client. When it ends, you move to Coach Pro (₹499/month) to keep onboarding clients. Upgrading is one click, and your account, data and everything you've already set up stay intact. Gyms with several coaches move to seat-based plans starting at ₹1,499/month for 5 coaches."
               }
             ]
           }
-        ]
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "version": 1
       }
     },
     "category": "payments-billing",
@@ -43,36 +35,28 @@
   },
   {
     "createdAt": "2026-09-06T11:32:08.497Z",
-    "updatedAt": "2026-09-06T11:32:08.497Z",
+    "updatedAt": "2026-09-21T07:31:11.459Z",
     "question": "Is there a contract or lock-in?",
     "answer": {
       "root": {
         "type": "root",
-        "format": "",
-        "indent": 0,
-        "version": 1,
-        "direction": "ltr",
         "children": [
           {
             "type": "paragraph",
-            "format": "",
-            "indent": 0,
             "version": 1,
-            "direction": "ltr",
-            "textFormat": 0,
             "children": [
               {
                 "type": "text",
-                "format": 0,
-                "style": "",
-                "mode": "normal",
-                "detail": 0,
-                "text": "No contract. Coach Pro is month-to-month — cancel any time and you drop back to Free Launch. You can export your client data (contacts, progress history, workout logs, payment records) as a spreadsheet whenever you want, so nothing is trapped.",
-                "version": 1
+                "version": 1,
+                "text": "No contract. Coach Pro is month-to-month, so you can cancel any time. You keep your account and data, but you'll need Coach Pro to onboard new clients. You can export your client data (contacts, progress history, workout logs, payment records) as a spreadsheet whenever you want, so nothing is trapped."
               }
             ]
           }
-        ]
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "version": 1
       }
     },
     "category": "payments-billing",
@@ -127,36 +111,28 @@
   },
   {
     "createdAt": "2026-09-06T11:32:08.106Z",
-    "updatedAt": "2026-09-06T11:32:08.106Z",
+    "updatedAt": "2026-09-21T07:31:11.455Z",
     "question": "Can I try Trainzilla with real clients before I pay?",
     "answer": {
       "root": {
         "type": "root",
-        "format": "",
-        "indent": 0,
-        "version": 1,
-        "direction": "ltr",
         "children": [
           {
             "type": "paragraph",
-            "format": "",
-            "indent": 0,
             "version": 1,
-            "direction": "ltr",
-            "textFormat": 0,
             "children": [
               {
                 "type": "text",
-                "format": 0,
-                "style": "",
-                "mode": "normal",
-                "detail": 0,
-                "text": "Yes. Free Launch is ₹0 forever and lets you run a profile, one paid offer and an invite link — enough to onboard a first client and see how it works. Coach Pro (₹499/month) unlocks the client app, check-ins, habits and the full toolset when you're ready; there's no card required to start and no trial clock.",
-                "version": 1
+                "version": 1,
+                "text": "Yes. Every new coach gets 30 days free on Free Launch: a coach profile, one paid offer, an invite link, the client app and one starter client. That's enough to see how it works with a real client, and no card is required to start. When the 30 days end, Coach Pro (₹499/month) keeps you onboarding clients and adds templates, PDF export, bulk invites and your own branding in the client app."
               }
             ]
           }
-        ]
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "version": 1
       }
     },
     "category": "getting-started",
@@ -170,36 +146,28 @@
   },
   {
     "createdAt": "2026-09-06T11:32:07.906Z",
-    "updatedAt": "2026-09-06T11:32:07.906Z",
+    "updatedAt": "2026-09-21T07:31:11.464Z",
     "question": "Does Trainzilla take a cut of my client payments?",
     "answer": {
       "root": {
         "type": "root",
-        "format": "",
-        "indent": 0,
-        "version": 1,
-        "direction": "ltr",
         "children": [
           {
             "type": "paragraph",
-            "format": "",
-            "indent": 0,
             "version": 1,
-            "direction": "ltr",
-            "textFormat": 0,
             "children": [
               {
                 "type": "text",
-                "format": 0,
-                "style": "",
-                "mode": "normal",
-                "detail": 0,
-                "text": "No. Your clients pay you directly through your own payment setup — Trainzilla doesn't sit between you and your revenue or take a percentage. You pay a flat monthly platform fee (₹0 on Free Launch, ₹499 on Coach Pro) and keep 100% of what your clients pay you.",
-                "version": 1
+                "version": 1,
+                "text": "No. Your clients pay you directly through your own payment setup. Trainzilla doesn't sit between you and your revenue or take a percentage. You pay a flat monthly platform fee (₹0 during your 30-day free trial, ₹499 on Coach Pro) and keep 100% of what your clients pay you."
               }
             ]
           }
-        ]
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "version": 1
       }
     },
     "category": "payments-billing",
@@ -213,36 +181,28 @@
   },
   {
     "createdAt": "2026-09-06T10:26:41.848Z",
-    "updatedAt": "2026-09-06T11:32:05.894Z",
+    "updatedAt": "2026-09-21T07:31:11.462Z",
     "question": "How much does Trainzilla cost?",
     "answer": {
       "root": {
         "type": "root",
-        "format": "",
-        "indent": 0,
-        "version": 1,
-        "direction": "ltr",
         "children": [
           {
             "type": "paragraph",
-            "format": "",
-            "indent": 0,
             "version": 1,
-            "direction": "ltr",
-            "textFormat": 0,
             "children": [
               {
                 "type": "text",
-                "format": 0,
-                "style": "",
-                "mode": "normal",
-                "detail": 0,
-                "text": "Free Launch is ₹0 forever — a coach profile, one paid offer, an invite link and a marketplace listing. Coach Pro is ₹499/month and adds the client app, workout and nutrition tools, check-ins, habits, payments, messaging and analytics. Gyms use seat-based plans starting at ₹1,499/month for up to 5 coaches. You can start on Free Launch without a card.",
-                "version": 1
+                "version": 1,
+                "text": "Every new coach starts with 30 days free on Free Launch: a coach profile, one paid offer, an invite link, a marketplace listing, the client app and one starter client. After that, Coach Pro is ₹499/month and adds unlimited clients, multiple offers, workout and nutrition tools, check-ins, habits, payments, messaging, analytics, templates, PDF export, bulk invites and your own branding in the client app. Gyms use seat-based plans starting at ₹1,499/month for up to 5 coaches. No card is needed to start."
               }
             ]
           }
-        ]
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "version": 1
       }
     },
     "category": "payments-billing",

@@ -1,7 +1,379 @@
 [
   {
+    "createdAt": "2026-09-21T06:59:27.205Z",
+    "updatedAt": "2026-09-21T07:25:36.108Z",
+    "title": "How to Split Revenue with Gym Trainers: Automatic Payouts and Per-Location Reporting",
+    "slug": "gym-trainer-revenue-share-automatic-payouts",
+    "excerpt": "Gym trainer revenue share without the spreadsheet: how automatic coach payouts, per-coach revenue dashboards and attendance tracking work across locations.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.645Z",
+      "updatedAt": "2026-09-02T15:43:17.645Z",
+      "slug": "business-growth",
+      "name": "Business & Growth",
+      "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad98"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:17.210Z",
+      "updatedAt": "2026-09-03T07:46:39.627Z",
+      "name": "Arun Malhotra",
+      "slug": "arun-malhotra",
+      "shortBio": "Financial Technology Expert & Business Consultant specializing in digital payments for small businesses.",
+      "bio": "Financial Technology Expert & Business Consultant specializing in digital payments for small businesses.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984415cf6855ff1eabad86"
+    },
+    "publishedDate": "2026-09-21T00:00:00.000Z",
+    "updatedDate": "2026-09-21T00:00:00.000Z",
+    "readTime": "7 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/gym_stat.png",
+    "tags": [
+      {
+        "tag": "gym-revenue-share",
+        "id": "6ab0d5cf8292f62035e49356"
+      },
+      {
+        "tag": "coach-payouts",
+        "id": "6ab0d5cf8292f62035e49357"
+      },
+      {
+        "tag": "gym-management-software",
+        "id": "6ab0d5cf8292f62035e49358"
+      },
+      {
+        "tag": "franchise-reporting",
+        "id": "6ab0d5cf8292f62035e49359"
+      },
+      {
+        "tag": "razorpay-route",
+        "id": "6ab0d5cf8292f62035e4935a"
+      }
+    ],
+    "funnelStage": "decision",
+    "seo": {
+      "title": "Gym Trainer Revenue Share & Automatic Payouts",
+      "description": "Run gym trainer revenue share without spreadsheets: automatic coach payouts via Razorpay Route, per-location and per-coach revenue dashboards, attendance tracking.",
+      "keywords": "gym trainer revenue share, coach payout software gym, automatic trainer payouts, per-location revenue dashboard, gym franchise software, coach attendance tracking, Razorpay Route payouts",
+      "canonicalPath": "/blog/gym-trainer-revenue-share-automatic-payouts",
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6ab0d5cfd741c4ea6f1c2cc9"
+  },
+  {
+    "createdAt": "2026-09-21T06:58:57.325Z",
+    "updatedAt": "2026-09-21T09:02:33.010Z",
+    "title": "How to Switch Coaching Software Without Losing Clients: A Migration Checklist",
+    "slug": "switch-coaching-software-without-losing-clients",
+    "excerpt": "How to switch coaching software without losing clients: a step-by-step migration checklist covering exports, templates, bulk client invites and a safe overlap week.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.645Z",
+      "updatedAt": "2026-09-02T15:43:17.645Z",
+      "slug": "business-growth",
+      "name": "Business & Growth",
+      "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad98"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.206Z",
+      "updatedAt": "2026-09-03T07:47:46.734Z",
+      "name": "Rajesh Kumar",
+      "slug": "rajesh-kumar",
+      "shortBio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
+      "bio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984414cf6855ff1eabad35"
+    },
+    "publishedDate": "2026-09-21T00:00:00.000Z",
+    "updatedDate": "2026-09-21T00:00:00.000Z",
+    "readTime": "7 min read",
+    "tags": [
+      {
+        "tag": "switching-software",
+        "id": "6ab0d5b18292f62035e49338"
+      },
+      {
+        "tag": "client-migration",
+        "id": "6ab0d5b18292f62035e49339"
+      },
+      {
+        "tag": "bulk-client-import",
+        "id": "6ab0d5b18292f62035e4933a"
+      },
+      {
+        "tag": "coaching-software",
+        "id": "6ab0d5b18292f62035e4933b"
+      },
+      {
+        "tag": "onboarding",
+        "id": "6ab0d5b18292f62035e4933c"
+      }
+    ],
+    "funnelStage": "consideration",
+    "seo": {
+      "title": "Switch Coaching Software Without Losing Clients",
+      "description": "A practical checklist for switching coaching software: export your data, rebuild top templates, bulk-invite clients and run both systems side by side first.",
+      "keywords": "switch coaching software, migrate clients coaching platform, move from spreadsheets to coaching software, bulk client import, coaching software migration checklist, trainer software switch",
+      "canonicalPath": "/blog/switch-coaching-software-without-losing-clients",
+      "noindex": false
+    },
+    "_status": "published",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/online_compare.png",
+    "id": "6ab0d5b1d741c4ea6f1c2cc1"
+  },
+  {
+    "createdAt": "2026-09-21T06:58:27.351Z",
+    "updatedAt": "2026-09-21T09:02:37.687Z",
+    "title": "How to Sell Workout Plans Online as a Personal Trainer",
+    "slug": "how-to-sell-workout-plans-online",
+    "excerpt": "How to sell workout plans online: pick a niche, package plans you already write, price them, take payments and list them where clients can find you.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.645Z",
+      "updatedAt": "2026-09-02T15:43:17.645Z",
+      "slug": "business-growth",
+      "name": "Business & Growth",
+      "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad98"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.411Z",
+      "updatedAt": "2026-09-02T15:43:16.411Z",
+      "name": "Sneha Joshi",
+      "slug": "sneha-joshi",
+      "shortBio": "Digital Marketing Specialist & Fitness Industry Expert with 7 years helping trainers grow their online presence.",
+      "bio": "Digital Marketing Specialist & Fitness Industry Expert with 7 years helping trainers grow their online presence.",
+      "_status": "published",
+      "id": "6a984414cf6855ff1eabad55",
+      "links": []
+    },
+    "publishedDate": "2026-09-21T00:00:00.000Z",
+    "updatedDate": "2026-09-21T00:00:00.000Z",
+    "readTime": "7 min read",
+    "tags": [
+      {
+        "tag": "sell-workout-plans",
+        "id": "6ab0d5938292f62035e4931a"
+      },
+      {
+        "tag": "passive-income",
+        "id": "6ab0d5938292f62035e4931b"
+      },
+      {
+        "tag": "marketplace",
+        "id": "6ab0d5938292f62035e4931c"
+      },
+      {
+        "tag": "plan-templates",
+        "id": "6ab0d5938292f62035e4931d"
+      },
+      {
+        "tag": "online-coaching",
+        "id": "6ab0d5938292f62035e4931e"
+      }
+    ],
+    "funnelStage": "awareness",
+    "seo": {
+      "title": "How to Sell Workout Plans Online as a Trainer",
+      "description": "How to sell workout plans online: choose a niche, turn plans you already wrote into products, price them, take UPI or card payments and get found on a marketplace.",
+      "keywords": "how to sell workout plans online, sell training programs, personal trainer passive income, sell diet plans online, fitness plan marketplace, workout plan templates",
+      "canonicalPath": "/blog/how-to-sell-workout-plans-online",
+      "noindex": false
+    },
+    "_status": "published",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/app_diets.png",
+    "id": "6ab0d593d741c4ea6f1c2cb9"
+  },
+  {
+    "createdAt": "2026-09-21T06:57:57.401Z",
+    "updatedAt": "2026-09-21T07:25:19.563Z",
+    "title": "Is AI Safe for Personal Training? How Coach-Approved AI Plans Work",
+    "slug": "is-ai-safe-for-personal-training-coach-approval",
+    "excerpt": "Is AI safe for personal training? See how guardrails, coach approval and plain-language explanations keep AI-built workout and diet plans under a coach's control.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.437Z",
+      "updatedAt": "2026-09-02T15:43:17.437Z",
+      "slug": "ai-technology",
+      "name": "AI & Technology",
+      "description": "How AI and new tools are reshaping coaching in India.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad90"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:14.963Z",
+      "updatedAt": "2026-09-02T15:43:14.964Z",
+      "name": "Dr. Priya Sharma",
+      "slug": "priya-sharma",
+      "shortBio": "AI Researcher & Fitness Technology Expert with 12 years of experience in health tech innovation.",
+      "bio": "AI Researcher & Fitness Technology Expert with 12 years of experience in health tech innovation.",
+      "_status": "published",
+      "id": "6a984412cf6855ff1eabacd8",
+      "links": []
+    },
+    "publishedDate": "2026-09-21T00:00:00.000Z",
+    "updatedDate": "2026-09-21T00:00:00.000Z",
+    "readTime": "7 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/client_split.png",
+    "tags": [
+      {
+        "tag": "ai-safety",
+        "id": "6ab0d5758292f62035e49300"
+      },
+      {
+        "tag": "ai-personal-training",
+        "id": "6ab0d5758292f62035e49301"
+      },
+      {
+        "tag": "coach-in-the-loop",
+        "id": "6ab0d5758292f62035e49302"
+      },
+      {
+        "tag": "guardrails",
+        "id": "6ab0d5758292f62035e49303"
+      },
+      {
+        "tag": "explainable-ai",
+        "id": "6ab0d5758292f62035e49304"
+      }
+    ],
+    "funnelStage": "consideration",
+    "seo": {
+      "title": "Is AI Safe for Personal Training? Coach-Approved AI",
+      "description": "Is AI safe for personal training? How guardrails, one-tap coach approval and a plain-language reason on every change keep AI workout and diet plans safe.",
+      "keywords": "is AI safe for personal training, AI personal trainer safety, coach approved AI workout plan, AI fitness guardrails, human in the loop coaching, explainable AI fitness",
+      "canonicalPath": "/blog/is-ai-safe-for-personal-training-coach-approval",
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6ab0d575d741c4ea6f1c2cb1"
+  },
+  {
+    "createdAt": "2026-09-21T06:57:26.831Z",
+    "updatedAt": "2026-09-21T07:25:13.405Z",
+    "title": "How to Adjust a Client's Training Plan Based on Sleep and Recovery Data",
+    "slug": "adjust-training-plan-sleep-recovery-data",
+    "excerpt": "Learn how to adjust a client's training plan based on sleep and recovery data: which signals matter, simple dial-back rules, and how to automate them safely.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.841Z",
+      "updatedAt": "2026-09-02T15:43:17.841Z",
+      "slug": "client-management",
+      "name": "Client Management",
+      "description": "Retention, communication and coaching clients through real life.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabada0"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.804Z",
+      "updatedAt": "2026-09-03T07:47:14.646Z",
+      "name": "Kavya Reddy",
+      "slug": "kavya-reddy",
+      "shortBio": "Certified Trainer & Seasonal Training Specialist with 8 years of experience building programs that hold up in any weather.",
+      "bio": "Certified Trainer & Seasonal Training Specialist with 8 years of experience building programs that hold up in any weather.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984414cf6855ff1eabad76"
+    },
+    "publishedDate": "2026-09-21T00:00:00.000Z",
+    "updatedDate": "2026-09-21T00:00:00.000Z",
+    "readTime": "7 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/client_timeline.png",
+    "tags": [
+      {
+        "tag": "recovery",
+        "id": "6ab0d5568292f62035e492e3"
+      },
+      {
+        "tag": "sleep",
+        "id": "6ab0d5568292f62035e492e4"
+      },
+      {
+        "tag": "training-adjustments",
+        "id": "6ab0d5568292f62035e492e5"
+      },
+      {
+        "tag": "wearable-data",
+        "id": "6ab0d5568292f62035e492e6"
+      },
+      {
+        "tag": "client-retention",
+        "id": "6ab0d5568292f62035e492e7"
+      }
+    ],
+    "funnelStage": "awareness",
+    "seo": {
+      "title": "Adjust Training Plans Based on Sleep & Recovery Data",
+      "description": "How to adjust a client's training plan from sleep, resting heart rate and check-in data: simple dial-back rules, plus how to automate them with coach approval.",
+      "keywords": "adjust training plan based on recovery, recovery-aware programming, sleep and training load, Apple Health Health Connect coaching, AI workout adjustment, coach approval AI",
+      "canonicalPath": "/blog/adjust-training-plan-sleep-recovery-data",
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6ab0d556d741c4ea6f1c2ca9"
+  },
+  {
+    "createdAt": "2026-09-14T08:21:55.754Z",
+    "updatedAt": "2026-09-21T07:59:32.806Z",
+    "title": "How to Let Clients Swap Meals Without Breaking Their Macros",
+    "slug": "meal-swap-without-breaking-macros",
+    "excerpt": "A practical guide for coaches: how to let clients swap meals without breaking their macros, using ingredient-level plans and a macro-delta preview.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:18.033Z",
+      "updatedAt": "2026-09-02T15:43:18.033Z",
+      "slug": "nutrition",
+      "name": "Nutrition",
+      "description": "Diet planning and nutrition guidance for Indian clients.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984416cf6855ff1eabada8"
+    },
+    "author": {
+      "createdAt": "2026-09-02T15:43:16.997Z",
+      "updatedAt": "2026-09-03T07:46:56.324Z",
+      "name": "Dr. Arjun Patel",
+      "slug": "arjun-patel",
+      "shortBio": "Nutritionist & Sports Dietitian with 10+ years specializing in vegetarian and plant-based nutrition for athletes.",
+      "bio": "Nutritionist & Sports Dietitian with 10+ years specializing in vegetarian and plant-based nutrition for athletes.",
+      "_status": "published",
+      "links": [],
+      "id": "6a984414cf6855ff1eabad7e"
+    },
+    "publishedDate": "2026-09-14T00:00:00.000Z",
+    "updatedDate": "2026-09-14T00:00:00.000Z",
+    "readTime": "7 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/nutri_flow.png",
+    "tags": [
+      {
+        "tag": "nutrition",
+        "id": "6aa7aea38292f62035e4929b"
+      },
+      {
+        "tag": "meal-planning",
+        "id": "6aa7aea38292f62035e4929c"
+      },
+      {
+        "tag": "client-adherence",
+        "id": "6aa7aea38292f62035e4929d"
+      }
+    ],
+    "funnelStage": "awareness",
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6aa7aea3d741c4ea6f1c2b84"
+  },
+  {
     "createdAt": "2026-09-07T12:52:10.091Z",
-    "updatedAt": "2026-09-07T12:53:05.526Z",
+    "updatedAt": "2026-09-21T07:28:04.910Z",
     "title": "Multi-Location Gym Management Software: A Buyer's Guide",
     "slug": "multi-location-gym-management-software",
     "excerpt": "A buyer's guide to multi-location gym management software: per-location and per-coach revenue, automatic coach payouts, and attendance tracking.",
@@ -128,7 +500,7 @@
   },
   {
     "createdAt": "2026-09-05T14:49:23.587Z",
-    "updatedAt": "2026-09-06T11:30:44.594Z",
+    "updatedAt": "2026-09-21T07:28:34.638Z",
     "title": "Software for yoga and wellness coaches: light-touch tools that still hold people accountable",
     "slug": "yoga-wellness-coaching-software",
     "excerpt": "Yoga and wellness coaching isn't sets and reps. It's routines, consistency and check-ins. Most coaching software is built for lifting — here's the part of Trainzilla that fits how you actually work.",
@@ -166,7 +538,7 @@
   },
   {
     "createdAt": "2026-09-05T14:49:04.573Z",
-    "updatedAt": "2026-09-06T11:30:45.145Z",
+    "updatedAt": "2026-09-21T07:29:00.387Z",
     "title": "Software for nutritionists and diet coaches: the parts that actually save you time",
     "slug": "nutrition-coaching-software",
     "excerpt": "Building macros by hand, rewriting meal plans off every check-in, chasing food logs across WhatsApp. Here's how Trainzilla turns each of those into something faster — and where the AI genuinely helps.",
@@ -204,7 +576,7 @@
   },
   {
     "createdAt": "2026-09-05T14:48:42.845Z",
-    "updatedAt": "2026-09-06T11:30:45.686Z",
+    "updatedAt": "2026-09-21T07:29:28.745Z",
     "title": "Software for online fitness coaches: what changes when your business runs remote",
     "slug": "online-fitness-coaching-software",
     "excerpt": "No gym floor, no face-to-face read on a client's week. Everything you know about them comes through a screen — so the software you run it on isn't a nice-to-have, it's the practice. Here's how Trainzilla is built for that.",
@@ -242,10 +614,10 @@
   },
   {
     "createdAt": "2026-09-05T14:19:38.494Z",
-    "updatedAt": "2026-09-06T11:30:46.303Z",
+    "updatedAt": "2026-09-21T09:02:35.740Z",
     "title": "What coaching software actually costs — and when it starts paying for itself",
     "slug": "coaching-software-cost-india",
-    "excerpt": "Free Launch is ₹0 forever and Coach Pro is ₹499/month — but the number that matters is what you're already paying in Sunday evenings. The honest arithmetic, including when not to upgrade.",
+    "excerpt": "Every new coach gets 30 days free and Coach Pro is ₹499/month — but the number that matters is what you're already paying in Sunday evenings. The honest arithmetic, including when not to upgrade.",
     "category": {
       "createdAt": "2026-09-02T15:43:17.645Z",
       "updatedAt": "2026-09-02T15:43:17.645Z",
@@ -275,6 +647,7 @@
     },
     "_status": "published",
     "tags": null,
+    "heroImage": "https://cms.trainzilla.in/api/media/file/nutri_stat.png",
     "id": "6a9c24fa1ffc75efe996033e"
   },
   {
@@ -475,7 +848,7 @@
   },
   {
     "createdAt": "2026-09-02T15:43:19.176Z",
-    "updatedAt": "2026-09-06T11:30:07.517Z",
+    "updatedAt": "2026-09-21T09:06:28.613Z",
     "title": "Keeping Clients Training Through Bad-Weather Seasons",
     "slug": "monsoon-fitness-training",
     "excerpt": "When rain, heat, or cold pushes training indoors for weeks, the right indoor programming and motivation tactics keep clients engaged and retention high.",
@@ -503,7 +876,7 @@
     "publishedDate": "2025-01-05T00:00:00.000Z",
     "updatedDate": "2025-01-05T00:00:00.000Z",
     "readTime": "7 min read",
-    "heroImage": "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/yoga_bars.png",
     "tags": [
       {
         "tag": "Bad-Weather Training",
@@ -535,7 +908,7 @@
   },
   {
     "createdAt": "2026-09-02T15:43:18.951Z",
-    "updatedAt": "2026-09-06T11:30:07.980Z",
+    "updatedAt": "2026-09-21T09:06:26.673Z",
     "title": "Managing Client Expectations Through the Holidays",
     "slug": "festival-season-client-management",
     "excerpt": "Holidays and celebrations don't have to derail client progress. A pre / during / post framework that keeps people on track without asking them to sit out.",
@@ -563,7 +936,7 @@
     "publishedDate": "2024-12-28T00:00:00.000Z",
     "updatedDate": "2024-12-28T00:00:00.000Z",
     "readTime": "9 min read",
-    "heroImage": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/client_chain.png",
     "tags": [
       {
         "tag": "Client Management",
