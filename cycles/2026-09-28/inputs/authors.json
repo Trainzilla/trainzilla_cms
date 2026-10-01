@@ -1,0 +1,79 @@
+[
+  {
+    "createdAt": "2026-09-02T15:43:17.210Z",
+    "updatedAt": "2026-09-03T07:46:39.627Z",
+    "name": "Arun Malhotra",
+    "slug": "arun-malhotra",
+    "shortBio": "Financial Technology Expert & Business Consultant specializing in digital payments for small businesses.",
+    "bio": "Financial Technology Expert & Business Consultant specializing in digital payments for small businesses.",
+    "_status": "published",
+    "links": [],
+    "id": "6a984415cf6855ff1eabad86"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:16.997Z",
+    "updatedAt": "2026-09-03T07:46:56.324Z",
+    "name": "Dr. Arjun Patel",
+    "slug": "arjun-patel",
+    "shortBio": "Nutritionist & Sports Dietitian with 10+ years specializing in vegetarian and plant-based nutrition for athletes.",
+    "bio": "Nutritionist & Sports Dietitian with 10+ years specializing in vegetarian and plant-based nutrition for athletes.",
+    "_status": "published",
+    "links": [],
+    "id": "6a984414cf6855ff1eabad7e"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:16.804Z",
+    "updatedAt": "2026-09-03T07:47:14.646Z",
+    "name": "Kavya Reddy",
+    "slug": "kavya-reddy",
+    "shortBio": "Certified Trainer & Seasonal Training Specialist with 8 years of experience building programs that hold up in any weather.",
+    "bio": "Certified Trainer & Seasonal Training Specialist with 8 years of experience building programs that hold up in any weather.",
+    "_status": "published",
+    "links": [],
+    "id": "6a984414cf6855ff1eabad76"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:16.606Z",
+    "updatedAt": "2026-09-03T07:47:30.980Z",
+    "name": "Vikram Singh",
+    "slug": "vikram-singh",
+    "shortBio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
+    "bio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
+    "_status": "published",
+    "links": [],
+    "id": "6a984414cf6855ff1eabad6d"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:16.411Z",
+    "updatedAt": "2026-09-02T15:43:16.411Z",
+    "name": "Sneha Joshi",
+    "slug": "sneha-joshi",
+    "shortBio": "Digital Marketing Specialist & Fitness Industry Expert with 7 years helping trainers grow their online presence.",
+    "bio": "Digital Marketing Specialist & Fitness Industry Expert with 7 years helping trainers grow their online presence.",
+    "_status": "published",
+    "id": "6a984414cf6855ff1eabad55",
+    "links": []
+  },
+  {
+    "createdAt": "2026-09-02T15:43:16.206Z",
+    "updatedAt": "2026-09-03T07:47:46.734Z",
+    "name": "Rajesh Kumar",
+    "slug": "rajesh-kumar",
+    "shortBio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
+    "bio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
+    "_status": "published",
+    "links": [],
+    "id": "6a984414cf6855ff1eabad35"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:14.963Z",
+    "updatedAt": "2026-09-02T15:43:14.964Z",
+    "name": "Dr. Priya Sharma",
+    "slug": "priya-sharma",
+    "shortBio": "AI Researcher & Fitness Technology Expert with 12 years of experience in health tech innovation.",
+    "bio": "AI Researcher & Fitness Technology Expert with 12 years of experience in health tech innovation.",
+    "_status": "published",
+    "id": "6a984412cf6855ff1eabacd8",
+    "links": []
+  }
+]

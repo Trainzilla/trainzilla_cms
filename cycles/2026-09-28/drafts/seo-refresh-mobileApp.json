@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "mobileApp",
+  "data": {
+    "title": "TrainZilla Mobile Apps: Health & Recovery Sync | Help",
+    "description": "How the TrainZilla coach and client apps sync Apple Health and Health Connect data — sleep, HRV, steps — so recovery signals reach the AI Coach automatically.",
+    "keywords": "TrainZilla app, Apple Health integration training app, Health Connect sync, recovery tracking software for personal trainers, mobile coaching app, wearable sync"
+  },
+  "_rationale": "Old description mentioned 'Health data sync' only in passing among five other features and was keyword-thin on this cycle's cluster. This is the natural page to lead with the Apple Health / Health Connect sync mechanism, since it is literally a mobile-app feature. Feature referenced: Apple Health / Health Connect sync [PARTIAL]."
+}
