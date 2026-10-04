@@ -178,7 +178,7 @@ Leave them out; the review packet tells the human which existing author slug and
 - List: `{ "type": "list", "listType": "bullet", "start": 1, "tag": "ul", "version": 1, "children": [ { "type": "listitem", "version": 1, "value": 1, "children": [ { "type": "text", "version": 1, "text": "…" } ] } ] }` (`listType": "number"` + `"tag": "ol"` for ordered)
 - Quote: `{ "type": "quote", "version": 1, "children": [ { "type": "text", "version": 1, "text": "…" } ] }`
 - Bold text: add `"format": 1` to a text node.
-- Link: `{ "type": "link", "version": 2, "fields": { "url": "https://trainzilla.in/…", "newTab": false }, "children": [ { "type": "text", "version": 1, "text": "…" } ] }`
+- Link: `{ "type": "link", "version": 2, "fields": { "url": "https://trainzilla.app/…", "newTab": false }, "children": [ { "type": "text", "version": 1, "text": "…" } ] }`
 
 Every non-text node also needs `"format": ""`, `"indent": 0`, `"direction": "ltr"`
 if you want to exactly match existing records — but the CMS backfills those, so
@@ -300,7 +300,7 @@ pages, the webinar topic. Each post:
   Must have a real, topic-matching `image`.
 - No invented metrics or testimonials.
 - **CTA URL**: a post derived from the new article links to
-  `https://trainzilla.in/blog/<new-slug>` (that page now carries the funnel) — not
+  `https://trainzilla.app/blog/<new-slug>` (that page now carries the funnel) — not
   the homepage. Posts derived from a refreshed seoPage link to that page's path.
 - Reuse the article hero for one post; source distinct images for the rest so the
   batch isn't four copies of the same photo.
