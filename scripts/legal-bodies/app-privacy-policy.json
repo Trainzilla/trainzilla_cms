@@ -856,7 +856,7 @@
           {
             "type": "link",
             "fields": {
-              "url": "https://trainzilla.in",
+              "url": "https://trainzilla.app",
               "newTab": false,
               "linkType": "custom"
             },
@@ -871,7 +871,7 @@
                 "style": "",
                 "mode": "normal",
                 "detail": 0,
-                "text": "https://trainzilla.in",
+                "text": "https://trainzilla.app",
                 "version": 1
               }
             ]

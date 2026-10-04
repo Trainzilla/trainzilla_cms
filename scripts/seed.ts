@@ -40,7 +40,7 @@ const rt = (paragraphs: string[]) => ({
 
 // --- SEO pages (SEOPageHead.tsx SEO_PAGES, 43 entries) ------------------------
 type SeoSeed = { key: string; title: string; description: string; keywords: string; canonicalPath: string }
-const stripOrigin = (u: string) => u.replace('https://trainzilla.in', '') || '/'
+const stripOrigin = (u: string) => u.replace('https://trainzilla.app', '') || '/'
 
 const SEO_PAGES: SeoSeed[] = [
   { key: 'agent', title: 'The AI Coaching Agent - Agentic Fitness Coaching OS | TrainZilla', description: 'Meet the coaching agent that actually does the work. Ask it and it builds and edits plans, swaps exercises, reschedules sessions, tracks habits, and messages your clients — every change preview-and-confirm gated, across web, iOS, Android and your clients’ app. The agentic fitness coaching OS.', keywords: 'AI coaching agent, agentic fitness coaching OS, AI personal trainer agent, AI fitness coaching software, AI workout plan agent, automated coaching software, AI agent for personal trainers, fitness coaching operating system, MCP fitness agent', canonicalPath: '/agent' },
@@ -316,8 +316,8 @@ const upsert = async (collection: any, where: any, data: any) => {
     data: {
       siteName: 'TrainZilla',
       orgDescription: "India's leading personal trainer software and fitness business management platform",
-      logoUrl: 'https://trainzilla.in/og-image.png',
-      ogImageDefault: 'https://trainzilla.in/og-image.png',
+      logoUrl: 'https://trainzilla.app/og-image.png',
+      ogImageDefault: 'https://trainzilla.app/og-image.png',
       social: [
         { platform: 'x', url: 'https://x.com/trainzilla_in' },
         { platform: 'facebook', url: 'https://www.facebook.com/people/Trainzillain/61578776257338/' },
@@ -348,7 +348,7 @@ const upsert = async (collection: any, where: any, data: any) => {
         ],
         featureList: arr(['Client Management System', 'Workout Plan Creator', 'Nutrition Planning', 'Progress Tracking', 'Business Analytics', 'UPI Payment Management', 'Schedule Management', 'Mobile App Access']),
       },
-      website: { searchUrlTemplate: 'https://trainzilla.in/search?q={search_term_string}' },
+      website: { searchUrlTemplate: 'https://trainzilla.app/search?q={search_term_string}' },
       _status: 'published',
     },
   })

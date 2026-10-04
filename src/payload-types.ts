@@ -1550,7 +1550,7 @@ export interface StructuredDatum {
   };
   website?: {
     /**
-     * e.g. https://trainzilla.in/search?q={search_term_string}
+     * e.g. https://trainzilla.app/search?q={search_term_string}
      */
     searchUrlTemplate?: string | null;
   };

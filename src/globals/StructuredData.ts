@@ -50,7 +50,7 @@ export const StructuredData: GlobalConfig = {
         {
           name: 'searchUrlTemplate',
           type: 'text',
-          admin: { description: 'e.g. https://trainzilla.in/search?q={search_term_string}' },
+          admin: { description: 'e.g. https://trainzilla.app/search?q={search_term_string}' },
         },
       ],
     },
