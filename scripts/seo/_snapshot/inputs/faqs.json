@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2026-09-06T11:32:08.690Z",
-    "updatedAt": "2026-09-21T07:31:11.451Z",
+    "updatedAt": "2026-10-04T13:15:49.455Z",
     "question": "What happens when my 30-day free trial ends?",
     "answer": {
       "root": {
@@ -14,7 +14,7 @@
               {
                 "type": "text",
                 "version": 1,
-                "text": "Every new coach gets 30 days free on Free Launch, with one starter client. When it ends, you move to Coach Pro (₹499/month) to keep onboarding clients. Upgrading is one click, and your account, data and everything you've already set up stay intact. Gyms with several coaches move to seat-based plans starting at ₹1,499/month for 5 coaches."
+                "text": "Every new coach gets 30 days free on Free Launch, with one starter client. When it ends, you move to Coach Pro (₹499/month in India, $19/month elsewhere) to keep onboarding clients. Upgrading is one click, and your account, data and everything you've already set up stay intact. Gyms with several coaches move to seat-based plans starting at ₹1,499/month in India or $49/month elsewhere for 5 coaches."
               }
             ]
           }
@@ -146,7 +146,7 @@
   },
   {
     "createdAt": "2026-09-06T11:32:07.906Z",
-    "updatedAt": "2026-09-21T07:31:11.464Z",
+    "updatedAt": "2026-10-04T13:17:03.795Z",
     "question": "Does Trainzilla take a cut of my client payments?",
     "answer": {
       "root": {
@@ -159,7 +159,7 @@
               {
                 "type": "text",
                 "version": 1,
-                "text": "No. Your clients pay you directly through your own payment setup. Trainzilla doesn't sit between you and your revenue or take a percentage. You pay a flat monthly platform fee (₹0 during your 30-day free trial, ₹499 on Coach Pro) and keep 100% of what your clients pay you."
+                "text": "No. Clients pay through Trainzilla's secure checkout and we pay 100% of it on to the payout account you add in your profile; we don't take a percentage. Standard payment-gateway charges may apply. You pay a flat platform fee: free for 30 days, then Coach Pro (₹499/month in India, $19/month elsewhere)."
               }
             ]
           }
@@ -181,7 +181,7 @@
   },
   {
     "createdAt": "2026-09-06T10:26:41.848Z",
-    "updatedAt": "2026-09-21T07:31:11.462Z",
+    "updatedAt": "2026-10-04T13:15:49.949Z",
     "question": "How much does Trainzilla cost?",
     "answer": {
       "root": {
@@ -194,7 +194,7 @@
               {
                 "type": "text",
                 "version": 1,
-                "text": "Every new coach starts with 30 days free on Free Launch: a coach profile, one paid offer, an invite link, a marketplace listing, the client app and one starter client. After that, Coach Pro is ₹499/month and adds unlimited clients, multiple offers, workout and nutrition tools, check-ins, habits, payments, messaging, analytics, templates, PDF export, bulk invites and your own branding in the client app. Gyms use seat-based plans starting at ₹1,499/month for up to 5 coaches. No card is needed to start."
+                "text": "Every new coach starts with 30 days free on Free Launch: a coach profile, one paid offer, an invite link, a marketplace listing, the client app and one starter client. After that, Coach Pro is ₹499/month in India or $19/month ($190/year) elsewhere, and adds unlimited clients, multiple offers, workout and nutrition tools, check-ins, habits, payments, messaging, analytics, templates, PDF export, bulk invites and your own branding in the client app. Gyms use seat-based plans starting at ₹1,499/month in India or $49/month elsewhere for up to 5 coaches. No card is needed to start."
               }
             ]
           }

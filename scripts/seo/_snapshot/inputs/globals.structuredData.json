@@ -1,6 +1,6 @@
 {
   "createdAt": "2026-09-02T15:43:07.700Z",
-  "updatedAt": "2026-09-03T07:31:34.837Z",
+  "updatedAt": "2026-10-04T03:26:48.343Z",
   "globalType": "structuredData",
   "softwareApplication": {
     "name": "TrainZilla",
@@ -10,97 +10,118 @@
     "operatingSystem": [
       {
         "value": "Web",
-        "id": "6a984d855831af63f457e1d1"
+        "id": "6ac1c778459a1694cef0859e"
       },
       {
         "value": "iOS",
-        "id": "6a984d855831af63f457e1d2"
+        "id": "6ac1c778459a1694cef0859f"
       },
       {
         "value": "Android",
-        "id": "6a984d855831af63f457e1d3"
+        "id": "6ac1c778459a1694cef085a0"
       }
     ],
     "offers": [
       {
-        "name": "Free Plan",
+        "name": "Free Launch",
         "price": "0",
-        "priceCurrency": "INR",
-        "description": "Free plan for individual personal trainers",
-        "id": "6a98440bcb24c569d717138f"
+        "priceCurrency": "USD",
+        "description": "Free for 30 days with your first client",
+        "id": "6ac1c778459a1694cef085a1"
       },
       {
-        "name": "Professional Plan",
-        "price": "999",
+        "name": "Coach Pro",
+        "price": "19",
+        "priceCurrency": "USD",
+        "description": "Unlimited clients, branded client app, own domain, AI-adjusted plans. Billed in US dollars outside India.",
+        "id": "6ac1c778459a1694cef085a2"
+      },
+      {
+        "name": "Coach Pro (India)",
+        "price": "499",
         "priceCurrency": "INR",
-        "description": "Professional plan with advanced features",
-        "id": "6a98440bcb24c569d7171390"
+        "description": "Unlimited clients, branded client app, own domain, AI-adjusted plans. Billed in rupees in India.",
+        "id": "6ac1c778459a1694cef085a3"
+      },
+      {
+        "name": "Gym Starter",
+        "price": "1499",
+        "priceCurrency": "INR",
+        "description": "Up to 5 coach seats with face check-in, leads, renewals and desk payments",
+        "id": "6ac1c778459a1694cef085a4"
+      },
+      {
+        "name": "Gym Pro",
+        "price": "3499",
+        "priceCurrency": "INR",
+        "description": "Up to 15 coach seats, multiple locations and per-location revenue",
+        "id": "6ac1c778459a1694cef085a5"
       }
     ],
     "featureList": [
       {
         "value": "AI coaching agent that builds and weekly-adjusts client workout and diet plans",
-        "id": "6a984d855831af63f457e1d4"
+        "id": "6ac1c778459a1694cef085a6"
       },
       {
         "value": "Coach reviews and approves every AI plan before the client sees it",
-        "id": "6a984d855831af63f457e1d5"
+        "id": "6ac1c778459a1694cef085a7"
       },
       {
         "value": "In-dashboard AI assistant for managing your coaching business",
-        "id": "6a984d855831af63f457e1d6"
+        "id": "6ac1c778459a1694cef085a8"
       },
       {
         "value": "Workout builder with training-split templates and a video exercise library",
-        "id": "6a984d855831af63f457e1d7"
+        "id": "6ac1c778459a1694cef085a9"
       },
       {
         "value": "Diet and meal-plan builder with per-ingredient macro tracking",
-        "id": "6a984d855831af63f457e1d8"
+        "id": "6ac1c778459a1694cef085aa"
       },
       {
         "value": "Client meal and exercise swaps with instant macro-impact preview",
-        "id": "6a984d855831af63f457e1d9"
+        "id": "6ac1c778459a1694cef085ab"
       },
       {
         "value": "Habit tracking with streaks, milestones and reusable master habits",
-        "id": "6a984d855831af63f457e1da"
+        "id": "6ac1c778459a1694cef085ac"
       },
       {
         "value": "Custom client check-ins with photo, scale and text questions",
-        "id": "6a984d855831af63f457e1db"
+        "id": "6ac1c778459a1694cef085ad"
       },
       {
         "value": "Session booking with availability and online or in-person options",
-        "id": "6a984d855831af63f457e1dc"
+        "id": "6ac1c778459a1694cef085ae"
       },
       {
         "value": "Progress tracking with Apple Health and Health Connect sync",
-        "id": "6a984d855831af63f457e1dd"
+        "id": "6ac1c778459a1694cef085af"
       },
       {
         "value": "Recurring client subscriptions and one-off payments via Razorpay, Google Play and Apple",
-        "id": "6a984d855831af63f457e1de"
+        "id": "6ac1c778459a1694cef085b0"
       },
       {
         "value": "Coach payouts to a linked bank account",
-        "id": "6a984d855831af63f457e1df"
+        "id": "6ac1c778459a1694cef085b1"
       },
       {
         "value": "Marketplace to sell workout and diet plans and templates",
-        "id": "6a984d855831af63f457e1e0"
+        "id": "6ac1c778459a1694cef085b2"
       },
       {
         "value": "Multi-location gym and franchise dashboard with per-coach revenue",
-        "id": "6a984d855831af63f457e1e1"
+        "id": "6ac1c778459a1694cef085b3"
       },
       {
         "value": "Coach app plus a free client app for Android and iOS",
-        "id": "6a984d855831af63f457e1e2"
+        "id": "6ac1c778459a1694cef085b4"
       },
       {
         "value": "Plan PDF export",
-        "id": "6a984d855831af63f457e1e3"
+        "id": "6ac1c778459a1694cef085b5"
       }
     ]
   },

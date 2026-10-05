@@ -1,11 +1,11 @@
 {
   "createdAt": "2026-09-02T15:43:07.436Z",
-  "updatedAt": "2026-09-09T14:11:52.268Z",
+  "updatedAt": "2026-10-04T08:02:41.353Z",
   "globalType": "siteSettings",
   "siteName": "TrainZilla",
   "orgDescription": "TrainZilla is an AI-first coaching platform for personal trainers, online fitness coaches and gyms. An autonomous AI agent builds and weekly-adjusts each client's workout and diet plan under coach review, alongside client management, habit tracking, check-ins, session booking, progress tracking, payments and a branded client app.",
-  "logoUrl": "https://trainzilla.in/app-icon.png",
-  "ogImageDefault": "https://trainzilla.in/og-image.png",
+  "logoUrl": "https://trainzilla.app/app-icon.png",
+  "ogImageDefault": "https://trainzilla.app/og-image.png",
   "social": [
     {
       "platform": "x",

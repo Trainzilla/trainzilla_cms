@@ -1,4 +1,4 @@
-# CMS content snapshot — 2026-09-28
+# CMS content snapshot — 2026-10-05
 
 Source: https://cms.trainzilla.in (published only). Regenerate with `node scripts/seo/fetch-cms-state.mjs scripts/seo/_snapshot`.
 
@@ -27,33 +27,39 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 | `gstPolicy` | true | false | GST Policy \| TrainZilla | How GST applies to TrainZilla subscriptions and payments, what appears on your tax invoice |
 | `help` | false | false | TrainZilla Help Center \| Guides for Coaches | Product guides and answers for TrainZilla coaches: getting started, client management, pla |
 | `help-center` | true | false | TrainZilla Help Center \| Guides for Coaches | Product guides and answers for TrainZilla coaches: getting started, client management, pla |
-| `home` | true | false | AI Coaching Software for Trainers & Gyms \| TrainZilla | An AI agent builds and weekly-adjusts every client's workout and diet plan — with check-in |
+| `home` | true | false | AI Personal Trainer Software, Unlimited Clients \| TrainZilla | Personal trainer software with an AI that adjusts every client's workout and diet weekly w |
 | `login` | true | false | Log In to TrainZilla \| Fitness Coaching Dashboard | Log in to your TrainZilla coaching dashboard to manage clients, build plans, review AI run |
 | `marketplace` | true | false | Sell Workout & Diet Plans Online \| TrainZilla Marketplace | Package your workout and diet plans and templates as one-off purchases, deliver them as PD |
 | `mobileApp` | true | false | TrainZilla Mobile Apps Guide \| Help | How the TrainZilla coach app and the free client app work on Android and iOS: logging, cha |
 | `monsoonFitness` | true | false | Training Clients Through the Rainy Season \| TrainZilla | Keep clients active when the weather won't cooperate: home and indoor workout options, hab |
 | `nutritionVegetarian` | true | false | Vegetarian Meal Swaps & Macro Planning \| TrainZilla | High-protein vegetarian meal plans with practical food swaps — see the macro delta before  |
 | `paymentsBilling` | true | false | Payments, Billing & Coach Payouts \| TrainZilla Help | Set up Razorpay UPI, card and wallet payments, then automate revenue-share payouts to ever |
-| `pricing` | true | false | TrainZilla Pricing: Coach Pro & Gym Franchise Plans | Start free for 30 days. Coach Pro is ₹499/month; gym and franchise plans add per-location  |
+| `pricing` | true | false | Pricing: Personal Trainer Software from $19/mo \| TrainZilla | Start free for 30 days. Coach Pro is $19/month (₹499 in India) with unlimited clients, a b |
 | `privacyPolicy` | true | false | Privacy Policy \| TrainZilla | How TrainZilla collects, uses, stores and protects personal data for coaches and their cli |
 | `progressTracking` | true | false | Track Client Progress & Meal Swaps \| Help \| TrainZilla | Review workout and diet logs, progress photos, and every meal swap a client makes — with t |
 | `refundPolicy` | true | false | Refund Policy \| TrainZilla | TrainZilla's refund policy for platform subscriptions and marketplace purchases — eligibil |
 | `register` | true | false | Start Free — Coaching Software for Trainers \| TrainZilla | Create a free TrainZilla account and start coaching in minutes: add clients, build workout |
-| `solutions` | true | false | Multi-Location Gym & Franchise Software \| TrainZilla | Run every location and coach from one dashboard: per-location and per-coach revenue, autom |
+| `solutions` | true | false | Coaching Software Features for Personal Trainers \| TrainZilla | Every TrainZilla feature: client management, workout and meal plan builders, check-ins, pr |
 | `successStories` | true | false | Gym & Franchise Success Stories \| TrainZilla | How multi-location gyms and franchise owners track revenue per site and coach, automate pa |
 | `support` | true | false | Contact TrainZilla Support \| Help | Reach TrainZilla support for account, billing or technical issues. See what to include in  |
 | `termsOfService` | true | false | Terms of Service \| TrainZilla | The terms that govern your use of TrainZilla — accounts, subscriptions and payments, accep |
 | `training` | true | false | TrainZilla Training & Webinars for Coaches | Learn TrainZilla and level up your coaching: product training, live and recorded webinars, |
 | `troubleshooting` | true | false | TrainZilla Troubleshooting \| Help | Fix common TrainZilla issues: login and password problems, failed payments, missing notifi |
 | `upiPaymentsGuide` | true | false | Digital Payments Guide for Fitness Coaches \| TrainZilla | How independent coaches collect payments cleanly: UPI and card options, recurring client s |
-| `webinars` | true | false | Free Webinars for Fitness Coaches \| TrainZilla | Free and on-demand webinars for personal trainers and online coaches — client acquisition, |
+| `webinars` | true | false | Trainzilla Demos & Webinars \| Watch the App in Action | Watch Trainzilla product demos for coaches and clients, and join free live sessions from t |
 | `workoutPlanning` | true | false | Build Workout Plans in TrainZilla \| Help | Create workout plans from training-split templates, add exercises with video, set progress |
 | `workoutPlans` | true | false | Workout Plan Builder for Personal Trainers \| TrainZilla | Build workout plans on real training-split templates — strength, HYROX, running, hybrid —  |
 
-## articles (22)
+## articles (28)
 
 | slug | title | category | published | updated | readTime |
 | --- | --- | --- | --- | --- | --- |
+| `personal-trainer-website-custom-domain` | Personal Trainer Website on Your Own Domain: Profile and Checkout on yourname.com | business-growth | 2026-10-01T00:00:00.000Z |  | 6 min read |
+| `how-to-read-body-composition-report` | How to Read a Body Composition Report: A Coach's Guide to InBody, DEXA and Blood Tests | client-management | 2026-10-01T00:00:00.000Z |  | 8 min read |
+| `move-gym-from-excel-import-members-leads` | Moving Your Gym Off Excel: How to Import Members, Leads and Sales Without Retyping | business-growth | 2026-10-01T00:00:00.000Z |  | 7 min read |
+| `gym-lead-follow-up-system` | How to Follow Up on Gym Enquiries: A Lead Status System for the Front Desk | business-growth | 2026-10-01T00:00:00.000Z |  | 6 min read |
+| `gym-membership-renewals-reduce-lapses` | How to Stop Gym Memberships Lapsing Quietly: A Weekly Renewals Routine | business-growth | 2026-10-01T00:00:00.000Z |  | 7 min read |
+| `face-recognition-attendance-for-gyms` | Face Recognition Attendance for Gyms: How It Works and How to Roll It Out | business-growth | 2026-10-01T00:00:00.000Z |  | 7 min read |
 | `gym-trainer-revenue-share-automatic-payouts` | How to Split Revenue with Gym Trainers: Automatic Payouts and Per-Location Reporting | business-growth | 2026-09-21T00:00:00.000Z | 2026-09-21T00:00:00.000Z | 7 min read |
 | `switch-coaching-software-without-losing-clients` | How to Switch Coaching Software Without Losing Clients: A Migration Checklist | business-growth | 2026-09-21T00:00:00.000Z | 2026-09-21T00:00:00.000Z | 7 min read |
 | `how-to-sell-workout-plans-online` | How to Sell Workout Plans Online as a Personal Trainer | business-growth | 2026-09-21T00:00:00.000Z | 2026-09-21T00:00:00.000Z | 7 min read |
@@ -77,6 +83,12 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 | `business-growth-tier2-cities` | Building a Sustainable Fitness Business in Smaller Cities | business-growth | 2025-01-08T00:00:00.000Z | 2025-01-08T00:00:00.000Z | 6 min read |
 | `ai-fitness-revolution` | The Future of Personal Training: The AI Revolution | ai-technology | 2025-01-10T00:00:00.000Z | 2025-01-10T00:00:00.000Z | 8 min read |
 
+- **personal-trainer-website-custom-domain** — excerpt: Why a personal trainer should put their profile and payment page on their own domain, how to pick one, the two DNS records it takes, and how to do it without bu  _(~611 words in body)_
+- **how-to-read-body-composition-report** — excerpt: Clients hand you InBody printouts, DEXA scans and blood reports. Which numbers matter for coaching, which ones are noise, how to compare two reports fairly — an  _(~703 words in body)_
+- **move-gym-from-excel-import-members-leads** — excerpt: Switching gym software usually stalls on one thing: years of members, leads and sales in Excel. How to clean the sheet, import it in one go, check it before any  _(~620 words in body)_
+- **gym-lead-follow-up-system** — excerpt: Gym enquiries go cold because nobody knows who called whom. A simple lead status system — Hot, Warm, Did not pick up, Not interested, Low budget, Out of radius   _(~568 words in body)_
+- **gym-membership-renewals-reduce-lapses** — excerpt: Most gym members don't cancel — they just don't renew. A simple weekly renewals routine, the four renewal states worth tracking, and how to handle cash and UPI   _(~686 words in body)_
+- **face-recognition-attendance-for-gyms** — excerpt: Face recognition attendance for gyms, explained: how enrolment and check-in work, how blink checks stop photo spoofing, what consent you need, and how to roll i  _(~830 words in body)_
 - **gym-trainer-revenue-share-automatic-payouts** — excerpt: Gym trainer revenue share without the spreadsheet: how automatic coach payouts, per-coach revenue dashboards and attendance tracking work across locations.  _(~489 words in body)_
 - **switch-coaching-software-without-losing-clients** — excerpt: How to switch coaching software without losing clients: a step-by-step migration checklist covering exports, templates, bulk client invites and a safe overlap w  _(~573 words in body)_
 - **how-to-sell-workout-plans-online** — excerpt: How to sell workout plans online: pick a niche, package plans you already write, price them, take payments and list them where clients can find you.  _(~570 words in body)_
@@ -89,7 +101,7 @@ Source: https://cms.trainzilla.in (published only). Regenerate with `node script
 - **yoga-wellness-coaching-software** — excerpt: Yoga and wellness coaching isn't sets and reps. It's routines, consistency and check-ins. Most coaching software is built for lifting — here's the part of Train  _(~561 words in body)_
 - **nutrition-coaching-software** — excerpt: Building macros by hand, rewriting meal plans off every check-in, chasing food logs across WhatsApp. Here's how Trainzilla turns each of those into something fa  _(~588 words in body)_
 - **online-fitness-coaching-software** — excerpt: No gym floor, no face-to-face read on a client's week. Everything you know about them comes through a screen — so the software you run it on isn't a nice-to-hav  _(~730 words in body)_
-- **coaching-software-cost-india** — excerpt: Every new coach gets 30 days free and Coach Pro is ₹499/month — but the number that matters is what you're already paying in Sunday evenings. The honest arithme  _(~859 words in body)_
+- **coaching-software-cost-india** — excerpt: Every new coach gets 30 days free and Coach Pro is ₹499/month — but the number that matters is what you're already paying in Sunday evenings. The honest arithme  _(~846 words in body)_
 - **connect-trainzilla-to-claude** — excerpt: A short, exact walkthrough: connect your Trainzilla coach account to Claude, verify it worked, and run your first real client workflow — plus what the connector  _(~783 words in body)_
 - **ai-agents-mcp-coaching** — excerpt: Most AI for fitness is a chatbot that has never met your clients. Here is what changes when your assistant can read your real Trainzilla account, and what we de  _(~992 words in body)_
 - **upi-digital-payments-guide** — excerpt: Everything you need to accept digital payments, stay on top of tax compliance, and use payment data to grow your coaching income.  _(~488 words in body)_

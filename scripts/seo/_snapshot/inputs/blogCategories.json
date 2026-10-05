@@ -1,10 +1,10 @@
 [
   {
     "createdAt": "2026-09-02T15:43:18.033Z",
-    "updatedAt": "2026-09-02T15:43:18.033Z",
+    "updatedAt": "2026-10-04T03:26:48.807Z",
     "slug": "nutrition",
     "name": "Nutrition",
-    "description": "Diet planning and nutrition guidance for Indian clients.",
+    "description": "Diet planning, macros and meal swaps for coaches and their clients.",
     "seo": {},
     "_status": "published",
     "id": "6a984416cf6855ff1eabada8"
@@ -31,10 +31,10 @@
   },
   {
     "createdAt": "2026-09-02T15:43:17.437Z",
-    "updatedAt": "2026-09-02T15:43:17.437Z",
+    "updatedAt": "2026-10-04T03:26:49.316Z",
     "slug": "ai-technology",
     "name": "AI & Technology",
-    "description": "How AI and new tools are reshaping coaching in India.",
+    "description": "How AI and new tools are reshaping personal training and online coaching.",
     "seo": {},
     "_status": "published",
     "id": "6a984415cf6855ff1eabad90"

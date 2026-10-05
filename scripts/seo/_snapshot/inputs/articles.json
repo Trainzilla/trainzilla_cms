@@ -1,7 +1,397 @@
 [
   {
+    "createdAt": "2026-10-01T07:27:55.216Z",
+    "updatedAt": "2026-10-01T07:28:06.967Z",
+    "title": "Personal Trainer Website on Your Own Domain: Profile and Checkout on yourname.com",
+    "slug": "personal-trainer-website-custom-domain",
+    "excerpt": "Why a personal trainer should put their profile and payment page on their own domain, how to pick one, the two DNS records it takes, and how to do it without building a website.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.645Z",
+      "updatedAt": "2026-09-02T15:43:17.645Z",
+      "slug": "business-growth",
+      "name": "Business & Growth",
+      "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad98"
+    },
+    "author": {
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
+      "_status": "published",
+      "id": "6abe0a9b4b150f71b45bbcc1"
+    },
+    "publishedDate": "2026-10-01T00:00:00.000Z",
+    "readTime": "6 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/online_loop.png",
+    "tags": [
+      {
+        "tag": "personal-trainer-website",
+        "id": "6abe0b7b459a1694cef08508"
+      },
+      {
+        "tag": "custom-domain",
+        "id": "6abe0b7b459a1694cef08509"
+      },
+      {
+        "tag": "coach-branding",
+        "id": "6abe0b7b459a1694cef0850a"
+      },
+      {
+        "tag": "online-coaching",
+        "id": "6abe0b7b459a1694cef0850b"
+      }
+    ],
+    "funnelStage": "consideration",
+    "seo": {
+      "title": "Personal Trainer Website on Your Own Domain",
+      "description": "Put your coaching profile and checkout on your own domain without building a website: why it builds trust, how to pick a name, and the two DNS records it takes.",
+      "keywords": "personal trainer website, fitness coach website india, personal trainer custom domain, online coaching website, trainer payment page, coach booking page own domain",
+      "canonicalPath": "/blog/personal-trainer-website-custom-domain",
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6abe0b7b4b150f71b45bbcfa"
+  },
+  {
+    "createdAt": "2026-10-01T07:27:18.528Z",
+    "updatedAt": "2026-10-01T07:28:07.000Z",
+    "title": "How to Read a Body Composition Report: A Coach's Guide to InBody, DEXA and Blood Tests",
+    "slug": "how-to-read-body-composition-report",
+    "excerpt": "Clients hand you InBody printouts, DEXA scans and blood reports. Which numbers matter for coaching, which ones are noise, how to compare two reports fairly — and how to stop retyping them.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.841Z",
+      "updatedAt": "2026-09-02T15:43:17.841Z",
+      "slug": "client-management",
+      "name": "Client Management",
+      "description": "Retention, communication and coaching clients through real life.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabada0"
+    },
+    "author": {
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
+      "_status": "published",
+      "id": "6abe0a9b4b150f71b45bbcc1"
+    },
+    "publishedDate": "2026-10-01T00:00:00.000Z",
+    "readTime": "8 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/nutri_stat.png",
+    "tags": [
+      {
+        "tag": "body-composition",
+        "id": "6abe0b56459a1694cef08504"
+      },
+      {
+        "tag": "inbody-report",
+        "id": "6abe0b56459a1694cef08505"
+      },
+      {
+        "tag": "client-progress",
+        "id": "6abe0b56459a1694cef08506"
+      },
+      {
+        "tag": "health-reports",
+        "id": "6abe0b56459a1694cef08507"
+      }
+    ],
+    "funnelStage": "awareness",
+    "seo": {
+      "title": "How to Read a Body Composition Report (Coach's Guide)",
+      "description": "A coach's guide to InBody, DEXA and blood reports: which numbers matter, which are noise, how to compare two scans fairly, and how to stop retyping reports by hand.",
+      "keywords": "how to read inbody report, body composition report explained, inbody results meaning, body fat percentage vs bmi, skeletal muscle mass, visceral fat level, dexa scan explained",
+      "canonicalPath": "/blog/how-to-read-body-composition-report",
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6abe0b564b150f71b45bbcf2"
+  },
+  {
+    "createdAt": "2026-10-01T07:27:18.046Z",
+    "updatedAt": "2026-10-01T07:28:07.227Z",
+    "title": "Moving Your Gym Off Excel: How to Import Members, Leads and Sales Without Retyping",
+    "slug": "move-gym-from-excel-import-members-leads",
+    "excerpt": "Switching gym software usually stalls on one thing: years of members, leads and sales in Excel. How to clean the sheet, import it in one go, check it before anything is saved, and invite members to the app.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.645Z",
+      "updatedAt": "2026-09-02T15:43:17.645Z",
+      "slug": "business-growth",
+      "name": "Business & Growth",
+      "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad98"
+    },
+    "author": {
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
+      "_status": "published",
+      "id": "6abe0a9b4b150f71b45bbcc1"
+    },
+    "publishedDate": "2026-10-01T00:00:00.000Z",
+    "readTime": "7 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/online_compare.png",
+    "tags": [
+      {
+        "tag": "gym-software-migration",
+        "id": "6abe0b56459a1694cef08500"
+      },
+      {
+        "tag": "excel-import",
+        "id": "6abe0b56459a1694cef08501"
+      },
+      {
+        "tag": "google-sheets",
+        "id": "6abe0b56459a1694cef08502"
+      },
+      {
+        "tag": "gym-management-software",
+        "id": "6abe0b56459a1694cef08503"
+      }
+    ],
+    "funnelStage": "decision",
+    "seo": {
+      "title": "Move Your Gym Off Excel: Import Members, Leads & Sales",
+      "description": "How to move a gym from Excel or Google Sheets to gym software: clean the sheet, import members, leads and sales in one go, preview before saving, and undo if needed.",
+      "keywords": "gym software excel import, migrate gym members excel, gym management software google sheets, import gym members csv, switch gym software india, gym data migration",
+      "canonicalPath": "/blog/move-gym-from-excel-import-members-leads",
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6abe0b564b150f71b45bbcea"
+  },
+  {
+    "createdAt": "2026-10-01T07:26:06.754Z",
+    "updatedAt": "2026-10-01T07:28:07.238Z",
+    "title": "How to Follow Up on Gym Enquiries: A Lead Status System for the Front Desk",
+    "slug": "gym-lead-follow-up-system",
+    "excerpt": "Gym enquiries go cold because nobody knows who called whom. A simple lead status system — Hot, Warm, Did not pick up, Not interested, Low budget, Out of radius — and the follow-up rule for each.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.645Z",
+      "updatedAt": "2026-09-02T15:43:17.645Z",
+      "slug": "business-growth",
+      "name": "Business & Growth",
+      "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad98"
+    },
+    "author": {
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
+      "_status": "published",
+      "id": "6abe0a9b4b150f71b45bbcc1"
+    },
+    "publishedDate": "2026-10-01T00:00:00.000Z",
+    "readTime": "6 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/client_chain.png",
+    "tags": [
+      {
+        "tag": "gym-leads",
+        "id": "6abe0b0e459a1694cef084fc"
+      },
+      {
+        "tag": "gym-sales",
+        "id": "6abe0b0e459a1694cef084fd"
+      },
+      {
+        "tag": "lead-follow-up",
+        "id": "6abe0b0e459a1694cef084fe"
+      },
+      {
+        "tag": "gym-management-software",
+        "id": "6abe0b0e459a1694cef084ff"
+      }
+    ],
+    "funnelStage": "awareness",
+    "seo": {
+      "title": "How to Follow Up on Gym Enquiries: Lead Status System",
+      "description": "Stop gym enquiries going cold: six lead statuses your front desk will actually use, the follow-up rule for each, and how to track them without a WhatsApp mess.",
+      "keywords": "gym lead management, gym enquiry follow up, gym sales process, gym lead tracking software, how to convert gym enquiries, gym walk in follow up",
+      "canonicalPath": "/blog/gym-lead-follow-up-system",
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6abe0b0e4b150f71b45bbce2"
+  },
+  {
+    "createdAt": "2026-10-01T07:26:06.335Z",
+    "updatedAt": "2026-10-01T07:28:06.984Z",
+    "title": "How to Stop Gym Memberships Lapsing Quietly: A Weekly Renewals Routine",
+    "slug": "gym-membership-renewals-reduce-lapses",
+    "excerpt": "Most gym members don't cancel — they just don't renew. A simple weekly renewals routine, the four renewal states worth tracking, and how to handle cash and UPI members who never auto-renew.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.645Z",
+      "updatedAt": "2026-09-02T15:43:17.645Z",
+      "slug": "business-growth",
+      "name": "Business & Growth",
+      "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad98"
+    },
+    "author": {
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
+      "_status": "published",
+      "id": "6abe0a9b4b150f71b45bbcc1"
+    },
+    "publishedDate": "2026-10-01T00:00:00.000Z",
+    "readTime": "7 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/client_timeline.png",
+    "tags": [
+      {
+        "tag": "gym-membership-renewals",
+        "id": "6abe0b0e459a1694cef084f8"
+      },
+      {
+        "tag": "member-retention",
+        "id": "6abe0b0e459a1694cef084f9"
+      },
+      {
+        "tag": "gym-management-software",
+        "id": "6abe0b0e459a1694cef084fa"
+      },
+      {
+        "tag": "desk-payments",
+        "id": "6abe0b0e459a1694cef084fb"
+      }
+    ],
+    "funnelStage": "awareness",
+    "seo": {
+      "title": "How to Reduce Gym Membership Lapses: Renewals Routine",
+      "description": "Gym members rarely cancel — they just don't renew. A weekly renewals routine, the four renewal states to track, and how to handle cash and UPI members who never auto-renew.",
+      "keywords": "gym membership renewal, reduce gym membership churn, gym renewal reminders, gym member retention india, gym membership expiry tracking, cash upi gym membership",
+      "canonicalPath": "/blog/gym-membership-renewals-reduce-lapses",
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6abe0b0e4b150f71b45bbcda"
+  },
+  {
+    "createdAt": "2026-10-01T07:24:57.073Z",
+    "updatedAt": "2026-10-01T07:28:07.030Z",
+    "title": "Face Recognition Attendance for Gyms: How It Works and How to Roll It Out",
+    "slug": "face-recognition-attendance-for-gyms",
+    "excerpt": "Face recognition attendance for gyms, explained: how enrolment and check-in work, how blink checks stop photo spoofing, what consent you need, and how to roll it out without a hardware budget.",
+    "category": {
+      "createdAt": "2026-09-02T15:43:17.645Z",
+      "updatedAt": "2026-09-02T15:43:17.645Z",
+      "slug": "business-growth",
+      "name": "Business & Growth",
+      "description": "Client acquisition, pricing, marketing and payments for fitness businesses.",
+      "seo": {},
+      "_status": "published",
+      "id": "6a984415cf6855ff1eabad98"
+    },
+    "author": {
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
+      "_status": "published",
+      "id": "6abe0a9b4b150f71b45bbcc1"
+    },
+    "publishedDate": "2026-10-01T00:00:00.000Z",
+    "readTime": "7 min read",
+    "heroImage": "https://cms.trainzilla.in/api/media/file/gym_stat.png",
+    "tags": [
+      {
+        "tag": "face-recognition-attendance",
+        "id": "6abe0ac9459a1694cef084f4"
+      },
+      {
+        "tag": "gym-check-in",
+        "id": "6abe0ac9459a1694cef084f5"
+      },
+      {
+        "tag": "gym-management-software",
+        "id": "6abe0ac9459a1694cef084f6"
+      },
+      {
+        "tag": "front-desk",
+        "id": "6abe0ac9459a1694cef084f7"
+      }
+    ],
+    "funnelStage": "consideration",
+    "seo": {
+      "title": "Face Recognition Attendance for Gyms: A Practical Guide",
+      "description": "How face recognition attendance works in a gym: one-time enrolment with consent, blink checks against photo spoofing, and a rollout plan using a laptop or tablet you already own.",
+      "keywords": "face recognition attendance for gym, gym face check in, biometric attendance gym, gym attendance system india, gym check in kiosk, gym access without cards",
+      "canonicalPath": "/blog/face-recognition-attendance-for-gyms",
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6abe0ac94b150f71b45bbcd2"
+  },
+  {
     "createdAt": "2026-09-21T06:59:27.205Z",
-    "updatedAt": "2026-09-21T07:25:36.108Z",
+    "updatedAt": "2026-10-01T07:39:45.593Z",
     "title": "How to Split Revenue with Gym Trainers: Automatic Payouts and Per-Location Reporting",
     "slug": "gym-trainer-revenue-share-automatic-payouts",
     "excerpt": "Gym trainer revenue share without the spreadsheet: how automatic coach payouts, per-coach revenue dashboards and attendance tracking work across locations.",
@@ -16,15 +406,21 @@
       "id": "6a984415cf6855ff1eabad98"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:17.210Z",
-      "updatedAt": "2026-09-03T07:46:39.627Z",
-      "name": "Arun Malhotra",
-      "slug": "arun-malhotra",
-      "shortBio": "Financial Technology Expert & Business Consultant specializing in digital payments for small businesses.",
-      "bio": "Financial Technology Expert & Business Consultant specializing in digital payments for small businesses.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984415cf6855ff1eabad86"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-21T00:00:00.000Z",
     "updatedDate": "2026-09-21T00:00:00.000Z",
@@ -65,7 +461,7 @@
   },
   {
     "createdAt": "2026-09-21T06:58:57.325Z",
-    "updatedAt": "2026-09-21T09:02:33.010Z",
+    "updatedAt": "2026-10-01T07:39:45.636Z",
     "title": "How to Switch Coaching Software Without Losing Clients: A Migration Checklist",
     "slug": "switch-coaching-software-without-losing-clients",
     "excerpt": "How to switch coaching software without losing clients: a step-by-step migration checklist covering exports, templates, bulk client invites and a safe overlap week.",
@@ -80,15 +476,21 @@
       "id": "6a984415cf6855ff1eabad98"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.206Z",
-      "updatedAt": "2026-09-03T07:47:46.734Z",
-      "name": "Rajesh Kumar",
-      "slug": "rajesh-kumar",
-      "shortBio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
-      "bio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984414cf6855ff1eabad35"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-21T00:00:00.000Z",
     "updatedDate": "2026-09-21T00:00:00.000Z",
@@ -129,7 +531,7 @@
   },
   {
     "createdAt": "2026-09-21T06:58:27.351Z",
-    "updatedAt": "2026-09-21T09:02:37.687Z",
+    "updatedAt": "2026-10-01T07:39:45.658Z",
     "title": "How to Sell Workout Plans Online as a Personal Trainer",
     "slug": "how-to-sell-workout-plans-online",
     "excerpt": "How to sell workout plans online: pick a niche, package plans you already write, price them, take payments and list them where clients can find you.",
@@ -144,15 +546,21 @@
       "id": "6a984415cf6855ff1eabad98"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.411Z",
-      "updatedAt": "2026-09-02T15:43:16.411Z",
-      "name": "Sneha Joshi",
-      "slug": "sneha-joshi",
-      "shortBio": "Digital Marketing Specialist & Fitness Industry Expert with 7 years helping trainers grow their online presence.",
-      "bio": "Digital Marketing Specialist & Fitness Industry Expert with 7 years helping trainers grow their online presence.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "id": "6a984414cf6855ff1eabad55",
-      "links": []
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-21T00:00:00.000Z",
     "updatedDate": "2026-09-21T00:00:00.000Z",
@@ -193,30 +601,36 @@
   },
   {
     "createdAt": "2026-09-21T06:57:57.401Z",
-    "updatedAt": "2026-09-21T07:25:19.563Z",
+    "updatedAt": "2026-10-01T07:39:45.614Z",
     "title": "Is AI Safe for Personal Training? How Coach-Approved AI Plans Work",
     "slug": "is-ai-safe-for-personal-training-coach-approval",
     "excerpt": "Is AI safe for personal training? See how guardrails, coach approval and plain-language explanations keep AI-built workout and diet plans under a coach's control.",
     "category": {
       "createdAt": "2026-09-02T15:43:17.437Z",
-      "updatedAt": "2026-09-02T15:43:17.437Z",
+      "updatedAt": "2026-10-04T03:26:49.316Z",
       "slug": "ai-technology",
       "name": "AI & Technology",
-      "description": "How AI and new tools are reshaping coaching in India.",
+      "description": "How AI and new tools are reshaping personal training and online coaching.",
       "seo": {},
       "_status": "published",
       "id": "6a984415cf6855ff1eabad90"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:14.963Z",
-      "updatedAt": "2026-09-02T15:43:14.964Z",
-      "name": "Dr. Priya Sharma",
-      "slug": "priya-sharma",
-      "shortBio": "AI Researcher & Fitness Technology Expert with 12 years of experience in health tech innovation.",
-      "bio": "AI Researcher & Fitness Technology Expert with 12 years of experience in health tech innovation.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "id": "6a984412cf6855ff1eabacd8",
-      "links": []
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-21T00:00:00.000Z",
     "updatedDate": "2026-09-21T00:00:00.000Z",
@@ -257,7 +671,7 @@
   },
   {
     "createdAt": "2026-09-21T06:57:26.831Z",
-    "updatedAt": "2026-09-21T07:25:13.405Z",
+    "updatedAt": "2026-10-01T07:39:45.678Z",
     "title": "How to Adjust a Client's Training Plan Based on Sleep and Recovery Data",
     "slug": "adjust-training-plan-sleep-recovery-data",
     "excerpt": "Learn how to adjust a client's training plan based on sleep and recovery data: which signals matter, simple dial-back rules, and how to automate them safely.",
@@ -272,15 +686,21 @@
       "id": "6a984415cf6855ff1eabada0"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.804Z",
-      "updatedAt": "2026-09-03T07:47:14.646Z",
-      "name": "Kavya Reddy",
-      "slug": "kavya-reddy",
-      "shortBio": "Certified Trainer & Seasonal Training Specialist with 8 years of experience building programs that hold up in any weather.",
-      "bio": "Certified Trainer & Seasonal Training Specialist with 8 years of experience building programs that hold up in any weather.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984414cf6855ff1eabad76"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-21T00:00:00.000Z",
     "updatedDate": "2026-09-21T00:00:00.000Z",
@@ -321,30 +741,36 @@
   },
   {
     "createdAt": "2026-09-14T08:21:55.754Z",
-    "updatedAt": "2026-09-21T07:59:32.806Z",
+    "updatedAt": "2026-10-01T07:39:45.568Z",
     "title": "How to Let Clients Swap Meals Without Breaking Their Macros",
     "slug": "meal-swap-without-breaking-macros",
     "excerpt": "A practical guide for coaches: how to let clients swap meals without breaking their macros, using ingredient-level plans and a macro-delta preview.",
     "category": {
       "createdAt": "2026-09-02T15:43:18.033Z",
-      "updatedAt": "2026-09-02T15:43:18.033Z",
+      "updatedAt": "2026-10-04T03:26:48.807Z",
       "slug": "nutrition",
       "name": "Nutrition",
-      "description": "Diet planning and nutrition guidance for Indian clients.",
+      "description": "Diet planning, macros and meal swaps for coaches and their clients.",
       "seo": {},
       "_status": "published",
       "id": "6a984416cf6855ff1eabada8"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.997Z",
-      "updatedAt": "2026-09-03T07:46:56.324Z",
-      "name": "Dr. Arjun Patel",
-      "slug": "arjun-patel",
-      "shortBio": "Nutritionist & Sports Dietitian with 10+ years specializing in vegetarian and plant-based nutrition for athletes.",
-      "bio": "Nutritionist & Sports Dietitian with 10+ years specializing in vegetarian and plant-based nutrition for athletes.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984414cf6855ff1eabad7e"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-14T00:00:00.000Z",
     "updatedDate": "2026-09-14T00:00:00.000Z",
@@ -373,7 +799,7 @@
   },
   {
     "createdAt": "2026-09-07T12:52:10.091Z",
-    "updatedAt": "2026-09-21T07:28:04.910Z",
+    "updatedAt": "2026-10-01T07:39:46.089Z",
     "title": "Multi-Location Gym Management Software: A Buyer's Guide",
     "slug": "multi-location-gym-management-software",
     "excerpt": "A buyer's guide to multi-location gym management software: per-location and per-coach revenue, automatic coach payouts, and attendance tracking.",
@@ -388,15 +814,21 @@
       "id": "6a984415cf6855ff1eabad98"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:17.210Z",
-      "updatedAt": "2026-09-03T07:46:39.627Z",
-      "name": "Arun Malhotra",
-      "slug": "arun-malhotra",
-      "shortBio": "Financial Technology Expert & Business Consultant specializing in digital payments for small businesses.",
-      "bio": "Financial Technology Expert & Business Consultant specializing in digital payments for small businesses.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984415cf6855ff1eabad86"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-07T00:00:00.000Z",
     "readTime": "8 min read",
@@ -424,30 +856,36 @@
   },
   {
     "createdAt": "2026-09-05T14:50:01.575Z",
-    "updatedAt": "2026-09-06T11:30:43.421Z",
+    "updatedAt": "2026-10-01T07:39:46.377Z",
     "title": "What AI coaching actually feels like for the client — and why that changes retention",
     "slug": "ai-coaching-client-experience",
     "excerpt": "\"AI coaching\" usually means the coach's workflow. But the client feels it too — in how fast their plan responds, and whether they understand why it changed. That second part is most of retention.",
     "category": {
       "createdAt": "2026-09-02T15:43:17.437Z",
-      "updatedAt": "2026-09-02T15:43:17.437Z",
+      "updatedAt": "2026-10-04T03:26:49.316Z",
       "slug": "ai-technology",
       "name": "AI & Technology",
-      "description": "How AI and new tools are reshaping coaching in India.",
+      "description": "How AI and new tools are reshaping personal training and online coaching.",
       "seo": {},
       "_status": "published",
       "id": "6a984415cf6855ff1eabad90"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.606Z",
-      "updatedAt": "2026-09-03T07:47:30.980Z",
-      "name": "Vikram Singh",
-      "slug": "vikram-singh",
-      "shortBio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
-      "bio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984414cf6855ff1eabad6d"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-05T00:00:00.000Z",
     "readTime": "6 min read",
@@ -462,7 +900,7 @@
   },
   {
     "createdAt": "2026-09-05T14:49:42.435Z",
-    "updatedAt": "2026-09-06T11:30:44.043Z",
+    "updatedAt": "2026-10-01T07:39:45.689Z",
     "title": "Software for multi-location gyms and studios: one system for every coach on the floor",
     "slug": "gym-studio-management-software",
     "excerpt": "Five coaches, three ways of tracking clients, no view of what's actually happening. Seat-based plans, per-coach dashboards and a single revenue picture — here's what Trainzilla does for a gym.",
@@ -477,15 +915,21 @@
       "id": "6a984415cf6855ff1eabad98"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.206Z",
-      "updatedAt": "2026-09-03T07:47:46.734Z",
-      "name": "Rajesh Kumar",
-      "slug": "rajesh-kumar",
-      "shortBio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
-      "bio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984414cf6855ff1eabad35"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-05T00:00:00.000Z",
     "readTime": "7 min read",
@@ -500,7 +944,7 @@
   },
   {
     "createdAt": "2026-09-05T14:49:23.587Z",
-    "updatedAt": "2026-09-21T07:28:34.638Z",
+    "updatedAt": "2026-10-01T07:39:45.698Z",
     "title": "Software for yoga and wellness coaches: light-touch tools that still hold people accountable",
     "slug": "yoga-wellness-coaching-software",
     "excerpt": "Yoga and wellness coaching isn't sets and reps. It's routines, consistency and check-ins. Most coaching software is built for lifting — here's the part of Trainzilla that fits how you actually work.",
@@ -515,15 +959,21 @@
       "id": "6a984415cf6855ff1eabada0"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.411Z",
-      "updatedAt": "2026-09-02T15:43:16.411Z",
-      "name": "Sneha Joshi",
-      "slug": "sneha-joshi",
-      "shortBio": "Digital Marketing Specialist & Fitness Industry Expert with 7 years helping trainers grow their online presence.",
-      "bio": "Digital Marketing Specialist & Fitness Industry Expert with 7 years helping trainers grow their online presence.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "id": "6a984414cf6855ff1eabad55",
-      "links": []
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-05T00:00:00.000Z",
     "readTime": "6 min read",
@@ -538,30 +988,36 @@
   },
   {
     "createdAt": "2026-09-05T14:49:04.573Z",
-    "updatedAt": "2026-09-21T07:29:00.387Z",
+    "updatedAt": "2026-10-01T07:39:45.706Z",
     "title": "Software for nutritionists and diet coaches: the parts that actually save you time",
     "slug": "nutrition-coaching-software",
     "excerpt": "Building macros by hand, rewriting meal plans off every check-in, chasing food logs across WhatsApp. Here's how Trainzilla turns each of those into something faster — and where the AI genuinely helps.",
     "category": {
       "createdAt": "2026-09-02T15:43:18.033Z",
-      "updatedAt": "2026-09-02T15:43:18.033Z",
+      "updatedAt": "2026-10-04T03:26:48.807Z",
       "slug": "nutrition",
       "name": "Nutrition",
-      "description": "Diet planning and nutrition guidance for Indian clients.",
+      "description": "Diet planning, macros and meal swaps for coaches and their clients.",
       "seo": {},
       "_status": "published",
       "id": "6a984416cf6855ff1eabada8"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.997Z",
-      "updatedAt": "2026-09-03T07:46:56.324Z",
-      "name": "Dr. Arjun Patel",
-      "slug": "arjun-patel",
-      "shortBio": "Nutritionist & Sports Dietitian with 10+ years specializing in vegetarian and plant-based nutrition for athletes.",
-      "bio": "Nutritionist & Sports Dietitian with 10+ years specializing in vegetarian and plant-based nutrition for athletes.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984414cf6855ff1eabad7e"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-05T00:00:00.000Z",
     "readTime": "6 min read",
@@ -576,7 +1032,7 @@
   },
   {
     "createdAt": "2026-09-05T14:48:42.845Z",
-    "updatedAt": "2026-09-21T07:29:28.745Z",
+    "updatedAt": "2026-10-01T07:39:45.719Z",
     "title": "Software for online fitness coaches: what changes when your business runs remote",
     "slug": "online-fitness-coaching-software",
     "excerpt": "No gym floor, no face-to-face read on a client's week. Everything you know about them comes through a screen — so the software you run it on isn't a nice-to-have, it's the practice. Here's how Trainzilla is built for that.",
@@ -591,15 +1047,21 @@
       "id": "6a984415cf6855ff1eabada0"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.804Z",
-      "updatedAt": "2026-09-03T07:47:14.646Z",
-      "name": "Kavya Reddy",
-      "slug": "kavya-reddy",
-      "shortBio": "Certified Trainer & Seasonal Training Specialist with 8 years of experience building programs that hold up in any weather.",
-      "bio": "Certified Trainer & Seasonal Training Specialist with 8 years of experience building programs that hold up in any weather.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984414cf6855ff1eabad76"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-05T00:00:00.000Z",
     "readTime": "7 min read",
@@ -614,7 +1076,7 @@
   },
   {
     "createdAt": "2026-09-05T14:19:38.494Z",
-    "updatedAt": "2026-09-21T09:02:35.740Z",
+    "updatedAt": "2026-10-01T07:39:45.730Z",
     "title": "What coaching software actually costs — and when it starts paying for itself",
     "slug": "coaching-software-cost-india",
     "excerpt": "Every new coach gets 30 days free and Coach Pro is ₹499/month — but the number that matters is what you're already paying in Sunday evenings. The honest arithmetic, including when not to upgrade.",
@@ -629,15 +1091,21 @@
       "id": "6a984415cf6855ff1eabad98"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.206Z",
-      "updatedAt": "2026-09-03T07:47:46.734Z",
-      "name": "Rajesh Kumar",
-      "slug": "rajesh-kumar",
-      "shortBio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
-      "bio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984414cf6855ff1eabad35"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-05T00:00:00.000Z",
     "readTime": "6 min read",
@@ -652,30 +1120,36 @@
   },
   {
     "createdAt": "2026-09-05T13:50:39.558Z",
-    "updatedAt": "2026-09-06T11:30:46.740Z",
+    "updatedAt": "2026-10-01T07:39:45.817Z",
     "title": "How to connect Trainzilla to Claude (step by step)",
     "slug": "connect-trainzilla-to-claude",
     "excerpt": "A short, exact walkthrough: connect your Trainzilla coach account to Claude, verify it worked, and run your first real client workflow — plus what the connector will never do.",
     "category": {
       "createdAt": "2026-09-02T15:43:17.437Z",
-      "updatedAt": "2026-09-02T15:43:17.437Z",
+      "updatedAt": "2026-10-04T03:26:49.316Z",
       "slug": "ai-technology",
       "name": "AI & Technology",
-      "description": "How AI and new tools are reshaping coaching in India.",
+      "description": "How AI and new tools are reshaping personal training and online coaching.",
       "seo": {},
       "_status": "published",
       "id": "6a984415cf6855ff1eabad90"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.606Z",
-      "updatedAt": "2026-09-03T07:47:30.980Z",
-      "name": "Vikram Singh",
-      "slug": "vikram-singh",
-      "shortBio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
-      "bio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984414cf6855ff1eabad6d"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-05T00:00:00.000Z",
     "readTime": "5 min read",
@@ -690,30 +1164,36 @@
   },
   {
     "createdAt": "2026-09-05T13:49:18.765Z",
-    "updatedAt": "2026-09-06T11:30:47.236Z",
+    "updatedAt": "2026-10-01T07:39:45.741Z",
     "title": "AI agents for coaches: what changes when the AI can actually see your clients",
     "slug": "ai-agents-mcp-coaching",
     "excerpt": "Most AI for fitness is a chatbot that has never met your clients. Here is what changes when your assistant can read your real Trainzilla account, and what we deliberately stopped it from doing.",
     "category": {
       "createdAt": "2026-09-02T15:43:17.437Z",
-      "updatedAt": "2026-09-02T15:43:17.437Z",
+      "updatedAt": "2026-10-04T03:26:49.316Z",
       "slug": "ai-technology",
       "name": "AI & Technology",
-      "description": "How AI and new tools are reshaping coaching in India.",
+      "description": "How AI and new tools are reshaping personal training and online coaching.",
       "seo": {},
       "_status": "published",
       "id": "6a984415cf6855ff1eabad90"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.606Z",
-      "updatedAt": "2026-09-03T07:47:30.980Z",
-      "name": "Vikram Singh",
-      "slug": "vikram-singh",
-      "shortBio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
-      "bio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984414cf6855ff1eabad6d"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2026-09-05T00:00:00.000Z",
     "readTime": "7 min read",
@@ -728,7 +1208,7 @@
   },
   {
     "createdAt": "2026-09-02T15:43:19.613Z",
-    "updatedAt": "2026-09-06T11:30:06.517Z",
+    "updatedAt": "2026-10-01T07:39:45.769Z",
     "title": "Digital Payments: A Complete Guide for Coaches",
     "slug": "upi-digital-payments-guide",
     "excerpt": "Everything you need to accept digital payments, stay on top of tax compliance, and use payment data to grow your coaching income.",
@@ -743,15 +1223,21 @@
       "id": "6a984415cf6855ff1eabad98"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:17.210Z",
-      "updatedAt": "2026-09-03T07:46:39.627Z",
-      "name": "Arun Malhotra",
-      "slug": "arun-malhotra",
-      "shortBio": "Financial Technology Expert & Business Consultant specializing in digital payments for small businesses.",
-      "bio": "Financial Technology Expert & Business Consultant specializing in digital payments for small businesses.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984415cf6855ff1eabad86"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2024-12-25T00:00:00.000Z",
     "updatedDate": "2024-12-25T00:00:00.000Z",
@@ -788,30 +1274,36 @@
   },
   {
     "createdAt": "2026-09-02T15:43:19.395Z",
-    "updatedAt": "2026-09-06T11:30:07.022Z",
+    "updatedAt": "2026-10-01T07:39:45.785Z",
     "title": "Nutrition Planning for Vegetarian Clients",
     "slug": "vegetarian-nutrition-planning",
     "excerpt": "Build vegetarian meal plans clients actually follow — protein combining, sample plans by goal, deficiency management, and practical food swaps.",
     "category": {
       "createdAt": "2026-09-02T15:43:18.033Z",
-      "updatedAt": "2026-09-02T15:43:18.033Z",
+      "updatedAt": "2026-10-04T03:26:48.807Z",
       "slug": "nutrition",
       "name": "Nutrition",
-      "description": "Diet planning and nutrition guidance for Indian clients.",
+      "description": "Diet planning, macros and meal swaps for coaches and their clients.",
       "seo": {},
       "_status": "published",
       "id": "6a984416cf6855ff1eabada8"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.997Z",
-      "updatedAt": "2026-09-03T07:46:56.324Z",
-      "name": "Dr. Arjun Patel",
-      "slug": "arjun-patel",
-      "shortBio": "Nutritionist & Sports Dietitian with 10+ years specializing in vegetarian and plant-based nutrition for athletes.",
-      "bio": "Nutritionist & Sports Dietitian with 10+ years specializing in vegetarian and plant-based nutrition for athletes.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984414cf6855ff1eabad7e"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2025-01-03T00:00:00.000Z",
     "updatedDate": "2025-01-03T00:00:00.000Z",
@@ -848,7 +1340,7 @@
   },
   {
     "createdAt": "2026-09-02T15:43:19.176Z",
-    "updatedAt": "2026-09-21T09:06:28.613Z",
+    "updatedAt": "2026-10-01T07:39:45.804Z",
     "title": "Keeping Clients Training Through Bad-Weather Seasons",
     "slug": "monsoon-fitness-training",
     "excerpt": "When rain, heat, or cold pushes training indoors for weeks, the right indoor programming and motivation tactics keep clients engaged and retention high.",
@@ -863,15 +1355,21 @@
       "id": "6a984415cf6855ff1eabada0"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.804Z",
-      "updatedAt": "2026-09-03T07:47:14.646Z",
-      "name": "Kavya Reddy",
-      "slug": "kavya-reddy",
-      "shortBio": "Certified Trainer & Seasonal Training Specialist with 8 years of experience building programs that hold up in any weather.",
-      "bio": "Certified Trainer & Seasonal Training Specialist with 8 years of experience building programs that hold up in any weather.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984414cf6855ff1eabad76"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2025-01-05T00:00:00.000Z",
     "updatedDate": "2025-01-05T00:00:00.000Z",
@@ -908,7 +1406,7 @@
   },
   {
     "createdAt": "2026-09-02T15:43:18.951Z",
-    "updatedAt": "2026-09-21T09:06:26.673Z",
+    "updatedAt": "2026-10-01T07:39:45.876Z",
     "title": "Managing Client Expectations Through the Holidays",
     "slug": "festival-season-client-management",
     "excerpt": "Holidays and celebrations don't have to derail client progress. A pre / during / post framework that keeps people on track without asking them to sit out.",
@@ -923,15 +1421,21 @@
       "id": "6a984415cf6855ff1eabada0"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.606Z",
-      "updatedAt": "2026-09-03T07:47:30.980Z",
-      "name": "Vikram Singh",
-      "slug": "vikram-singh",
-      "shortBio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
-      "bio": "Senior Fitness Coach with 12+ years of experience keeping clients on track through busy holiday and festival seasons.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984414cf6855ff1eabad6d"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2024-12-28T00:00:00.000Z",
     "updatedDate": "2024-12-28T00:00:00.000Z",
@@ -968,7 +1472,7 @@
   },
   {
     "createdAt": "2026-09-02T15:43:18.740Z",
-    "updatedAt": "2026-09-03T07:52:56.244Z",
+    "updatedAt": "2026-10-01T07:39:45.827Z",
     "title": "Digital Marketing for Fitness Professionals",
     "slug": "digital-marketing-fitness-professionals",
     "excerpt": "Use messaging apps, short-form video, and local search to attract more clients and build a recognisable coaching brand online.",
@@ -983,15 +1487,21 @@
       "id": "6a984415cf6855ff1eabad98"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.411Z",
-      "updatedAt": "2026-09-02T15:43:16.411Z",
-      "name": "Sneha Joshi",
-      "slug": "sneha-joshi",
-      "shortBio": "Digital Marketing Specialist & Fitness Industry Expert with 7 years helping trainers grow their online presence.",
-      "bio": "Digital Marketing Specialist & Fitness Industry Expert with 7 years helping trainers grow their online presence.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "id": "6a984414cf6855ff1eabad55",
-      "links": []
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2024-12-30T00:00:00.000Z",
     "updatedDate": "2024-12-30T00:00:00.000Z",
@@ -1023,12 +1533,12 @@
       "noindex": false
     },
     "_status": "published",
-    "id": "6a984416cf6855ff1eabadc0",
-    "funnelStage": "consideration"
+    "funnelStage": "consideration",
+    "id": "6a984416cf6855ff1eabadc0"
   },
   {
     "createdAt": "2026-09-02T15:43:18.505Z",
-    "updatedAt": "2026-09-06T11:30:08.430Z",
+    "updatedAt": "2026-10-01T07:39:45.840Z",
     "title": "Building a Sustainable Fitness Business in Smaller Cities",
     "slug": "business-growth-tier2-cities",
     "excerpt": "Rising disposable incomes, growing health awareness, and less competition make secondary cities strong markets for a coaching business. Here's how to build one.",
@@ -1043,15 +1553,21 @@
       "id": "6a984415cf6855ff1eabad98"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:16.206Z",
-      "updatedAt": "2026-09-03T07:47:46.734Z",
-      "name": "Rajesh Kumar",
-      "slug": "rajesh-kumar",
-      "shortBio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
-      "bio": "Fitness Entrepreneur & Business Coach with 15+ successful fitness ventures in smaller cities.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "links": [],
-      "id": "6a984414cf6855ff1eabad35"
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2025-01-08T00:00:00.000Z",
     "updatedDate": "2025-01-08T00:00:00.000Z",
@@ -1088,30 +1604,36 @@
   },
   {
     "createdAt": "2026-09-02T15:43:18.259Z",
-    "updatedAt": "2026-09-03T07:52:18.779Z",
+    "updatedAt": "2026-10-01T07:39:45.855Z",
     "title": "The Future of Personal Training: The AI Revolution",
     "slug": "ai-fitness-revolution",
     "excerpt": "How AI is transforming the fitness industry — from workout generation to progress prediction — and why the trainers adopting it now are pulling ahead.",
     "category": {
       "createdAt": "2026-09-02T15:43:17.437Z",
-      "updatedAt": "2026-09-02T15:43:17.437Z",
+      "updatedAt": "2026-10-04T03:26:49.316Z",
       "slug": "ai-technology",
       "name": "AI & Technology",
-      "description": "How AI and new tools are reshaping coaching in India.",
+      "description": "How AI and new tools are reshaping personal training and online coaching.",
       "seo": {},
       "_status": "published",
       "id": "6a984415cf6855ff1eabad90"
     },
     "author": {
-      "createdAt": "2026-09-02T15:43:14.963Z",
-      "updatedAt": "2026-09-02T15:43:14.964Z",
-      "name": "Dr. Priya Sharma",
-      "slug": "priya-sharma",
-      "shortBio": "AI Researcher & Fitness Technology Expert with 12 years of experience in health tech innovation.",
-      "bio": "AI Researcher & Fitness Technology Expert with 12 years of experience in health tech innovation.",
+      "createdAt": "2026-10-01T07:24:11.826Z",
+      "updatedAt": "2026-10-01T07:24:16.891Z",
+      "name": "Trainzilla Team",
+      "slug": "trainzilla-team",
+      "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+      "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+      "links": [
+        {
+          "label": "trainzilla.in",
+          "url": "https://trainzilla.in",
+          "id": "6abe0a9b459a1694cef084f3"
+        }
+      ],
       "_status": "published",
-      "id": "6a984412cf6855ff1eabacd8",
-      "links": []
+      "id": "6abe0a9b4b150f71b45bbcc1"
     },
     "publishedDate": "2025-01-10T00:00:00.000Z",
     "updatedDate": "2025-01-10T00:00:00.000Z",
@@ -1143,7 +1665,7 @@
       "noindex": false
     },
     "_status": "published",
-    "id": "6a984416cf6855ff1eabadb0",
-    "funnelStage": "consideration"
+    "funnelStage": "consideration",
+    "id": "6a984416cf6855ff1eabadb0"
   }
 ]
