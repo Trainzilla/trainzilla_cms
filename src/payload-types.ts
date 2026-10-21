@@ -79,6 +79,7 @@ export interface Config {
     legalPages: LegalPage;
     marketingItems: MarketingItem;
     pages: Page;
+    testimonials: Testimonial;
     'payload-mcp-api-keys': PayloadMcpApiKey;
     'payload-kv': PayloadKv;
     'payload-locked-documents': PayloadLockedDocument;
@@ -98,6 +99,7 @@ export interface Config {
     legalPages: LegalPagesSelect<false> | LegalPagesSelect<true>;
     marketingItems: MarketingItemsSelect<false> | MarketingItemsSelect<true>;
     pages: PagesSelect<false> | PagesSelect<true>;
+    testimonials: TestimonialsSelect<false> | TestimonialsSelect<true>;
     'payload-mcp-api-keys': PayloadMcpApiKeysSelect<false> | PayloadMcpApiKeysSelect<true>;
     'payload-kv': PayloadKvSelect<false> | PayloadKvSelect<true>;
     'payload-locked-documents': PayloadLockedDocumentsSelect<false> | PayloadLockedDocumentsSelect<true>;
@@ -700,6 +702,61 @@ export interface Page {
   _status?: ('draft' | 'published') | null;
 }
 /**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "testimonials".
+ */
+export interface Testimonial {
+  id: string;
+  /**
+   * Verbatim from the person. Trim for length only; never reword or add claims.
+   */
+  quote: string;
+  kind: 'coach' | 'studio' | 'gym';
+  authorName: string;
+  /**
+   * e.g. Founder, Head coach, Online coach
+   */
+  role?: string | null;
+  /**
+   * Studio / gym / business name
+   */
+  organization?: string | null;
+  city?: string | null;
+  country?: string | null;
+  /**
+   * Photo URL (must be the person, with permission)
+   */
+  avatar?: string | null;
+  /**
+   * Studio/gym logo URL (optional)
+   */
+  logo?: string | null;
+  /**
+   * Optional headline result the person themselves stated, e.g. "Saves ~5 hrs a week". Leave blank if none.
+   */
+  result?: string | null;
+  /**
+   * Optional link to their Trainzilla profile or website
+   */
+  profileUrl?: string | null;
+  /**
+   * Pages where this quote is shown
+   */
+  featuredOn?: ('home' | 'success-stories' | 'for-coaches' | 'gyms')[] | null;
+  order?: number | null;
+  /**
+   * They agreed to this quote, name and photo being published
+   */
+  consentConfirmed?: boolean | null;
+  /**
+   * Internal: where/when they agreed (e.g. WhatsApp, 21 Oct). Not published.
+   */
+  consentNote?: string | null;
+  updatedAt: string;
+  createdAt: string;
+  _status?: ('draft' | 'published') | null;
+}
+/**
  * API keys control which collections, resources, tools, and prompts MCP clients can access
  *
  * This interface was referenced by `Config`'s JSON-Schema
@@ -831,6 +888,20 @@ export interface PayloadMcpApiKey {
      */
     update?: boolean | null;
   };
+  testimonials?: {
+    /**
+     * Allow clients to find testimonials.
+     */
+    find?: boolean | null;
+    /**
+     * Allow clients to create testimonials.
+     */
+    create?: boolean | null;
+    /**
+     * Allow clients to update testimonials.
+     */
+    update?: boolean | null;
+  };
   pages?: {
     /**
      * Allow clients to find pages.
@@ -949,6 +1020,10 @@ export interface PayloadLockedDocument {
     | ({
         relationTo: 'pages';
         value: string | Page;
+      } | null)
+    | ({
+        relationTo: 'testimonials';
+        value: string | Testimonial;
       } | null)
     | ({
         relationTo: 'payload-mcp-api-keys';
@@ -1350,6 +1425,30 @@ export interface PagesSelect<T extends boolean = true> {
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "testimonials_select".
+ */
+export interface TestimonialsSelect<T extends boolean = true> {
+  quote?: T;
+  kind?: T;
+  authorName?: T;
+  role?: T;
+  organization?: T;
+  city?: T;
+  country?: T;
+  avatar?: T;
+  logo?: T;
+  result?: T;
+  profileUrl?: T;
+  featuredOn?: T;
+  order?: T;
+  consentConfirmed?: T;
+  consentNote?: T;
+  updatedAt?: T;
+  createdAt?: T;
+  _status?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
  * via the `definition` "payload-mcp-api-keys_select".
  */
 export interface PayloadMcpApiKeysSelect<T extends boolean = true> {
@@ -1406,6 +1505,13 @@ export interface PayloadMcpApiKeysSelect<T extends boolean = true> {
         update?: T;
       };
   marketingItems?:
+    | T
+    | {
+        find?: T;
+        create?: T;
+        update?: T;
+      };
+  testimonials?:
     | T
     | {
         find?: T;
