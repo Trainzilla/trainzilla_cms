@@ -15,6 +15,7 @@ import { Webinars } from './collections/Webinars'
 import { Faqs } from './collections/Faqs'
 import { LegalPages } from './collections/LegalPages'
 import { MarketingItems } from './collections/MarketingItems'
+import { Testimonials } from './collections/Testimonials'
 import { Pages } from './collections/Pages'
 import { SiteSettings } from './globals/SiteSettings'
 import { StructuredData } from './globals/StructuredData'
@@ -67,7 +68,7 @@ export default buildConfig({
   collections: [
     Users,
     Media,
-    ...[SeoPages, Authors, BlogCategories, Articles, Webinars, Faqs, LegalPages, MarketingItems, Pages].map(
+    ...[SeoPages, Authors, BlogCategories, Articles, Webinars, Faqs, LegalPages, MarketingItems, Pages, Testimonials].map(
       withContentHooks,
     ),
   ],
@@ -95,6 +96,7 @@ export default buildConfig({
         faqs: { description: 'FAQ Q&A entries with category and featuredOnPages targeting', enabled: editCreateFind },
         legalPages: { description: 'Long-form legal documents as rich text', enabled: editCreateFind },
         marketingItems: { description: 'Landing/showcase list items keyed by groupKey + order', enabled: editCreateFind },
+        testimonials: { description: 'Real, consented coach/studio/gym testimonials (verbatim quote, attribution, pages shown on)', enabled: editCreateFind },
         pages: { description: 'Bespoke landing pages: hero + Lexical block sections', enabled: editCreateFind },
       },
       globals: {
