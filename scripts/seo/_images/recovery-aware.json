@@ -46,20 +46,6 @@
     },
     {
       "query": "stretching exercise",
-      "title": "Yoshiki stretching, X-JAPAN in Brazil (6164292315)",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Yoshiki_stretching%2C_X-JAPAN_in_Brazil_%286164292315%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Yoshiki_stretching%2C_X-JAPAN_in_Brazil_%286164292315%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "width": 1600,
-      "height": 1064,
-      "creator": "Julio Fugimoto from São Paulo, Brasil",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "needs_attribution": true,
-      "attribution": "Photo: Julio Fugimoto from São Paulo, Brasil / Wikimedia Commons — CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Yoshiki_stretching,_X-JAPAN_in_Brazil_(6164292315).jpg"
-    },
-    {
-      "query": "stretching exercise",
       "title": "Golden Clinic Epke Zonderland (8351222192) (cropped1)",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Golden_Clinic_Epke_Zonderland_%288351222192%29_%28cropped1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Golden_Clinic_Epke_Zonderland_%288351222192%29_%28cropped1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -169,6 +155,20 @@
       "needs_attribution": true,
       "attribution": "Photo: Abooyeah / Wikimedia Commons — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
       "source_page": "https://commons.wikimedia.org/wiki/File:Beach-Stretch.jpg"
+    },
+    {
+      "query": "stretching exercise",
+      "title": "Hamstring stretching SMR personal training",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Hamstring_stretching_SMR_personal_training.jpg/1920px-Hamstring_stretching_SMR_personal_training.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Hamstring_stretching_SMR_personal_training.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1600,
+      "height": 1067,
+      "creator": "PTPioneer",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "needs_attribution": true,
+      "attribution": "Photo: PTPioneer / Wikimedia Commons — CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Hamstring_stretching_SMR_personal_training.jpg"
     }
   ]
 }
