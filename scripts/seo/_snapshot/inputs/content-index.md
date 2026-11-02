@@ -1,4 +1,4 @@
-# CMS content snapshot — 2026-10-26
+# CMS content snapshot — 2026-11-02
 
 Source: https://cms.trainzilla.in (published only). Regenerate with `node scripts/seo/fetch-cms-state.mjs scripts/seo/_snapshot`.
 
