@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "clientManagement",
+  "data": {
+    "title": "Manage Clients & Teams Across Every Location | Help",
+    "description": "Invite clients, bulk-import your roster with one CSV, add a second coach, and reassign clients across locations — one plan, log and check-in per client.",
+    "keywords": "manage clients TrainZilla, bulk import clients, add a second coach, reassign coach multi-location, client roster, multi-location fitness software"
+  },
+  "_rationale": "Old copy was multi-location-only; surfaced the 'add a second coach' step explicitly (Bulk CSV client import [PARTIAL]) since this is the page a solo trainer hits first when scaling to a team."
+}

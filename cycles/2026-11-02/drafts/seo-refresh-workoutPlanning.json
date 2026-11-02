@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "workoutPlanning",
+  "data": {
+    "title": "Workout & Habit Templates in TrainZilla | Help",
+    "description": "Build workout plans from training-split templates, reuse plan and habit templates across every client, add exercises with video, export to PDF.",
+    "keywords": "build workout plans, training split templates, workout plan templates, habit templates, exercise library, export workout PDF"
+  },
+  "_rationale": "Was workout-template-only; added the habit-template reuse angle (Master habits [GAP], Plan templates [PARTIAL]) so the help page reflects both ways a coach reuses setup across a growing roster."
+}
