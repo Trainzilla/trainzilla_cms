@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "solutions",
+  "data": {
+    "title": "Coaching Software Features to Scale Your Team | TrainZilla",
+    "description": "Every TrainZilla feature: master habit templates rolled out to your whole roster, plan builders, client management for growing teams, and an AI agent.",
+    "keywords": "personal trainer software features, habit tracking software, scale coaching business, client management software, workout plan builder, team coaching software"
+  },
+  "_rationale": "Generic feature-list copy didn't name a single GAP mechanism; led with Master habits (define once, roll out to the whole roster) and reframed the page around scaling, this week's focus area."
+}

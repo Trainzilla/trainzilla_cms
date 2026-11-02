@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "marketplace",
+  "data": {
+    "title": "Sell Plan & Habit Templates Online | TrainZilla",
+    "description": "Package workout, diet and habit templates as one-off purchases, deliver them automatically, and get discovered on a verified-coach directory.",
+    "keywords": "sell workout plans online, diet plan marketplace, habit templates, monetise fitness templates, sell training programs, verified fitness coaches"
+  },
+  "_rationale": "Old copy covered plan templates only; added habit templates (Master habits [GAP]) as a sellable asset, tying this page to the week's scale-for-solo-to-team focus without touching canonicalPath/noindex/inUse/key."
+}

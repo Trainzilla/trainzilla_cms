@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "gettingStarted",
+  "data": {
+    "title": "Getting Started with TrainZilla | Help",
+    "description": "Set up your coaching business on TrainZilla: complete your profile, bulk-import clients, define reusable habit templates, and add your first coach.",
+    "keywords": "getting started TrainZilla, set up coaching business, onboard clients, bulk import clients, habit templates, add a coach"
+  },
+  "_rationale": "Original setup checklist stopped at one coach, one plan; added bulk-import and 'add your first coach' so the onboarding page matches a trainer who's already scaling, not just starting solo."
+}
