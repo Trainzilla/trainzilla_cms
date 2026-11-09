@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "training",
+  "data": {
+    "title": "TrainZilla Training & Webinars for Coaches",
+    "description": "Live and recorded webinars on running a modern coaching business, including reading recovery data without overreacting and letting the AI Coach call a deload.",
+    "keywords": "TrainZilla training, coaching webinars, recovery-aware training webinar, overtraining signs webinar, fitness coaching education, personal trainer courses"
+  },
+  "_rationale": "Generic, keyword-thin copy unchanged since 2026-09-02. Folded in this cycle's webinar topic brief (drafts/webinar-topic.md) as a concrete, named example so the page isn't purely a category description. Feature referenced: Recovery signals feeding the AI Coach [GAP]."
+}

@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "aiFitnessRevolution",
+  "data": {
+    "title": "How AI Is Changing Personal Training | TrainZilla Blog",
+    "description": "AI agents draft workout and diet plans, then pull back when sleep and recovery data signal overtraining — every change needs the coach's approval.",
+    "keywords": "AI personal training, AI fitness coaching, agentic coaching, signs of overtraining, recovery-aware AI coach, AI workout plans"
+  },
+  "_rationale": "Old description was entirely generic ('draft and adjust client plans') with no concrete mechanism. Added the recovery-signal/deload mechanism from this cycle's feature anchor so the page's keywords aren't limited to the meal-swap cluster it previously leaned on. Feature referenced: Recovery signals feeding the AI Coach [GAP]."
+}

@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "client-app",
+  "data": {
+    "title": "Free Client App: Meal Swaps & Health Sync | TrainZilla",
+    "description": "Clients follow their plan free, swap meals with instant macro recalculation, and sync Apple Health or Health Connect to feed the coach's plan.",
+    "keywords": "free fitness app for clients, client meal swap, Apple Health sync fitness app, Health Connect fitness app, recovery tracking app, macro tracking app"
+  },
+  "_rationale": "Old copy was 100% meal-swap focused with zero mention of the Apple Health / Health Connect sync that actually lives in this app and feeds the recovery-aware AI Coach — this is the single most on-topic page for this cycle's focus area that hadn't been touched by a prior cycle. Feature referenced: Apple Health / Health Connect sync [PARTIAL]."
+}
