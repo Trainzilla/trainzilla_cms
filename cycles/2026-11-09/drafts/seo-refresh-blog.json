@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "blog",
+  "data": {
+    "title": "TrainZilla Blog | Grow Your Coaching Business",
+    "description": "Practical guides for personal trainers and online coaches: pricing, client retention, recovery-aware programming, marketing, nutrition and using AI to scale.",
+    "keywords": "fitness business blog, personal trainer tips, recovery-aware programming, signs of overtraining, online coaching advice, grow coaching business"
+  },
+  "_rationale": "Blog index copy was unchanged since 2026-09-02 and doesn't mention the recovery/overtraining cluster this cycle's new article now lives under at this path. Added it to the index page's own keyword set so the index and the article it lists aren't working from disjoint keywords."
+}

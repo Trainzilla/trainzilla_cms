@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "solutions",
+  "data": {
+    "title": "Coaching Software Features for Personal Trainers",
+    "description": "Client management, plan builders, check-ins, payments, and an AI agent that pulls plans back within guardrails when recovery signals a deload.",
+    "keywords": "personal trainer software features, AI coach recovery signals, guardrails AI training plan, client management software, workout plan builder, meal plan software"
+  },
+  "_rationale": "Previous copy mentioned only that the AI agent 'adjusts plans weekly' with no concrete trigger or safety framing. Added the recovery-signal trigger and the guardrails/bounded-change angle, which is this cycle's trust differentiator and wasn't represented in the page's keyword set at all. Feature referenced: Guardrails on AI plan changes [GAP]."
+}

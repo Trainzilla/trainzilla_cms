@@ -1,0 +1,605 @@
+{
+  "collection": "articles",
+  "op": "create",
+  "data": {
+    "title": "5 Signs a Client Needs a Deload Week — and How to Let the Data Make the Call",
+    "slug": "signs-client-needs-deload-week",
+    "excerpt": "The signs a client needs a deload week show up in sleep and resting heart-rate data days before a stalled lift does — how to read them and let recovery data flag the call.",
+    "readTime": "8 min read",
+    "publishedDate": "2026-11-09",
+    "updatedDate": "2026-11-09",
+    "tags": [
+      {
+        "tag": "recovery"
+      },
+      {
+        "tag": "overtraining"
+      },
+      {
+        "tag": "ai-coaching"
+      }
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Hamstring_stretching_SMR_personal_training.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "funnelStage": "awareness",
+    "body": {
+      "root": {
+        "type": "root",
+        "format": "",
+        "indent": 0,
+        "version": 1,
+        "direction": "ltr",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Most coaches catch overtraining the same way: a lift that used to move well suddenly feels heavy, or a client who was never a no-show misses two sessions in a row. By then the fatigue has usually been building for a week or more. The signs a client needs a deload week almost always show up earlier than that, in sleep and resting-heart-rate trends — the question is whether anything is watching for them before performance drops.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "The signs a client needs a deload week",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "No single sign means much on its own. A rough night, one heavy session, one skipped meal — any of these happen to a well-recovering client too. What matters is a cluster of signs appearing together over several days:",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "listType": "bullet",
+            "start": 1,
+            "tag": "ul",
+            "version": 1,
+            "children": [
+              {
+                "type": "listitem",
+                "version": 1,
+                "value": 1,
+                "children": [
+                  {
+                    "type": "text",
+                    "format": 0,
+                    "style": "",
+                    "mode": "normal",
+                    "detail": 0,
+                    "text": "A lift or session that should feel routine starts feeling noticeably harder, with no change in the program.",
+                    "version": 1
+                  }
+                ]
+              },
+              {
+                "type": "listitem",
+                "version": 1,
+                "value": 1,
+                "children": [
+                  {
+                    "type": "text",
+                    "format": 0,
+                    "style": "",
+                    "mode": "normal",
+                    "detail": 0,
+                    "text": "Resting heart rate trending upward over several mornings, not just one outlier day.",
+                    "version": 1
+                  }
+                ]
+              },
+              {
+                "type": "listitem",
+                "version": 1,
+                "value": 1,
+                "children": [
+                  {
+                    "type": "text",
+                    "format": 0,
+                    "style": "",
+                    "mode": "normal",
+                    "detail": 0,
+                    "text": "Sleep that has been consistently short or broken for a week, not a single bad night.",
+                    "version": 1
+                  }
+                ]
+              },
+              {
+                "type": "listitem",
+                "version": 1,
+                "value": 1,
+                "children": [
+                  {
+                    "type": "text",
+                    "format": 0,
+                    "style": "",
+                    "mode": "normal",
+                    "detail": 0,
+                    "text": "Muscle soreness that lingers well past the usual 24–48 hours.",
+                    "version": 1
+                  }
+                ]
+              },
+              {
+                "type": "listitem",
+                "version": 1,
+                "value": 1,
+                "children": [
+                  {
+                    "type": "text",
+                    "format": 0,
+                    "style": "",
+                    "mode": "normal",
+                    "detail": 0,
+                    "text": "A client who is harder to motivate than usual, or who starts cancelling sessions they would normally keep.",
+                    "version": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Any one of these is noise. Two or three showing up in the same week, on the same client, is the pattern coaches have always gone looking for by feel — just visible in the data now instead of guessed at in session three.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Functional overreaching vs. overtraining syndrome: which one is this?",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Most of what a coach sees week to week is ",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "functional overreaching",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " — short-term fatigue that a deload week resolves within a week or two, and that often leaves a client performing better once it clears. ",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Overtraining syndrome",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " is the rarer, much slower version: the signs above persist for weeks despite rest, and recovery can take months rather than days. The practical difference for programming is urgency — a suspected case of overreaching gets a deload; a client who is still showing the same signs a month after a deload, with no clear training cause, needs more than a programming change and should be pointed toward a medical check.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "When to deload, and how much to pull back",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "A deload is a reduced-load week, not a stoppage — a client keeps training, at meaningfully lower volume or intensity, usually both. Common guidance lands on cutting volume or intensity by roughly a third to half for the week, while keeping the same movements so nothing has to be re-learned afterward. On a fixed schedule, that often means every four to six weeks of progressive training; on a signal-based schedule, it means whenever the cluster of signs above shows up, whichever week that happens to be.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Why coaches usually catch this late — and what changes it",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "The gap between a fixed six-week deload schedule and a signal-based one is timing. A calendar does not know this was a bad week for this particular client; it just knows six weeks passed. Sleep and resting-heart-rate trends, on the other hand, tend to move several days before a lift stalls or a session gets skipped — which only helps if something is actually reading them. TrainZilla's client app syncs with Apple Health on iOS and Health Connect on Android, so that sleep duration and resting heart rate flow in automatically alongside a client's normal workout and diet logging, with nothing extra for the client to track.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Letting recovery signals call the deload for you",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "That sync is only a data pipe until something uses it. This is where ",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 1,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "recovery signals feeding the AI Coach",
+                "version": 1
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " change what the software does, not just what it shows. TrainZilla's AI Coach agent already rewrites each client's workout and diet plan weekly from their check-ins and logged sessions — recovery data is one more input into that same rewrite. When the cluster of signs above shows up for a client, the weekly rewrite is what pulls volume or intensity back, instead of waiting for the coach to notice a stalled lift two weeks later.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Guardrails: how far the automatic pull-back is allowed to go",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Handing this decision to software only works if a coach can trust the size of the change. TrainZilla bounds how much volume, intensity or calorie targets can shift in a single AI-driven edit — a rough week nudges the plan down; it does not rewrite the block from scratch, whatever the recovery data suggests. That boundary is what turns an automatic deload call into a safety feature rather than a risk: software that is allowed to overcorrect is worse for a client than one that reacts a little slowly.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "The rationale a coach actually sees",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "Every AI-driven change TrainZilla proposes waits for the coach's one-tap approval before it reaches the client, and it arrives with a plain-language reason attached — this client's resting heart rate has been trending up for five days alongside a sleep deficit, so intensity is stepping down for the week, for instance — rather than a plan that just shows up quieter than before. A coach managing a full roster can scan that reasoning across several clients at once and override any single call before the client ever sees it.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "tag": "h2",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "How long recovery actually takes",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "For a genuine case of functional overreaching, one proper deload week is usually enough, and many clients come back performing better than before it. Full overtraining syndrome is a different timeline — recovery is commonly measured in months, not days, which is exactly why catching the early, reversible signs matters more than diagnosing the rare, slow-to-resolve version after the fact.",
+                "version": 1
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "format": "",
+            "indent": 0,
+            "version": 1,
+            "direction": "ltr",
+            "textFormat": 0,
+            "children": [
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": "If a client is already past the point of a single deload, start with ",
+                "version": 1
+              },
+              {
+                "type": "link",
+                "version": 2,
+                "fields": {
+                  "url": "https://trainzilla.in/blog/adjust-training-plan-sleep-recovery-data",
+                  "newTab": false
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "format": 0,
+                    "style": "",
+                    "mode": "normal",
+                    "detail": 0,
+                    "text": "how to adjust a client's plan from sleep and recovery data",
+                    "version": 1
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": ", and for how the weekly rewrite works end to end, see the ",
+                "version": 1
+              },
+              {
+                "type": "link",
+                "version": 2,
+                "fields": {
+                  "url": "https://trainzilla.in/agent",
+                  "newTab": false
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "format": 0,
+                    "style": "",
+                    "mode": "normal",
+                    "detail": 0,
+                    "text": "AI Coaching Agent",
+                    "version": 1
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "format": 0,
+                "style": "",
+                "mode": "normal",
+                "detail": 0,
+                "text": " page.",
+                "version": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "_rationale": "Primary keyword 'signs a client needs a deload week' (informational intent — 'signs of...' pattern) targets the Recovery-aware programming focus area for ISO week 46. Feature anchors: 'Recovery signals feeding the AI Coach' [GAP], 'Guardrails on AI plan changes' [GAP], and \"'Why this changed' rationale on every AI edit\" [GAP] from docs/feature-inventory.md, with Apple Health/Health Connect sync [PARTIAL] as the data pipe. Distinct from the existing article 'adjust-training-plan-sleep-recovery-data' (general sleep-data-adjusts-plan how-to) and from the 2026-09-28 cycle's unapplied draft 'recovery-tracking-software-personal-trainers' (decision-stage software buyer's guide) — this piece targets the overtraining/deload-signs keyword cluster specifically and stays at awareness/informational intent. Content gap: no competitor (NASM, My PT Hub, MyFitCoach, AthleteData) combines the educational 'signs of overtraining' content with a coach-facing, bounded, roster-wide automatic response — see research/competitive.md.",
+  "_image": {
+    "source": "https://commons.wikimedia.org/wiki/File:Hamstring_stretching_SMR_personal_training.jpg",
+    "creator": "PTPioneer",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "alt": "A personal trainer guiding a client through a hamstring self-myofascial-release stretch.",
+    "attribution": "Photo: PTPioneer / Wikimedia Commons — CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)"
+  }
+}
