@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "home",
+  "data": {
+    "title": "AI Personal Trainer Software With Coach Approval",
+    "description": "Personal trainer software with an AI that adjusts each client's plan weekly, explains why, and stays within guardrails. Unlimited clients, $19/month.",
+    "keywords": "AI personal trainer software, coach-in-the-loop AI fitness, personal training software, online coaching software for personal trainers, fitness coaching app, AI workout plan generator"
+  },
+  "_rationale": "Old description said the AI 'adjusts every client's workout and diet weekly while you approve' — true but generic; it didn't carry the explainability or guardrail angle this cycle's competitive research shows no competitor states. Rewritten to add 'explains why' and 'stays within guardrails' without changing the price figures. Keywords add 'coach-in-the-loop AI fitness' from research/keywords.md. Feature anchors: Coach-in-the-loop review [GAP], 'Why this changed' rationale [GAP], Guardrails on AI plan changes [GAP]."
+}

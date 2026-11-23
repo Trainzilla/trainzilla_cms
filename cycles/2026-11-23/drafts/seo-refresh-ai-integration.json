@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "ai-integration",
+  "data": {
+    "title": "Connect Coaching Data to an AI Agent, Safely",
+    "description": "Give an AI agent secure access to clients and plans. Every write is reviewed by you, explained in plain language, and bounded by guardrails.",
+    "keywords": "AI agent for coaches, MCP fitness integration, connect coaching data to AI, AI workout automation, coach-in-the-loop AI fitness, why did my AI workout plan change"
+  },
+  "_rationale": "Old description already noted 'every write reviewed by you before it ships' but was silent on the explainability and guardrail angle that this week's research shows is the actual differentiator (no competitor pairs review + a per-change reason + a numeric bound). Added 'why did my AI workout plan change' as a supporting long-tail from research/keywords.md since this page is the technical/trust angle on the same AI Coach. Feature anchors: Coach-in-the-loop review [GAP], 'Why this changed' rationale [GAP], Guardrails on AI plan changes [GAP]."
+}
