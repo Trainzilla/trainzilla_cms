@@ -1,0 +1,19 @@
+[
+  {
+    "createdAt": "2026-10-01T07:24:11.826Z",
+    "updatedAt": "2026-10-01T07:24:16.891Z",
+    "name": "Trainzilla Team",
+    "slug": "trainzilla-team",
+    "shortBio": "The people who build Trainzilla — coaching and gym software made in India.",
+    "bio": "Written by the team that builds Trainzilla. We write about the problems coaches and gym owners bring to us, and how we solved them in the product — including what it doesn't do yet.",
+    "links": [
+      {
+        "label": "trainzilla.in",
+        "url": "https://trainzilla.in",
+        "id": "6abe0a9b459a1694cef084f3"
+      }
+    ],
+    "_status": "published",
+    "id": "6abe0a9b4b150f71b45bbcc1"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "solutions",
+  "data": {
+    "title": "Coaching Software Features, Including Coach-in-the-Loop AI",
+    "description": "Every TrainZilla feature: client management, plan builders, check-ins, payments, and an AI agent that adjusts plans weekly, reviewed and explained.",
+    "keywords": "personal trainer software features, coach-in-the-loop AI fitness, client management software for personal trainers, workout plan builder, AI coaching agent, guardrails AI workout plan changes"
+  },
+  "_rationale": "Old description listed the AI agent as one feature among many ('adjusts plans weekly') with no mention of the review/explain mechanic that distinguishes it from competitors per research/competitive.md. Title and keywords surface 'coach-in-the-loop' directly since this is the features-overview page a comparison-shopper lands on. Feature anchors: Coach-in-the-loop review [GAP], 'Why this changed' rationale [GAP]."
+}

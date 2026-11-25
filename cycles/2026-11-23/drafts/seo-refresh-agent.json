@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "agent",
+  "data": {
+    "title": "AI Coaching Agent — Coach-in-the-Loop, Not Autopilot",
+    "description": "TrainZilla's AI agent drafts each client's workout and diet plan weekly, explains why it changed, and stays within guardrails before you approve it.",
+    "keywords": "AI coaching agent, coach-in-the-loop AI fitness, AI workout plan generator, AI diet plan generator, guardrails AI workout plan changes, autonomous fitness coaching"
+  },
+  "_rationale": "Old description already said the agent 'explains every change for you to review' but didn't name the one-tap approval mechanic or the guardrail cap, which this cycle's competitive research found no competitor states either. Title and keywords now lead with the primary cluster's comparison framing ('coach-in-the-loop, not autopilot') and add 'coach-in-the-loop AI fitness' / 'guardrails AI workout plan changes' from research/keywords.md. Feature anchors: Coach-in-the-loop review [GAP], Guardrails on AI plan changes [GAP]."
+}

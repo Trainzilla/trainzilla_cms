@@ -1,0 +1,1334 @@
+[
+  {
+    "createdAt": "2026-09-02T15:43:06.819Z",
+    "updatedAt": "2026-09-02T15:43:06.819Z",
+    "slug": "senior-fitness-specialization",
+    "title": "Senior Fitness Specialization for Indian Trainers",
+    "subtitle": "Become an Expert in Training India’s Growing Senior Population",
+    "description": "Learn specialized techniques for training seniors safely and effectively, tapping into India’s fastest-growing fitness demographic.",
+    "instructor": {
+      "name": "Dr. Suresh Reddy",
+      "title": "Geriatric Exercise Physiologist & Senior Fitness Expert",
+      "bio": "Dr. Suresh Reddy has 20 years of experience in senior fitness and rehabilitation. He has trained thousands of seniors and mentored hundreds of trainers in age-appropriate exercise programming.",
+      "image": "/images/instructors/suresh-reddy.jpg",
+      "credentials": [
+        {
+          "value": "Ph.D. in Exercise Physiology",
+          "id": "6a98440acb24c569d717135d"
+        },
+        {
+          "value": "Geriatric Exercise Specialist",
+          "id": "6a98440acb24c569d717135e"
+        },
+        {
+          "value": "Rehabilitation Certified",
+          "id": "6a98440acb24c569d717135f"
+        },
+        {
+          "value": "Medical Exercise Expert",
+          "id": "6a98440acb24c569d7171360"
+        }
+      ]
+    },
+    "schedule": {
+      "date": "2026-04-22",
+      "time": "17:30",
+      "duration": "2.5 hours",
+      "timezone": "IST"
+    },
+    "topics": [
+      {
+        "value": "Aging Process & Exercise Adaptations",
+        "id": "6a98440acb24c569d7171361"
+      },
+      {
+        "value": "Common Health Conditions in Seniors",
+        "id": "6a98440acb24c569d7171362"
+      },
+      {
+        "value": "Safe Exercise Progressions",
+        "id": "6a98440acb24c569d7171363"
+      },
+      {
+        "value": "Fall Prevention Strategies",
+        "id": "6a98440acb24c569d7171364"
+      },
+      {
+        "value": "Culturally Appropriate Activities",
+        "id": "6a98440acb24c569d7171365"
+      },
+      {
+        "value": "Family Involvement & Communication",
+        "id": "6a98440acb24c569d7171366"
+      },
+      {
+        "value": "Business Model for Senior Fitness",
+        "id": "6a98440acb24c569d7171367"
+      },
+      {
+        "value": "Insurance & Safety Protocols",
+        "id": "6a98440acb24c569d7171368"
+      }
+    ],
+    "benefits": [
+      {
+        "value": "Access underserved market segment",
+        "id": "6a98440acb24c569d7171369"
+      },
+      {
+        "value": "Command premium pricing for specialization",
+        "id": "6a98440acb24c569d717136a"
+      },
+      {
+        "value": "Make meaningful impact on quality of life",
+        "id": "6a98440acb24c569d717136b"
+      },
+      {
+        "value": "Build referral network with healthcare providers",
+        "id": "6a98440acb24c569d717136c"
+      },
+      {
+        "value": "Create recession-proof business model",
+        "id": "6a98440acb24c569d717136d"
+      },
+      {
+        "value": "Establish expertise in growing field",
+        "id": "6a98440acb24c569d717136e"
+      }
+    ],
+    "targetAudience": [
+      {
+        "value": "Personal trainers seeking specialization",
+        "id": "6a98440acb24c569d717136f"
+      },
+      {
+        "value": "Healthcare professionals entering fitness",
+        "id": "6a98440acb24c569d7171370"
+      },
+      {
+        "value": "Gym owners targeting senior market",
+        "id": "6a98440acb24c569d7171371"
+      },
+      {
+        "value": "Physical therapy assistants",
+        "id": "6a98440acb24c569d7171372"
+      }
+    ],
+    "features": [
+      {
+        "value": "Case study analysis",
+        "id": "6a98440acb24c569d7171373"
+      },
+      {
+        "value": "Exercise modification demos",
+        "id": "6a98440acb24c569d7171374"
+      },
+      {
+        "value": "Medical terminology guide",
+        "id": "6a98440acb24c569d7171375"
+      },
+      {
+        "value": "Family communication scripts",
+        "id": "6a98440acb24c569d7171376"
+      },
+      {
+        "value": "Business planning session",
+        "id": "6a98440acb24c569d7171377"
+      }
+    ],
+    "prerequisites": [
+      {
+        "value": "Current fitness certification",
+        "id": "6a98440acb24c569d7171378"
+      },
+      {
+        "value": "Basic anatomy knowledge",
+        "id": "6a98440acb24c569d7171379"
+      },
+      {
+        "value": "Patience and empathy for seniors",
+        "id": "6a98440acb24c569d717137a"
+      }
+    ],
+    "materialsIncluded": [
+      {
+        "value": "Senior Exercise Library",
+        "id": "6a98440acb24c569d717137b"
+      },
+      {
+        "value": "Medical Condition Guidelines",
+        "id": "6a98440acb24c569d717137c"
+      },
+      {
+        "value": "Assessment Tools",
+        "id": "6a98440acb24c569d717137d"
+      },
+      {
+        "value": "Business Development Kit",
+        "id": "6a98440acb24c569d717137e"
+      },
+      {
+        "value": "Emergency Protocols",
+        "id": "6a98440acb24c569d717137f"
+      }
+    ],
+    "price": {
+      "amount": 3999,
+      "currency": "INR",
+      "originalPrice": 5499
+    },
+    "category": "Specialized Training",
+    "level": "Advanced",
+    "language": [
+      {
+        "value": "Hindi",
+        "id": "6a98440acb24c569d7171380"
+      },
+      {
+        "value": "English",
+        "id": "6a98440acb24c569d7171381"
+      }
+    ],
+    "maxParticipants": 60,
+    "currentRegistrations": 32,
+    "certificateProvided": true,
+    "recordingAvailable": true,
+    "tags": [
+      {
+        "value": "Senior Fitness",
+        "id": "6a98440acb24c569d7171382"
+      },
+      {
+        "value": "Specialized Training",
+        "id": "6a98440acb24c569d7171383"
+      },
+      {
+        "value": "Healthcare",
+        "id": "6a98440acb24c569d7171384"
+      },
+      {
+        "value": "Aging Population",
+        "id": "6a98440acb24c569d7171385"
+      },
+      {
+        "value": "Premium Service",
+        "id": "6a98440acb24c569d7171386"
+      }
+    ],
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6a98440a36f85a38c0b838c9"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:06.598Z",
+    "updatedAt": "2026-09-02T15:43:06.598Z",
+    "slug": "home-fitness-business",
+    "title": "Starting Your Home-Based Fitness Business",
+    "subtitle": "Launch a Profitable Fitness Business from Your Home",
+    "description": "Complete blueprint for starting and scaling a successful home-based fitness business in India with minimal investment.",
+    "instructor": {
+      "name": "Neha Gupta",
+      "title": "Home Fitness Business Expert & Entrepreneur",
+      "bio": "Neha Gupta built a ₹10 lakh annual home fitness business in just 2 years. She now mentors other trainers to replicate her success with proven systems and strategies.",
+      "image": "/images/instructors/neha-gupta.jpg",
+      "credentials": [
+        {
+          "value": "Certified Personal Trainer",
+          "id": "6a98440acb24c569d7171333"
+        },
+        {
+          "value": "Business Management Graduate",
+          "id": "6a98440acb24c569d7171334"
+        },
+        {
+          "value": "Home Fitness Specialist",
+          "id": "6a98440acb24c569d7171335"
+        },
+        {
+          "value": "Entrepreneurship Mentor",
+          "id": "6a98440acb24c569d7171336"
+        }
+      ]
+    },
+    "schedule": {
+      "date": "2026-04-15",
+      "time": "18:00",
+      "duration": "2 hours",
+      "timezone": "IST"
+    },
+    "topics": [
+      {
+        "value": "Legal Requirements & Business Setup",
+        "id": "6a98440acb24c569d7171337"
+      },
+      {
+        "value": "Space Optimization & Equipment Selection",
+        "id": "6a98440acb24c569d7171338"
+      },
+      {
+        "value": "Service Packages & Pricing Strategies",
+        "id": "6a98440acb24c569d7171339"
+      },
+      {
+        "value": "Client Acquisition for Home Business",
+        "id": "6a98440acb24c569d717133a"
+      },
+      {
+        "value": "Virtual Training Implementation",
+        "id": "6a98440acb24c569d717133b"
+      },
+      {
+        "value": "Time Management & Scheduling",
+        "id": "6a98440acb24c569d717133c"
+      },
+      {
+        "value": "Safety & Insurance Considerations",
+        "id": "6a98440acb24c569d717133d"
+      },
+      {
+        "value": "Scaling Your Home Business",
+        "id": "6a98440acb24c569d717133e"
+      }
+    ],
+    "benefits": [
+      {
+        "value": "Start business with minimal investment",
+        "id": "6a98440acb24c569d717133f"
+      },
+      {
+        "value": "Work flexible hours from home",
+        "id": "6a98440acb24c569d7171340"
+      },
+      {
+        "value": "Build recurring monthly income",
+        "id": "6a98440acb24c569d7171341"
+      },
+      {
+        "value": "Serve clients in your neighborhood",
+        "id": "6a98440acb24c569d7171342"
+      },
+      {
+        "value": "Avoid commute and rental costs",
+        "id": "6a98440acb24c569d7171343"
+      },
+      {
+        "value": "Create work-life balance",
+        "id": "6a98440acb24c569d7171344"
+      }
+    ],
+    "targetAudience": [
+      {
+        "value": "New fitness professionals",
+        "id": "6a98440acb24c569d7171345"
+      },
+      {
+        "value": "Stay-at-home parents with fitness background",
+        "id": "6a98440acb24c569d7171346"
+      },
+      {
+        "value": "Trainers looking for location independence",
+        "id": "6a98440acb24c569d7171347"
+      },
+      {
+        "value": "Side hustle seekers",
+        "id": "6a98440acb24c569d7171348"
+      }
+    ],
+    "features": [
+      {
+        "value": "Business plan template",
+        "id": "6a98440acb24c569d7171349"
+      },
+      {
+        "value": "Legal checklist review",
+        "id": "6a98440acb24c569d717134a"
+      },
+      {
+        "value": "Equipment buying guide",
+        "id": "6a98440acb24c569d717134b"
+      },
+      {
+        "value": "Pricing calculator",
+        "id": "6a98440acb24c569d717134c"
+      },
+      {
+        "value": "Marketing templates",
+        "id": "6a98440acb24c569d717134d"
+      }
+    ],
+    "prerequisites": [
+      {
+        "value": "Basic fitness certification",
+        "id": "6a98440acb24c569d717134e"
+      },
+      {
+        "value": "Dedication to start business",
+        "id": "6a98440acb24c569d717134f"
+      },
+      {
+        "value": "Available space at home",
+        "id": "6a98440acb24c569d7171350"
+      }
+    ],
+    "materialsIncluded": [
+      {
+        "value": "Business Setup Checklist",
+        "id": "6a98440acb24c569d7171351"
+      },
+      {
+        "value": "Legal Documentation Templates",
+        "id": "6a98440acb24c569d7171352"
+      },
+      {
+        "value": "Equipment Recommendations",
+        "id": "6a98440acb24c569d7171353"
+      },
+      {
+        "value": "Service Package Templates",
+        "id": "6a98440acb24c569d7171354"
+      },
+      {
+        "value": "Marketing Materials",
+        "id": "6a98440acb24c569d7171355"
+      }
+    ],
+    "price": {
+      "amount": 1799,
+      "currency": "INR",
+      "originalPrice": 2499
+    },
+    "category": "Business Setup",
+    "level": "Beginner",
+    "language": [
+      {
+        "value": "Hindi",
+        "id": "6a98440acb24c569d7171356"
+      },
+      {
+        "value": "English",
+        "id": "6a98440acb24c569d7171357"
+      }
+    ],
+    "maxParticipants": 120,
+    "currentRegistrations": 78,
+    "certificateProvided": true,
+    "recordingAvailable": true,
+    "tags": [
+      {
+        "value": "Home Business",
+        "id": "6a98440acb24c569d7171358"
+      },
+      {
+        "value": "Entrepreneurship",
+        "id": "6a98440acb24c569d7171359"
+      },
+      {
+        "value": "Low Investment",
+        "id": "6a98440acb24c569d717135a"
+      },
+      {
+        "value": "Flexible Work",
+        "id": "6a98440acb24c569d717135b"
+      },
+      {
+        "value": "Startup",
+        "id": "6a98440acb24c569d717135c"
+      }
+    ],
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6a98440a36f85a38c0b838c1"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:06.372Z",
+    "updatedAt": "2026-09-02T15:43:06.372Z",
+    "slug": "digital-marketing-fitness",
+    "title": "Digital Marketing Mastery for Indian Fitness Professionals",
+    "subtitle": "Build Your Online Presence & Attract More Clients",
+    "description": "Learn proven digital marketing strategies specifically designed for the Indian fitness market to grow your client base and increase revenue.",
+    "instructor": {
+      "name": "Arjun Singh",
+      "title": "Digital Marketing Expert & Fitness Business Consultant",
+      "bio": "Arjun Singh has helped over 300 fitness professionals in India build successful online businesses. His marketing strategies have generated over ₹50 crores in revenue for fitness professionals.",
+      "image": "/images/instructors/arjun-singh.jpg",
+      "credentials": [
+        {
+          "value": "Google Ads Certified",
+          "id": "6a98440acb24c569d7171309"
+        },
+        {
+          "value": "Facebook Marketing Expert",
+          "id": "6a98440acb24c569d717130a"
+        },
+        {
+          "value": "Content Marketing Specialist",
+          "id": "6a98440acb24c569d717130b"
+        },
+        {
+          "value": "Business Growth Consultant",
+          "id": "6a98440acb24c569d717130c"
+        }
+      ]
+    },
+    "schedule": {
+      "date": "2026-04-08",
+      "time": "20:00",
+      "duration": "2 hours",
+      "timezone": "IST"
+    },
+    "topics": [
+      {
+        "value": "Building Your Fitness Brand Online",
+        "id": "6a98440acb24c569d717130d"
+      },
+      {
+        "value": "Social Media Strategies for Indian Market",
+        "id": "6a98440acb24c569d717130e"
+      },
+      {
+        "value": "Content Creation on Zero Budget",
+        "id": "6a98440acb24c569d717130f"
+      },
+      {
+        "value": "Lead Generation & Client Funnels",
+        "id": "6a98440acb24c569d7171310"
+      },
+      {
+        "value": "WhatsApp Marketing for Fitness",
+        "id": "6a98440acb24c569d7171311"
+      },
+      {
+        "value": "Google My Business Optimization",
+        "id": "6a98440acb24c569d7171312"
+      },
+      {
+        "value": "Influencer Partnerships & Collaborations",
+        "id": "6a98440acb24c569d7171313"
+      },
+      {
+        "value": "Measuring ROI & Scaling Successfully",
+        "id": "6a98440acb24c569d7171314"
+      }
+    ],
+    "benefits": [
+      {
+        "value": "Increase client inquiries by 300%",
+        "id": "6a98440acb24c569d7171315"
+      },
+      {
+        "value": "Build engaged social media following",
+        "id": "6a98440acb24c569d7171316"
+      },
+      {
+        "value": "Create automated lead generation",
+        "id": "6a98440acb24c569d7171317"
+      },
+      {
+        "value": "Develop multiple revenue streams",
+        "id": "6a98440acb24c569d7171318"
+      },
+      {
+        "value": "Establish authority in your niche",
+        "id": "6a98440acb24c569d7171319"
+      },
+      {
+        "value": "Reduce client acquisition costs",
+        "id": "6a98440acb24c569d717131a"
+      }
+    ],
+    "targetAudience": [
+      {
+        "value": "Personal trainers wanting to grow online",
+        "id": "6a98440acb24c569d717131b"
+      },
+      {
+        "value": "Gym owners seeking digital presence",
+        "id": "6a98440acb24c569d717131c"
+      },
+      {
+        "value": "Fitness influencers looking to monetize",
+        "id": "6a98440acb24c569d717131d"
+      },
+      {
+        "value": "New trainers building client base",
+        "id": "6a98440acb24c569d717131e"
+      }
+    ],
+    "features": [
+      {
+        "value": "Live social media audit",
+        "id": "6a98440acb24c569d717131f"
+      },
+      {
+        "value": "Content calendar creation",
+        "id": "6a98440acb24c569d7171320"
+      },
+      {
+        "value": "Marketing automation setup",
+        "id": "6a98440acb24c569d7171321"
+      },
+      {
+        "value": "Case study analysis",
+        "id": "6a98440acb24c569d7171322"
+      },
+      {
+        "value": "Networking opportunities",
+        "id": "6a98440acb24c569d7171323"
+      }
+    ],
+    "prerequisites": [
+      {
+        "value": "Basic smartphone/computer skills",
+        "id": "6a98440acb24c569d7171324"
+      },
+      {
+        "value": "Active on at least one social platform",
+        "id": "6a98440acb24c569d7171325"
+      },
+      {
+        "value": "Desire to grow fitness business",
+        "id": "6a98440acb24c569d7171326"
+      }
+    ],
+    "materialsIncluded": [
+      {
+        "value": "Digital Marketing Toolkit",
+        "id": "6a98440acb24c569d7171327"
+      },
+      {
+        "value": "Content Calendar Templates",
+        "id": "6a98440acb24c569d7171328"
+      },
+      {
+        "value": "Lead Magnet Examples",
+        "id": "6a98440acb24c569d7171329"
+      },
+      {
+        "value": "Social Media Post Templates",
+        "id": "6a98440acb24c569d717132a"
+      },
+      {
+        "value": "ROI Tracking Spreadsheets",
+        "id": "6a98440acb24c569d717132b"
+      }
+    ],
+    "price": {
+      "amount": 2499,
+      "currency": "INR",
+      "originalPrice": 3999
+    },
+    "category": "Business & Marketing",
+    "level": "Beginner",
+    "language": [
+      {
+        "value": "Hindi",
+        "id": "6a98440acb24c569d717132c"
+      },
+      {
+        "value": "English",
+        "id": "6a98440acb24c569d717132d"
+      }
+    ],
+    "maxParticipants": 200,
+    "currentRegistrations": 156,
+    "certificateProvided": true,
+    "recordingAvailable": true,
+    "tags": [
+      {
+        "value": "Digital Marketing",
+        "id": "6a98440acb24c569d717132e"
+      },
+      {
+        "value": "Social Media",
+        "id": "6a98440acb24c569d717132f"
+      },
+      {
+        "value": "Business Growth",
+        "id": "6a98440acb24c569d7171330"
+      },
+      {
+        "value": "Online Presence",
+        "id": "6a98440acb24c569d7171331"
+      },
+      {
+        "value": "Client Acquisition",
+        "id": "6a98440acb24c569d7171332"
+      }
+    ],
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6a98440a36f85a38c0b838b9"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:06.130Z",
+    "updatedAt": "2026-09-02T15:43:06.130Z",
+    "slug": "vegetarian-sports-nutrition",
+    "title": "Vegetarian Sports Nutrition for Indian Athletes",
+    "subtitle": "Complete Plant-Based Nutrition Guide for Performance & Recovery",
+    "description": "Master the art of plant-based nutrition planning for Indian vegetarian athletes and fitness enthusiasts.",
+    "instructor": {
+      "name": "Dr. Meera Patel",
+      "title": "Sports Nutritionist & Plant-Based Performance Expert",
+      "bio": "Dr. Meera Patel has revolutionized vegetarian sports nutrition in India, working with Olympic athletes and professional sports teams. Her plant-based protocols have helped athletes achieve peak performance.",
+      "image": "/images/instructors/meera-patel.jpg",
+      "credentials": [
+        {
+          "value": "Ph.D. in Sports Nutrition",
+          "id": "6a98440acb24c569d71712df"
+        },
+        {
+          "value": "IOA Certified Sports Nutritionist",
+          "id": "6a98440acb24c569d71712e0"
+        },
+        {
+          "value": "Plant-Based Nutrition Certificate",
+          "id": "6a98440acb24c569d71712e1"
+        },
+        {
+          "value": "Published Researcher",
+          "id": "6a98440acb24c569d71712e2"
+        }
+      ]
+    },
+    "schedule": {
+      "date": "2026-04-01",
+      "time": "19:30",
+      "duration": "2.5 hours",
+      "timezone": "IST"
+    },
+    "topics": [
+      {
+        "value": "Vegetarian Protein Sources & Combinations",
+        "id": "6a98440acb24c569d71712e3"
+      },
+      {
+        "value": "Micronutrient Optimization for Athletes",
+        "id": "6a98440acb24c569d71712e4"
+      },
+      {
+        "value": "Traditional Indian Foods for Performance",
+        "id": "6a98440acb24c569d71712e5"
+      },
+      {
+        "value": "Pre & Post Workout Nutrition",
+        "id": "6a98440acb24c569d71712e6"
+      },
+      {
+        "value": "Supplement Strategies for Vegetarians",
+        "id": "6a98440acb24c569d71712e7"
+      },
+      {
+        "value": "Meal Timing for Different Sports",
+        "id": "6a98440acb24c569d71712e8"
+      },
+      {
+        "value": "Common Deficiencies & Solutions",
+        "id": "6a98440acb24c569d71712e9"
+      },
+      {
+        "value": "Practical Meal Planning & Prep",
+        "id": "6a98440acb24c569d71712ea"
+      }
+    ],
+    "benefits": [
+      {
+        "value": "Increase client performance by 25%",
+        "id": "6a98440acb24c569d71712eb"
+      },
+      {
+        "value": "Eliminate nutritional deficiencies",
+        "id": "6a98440acb24c569d71712ec"
+      },
+      {
+        "value": "Create culturally appropriate meal plans",
+        "id": "6a98440acb24c569d71712ed"
+      },
+      {
+        "value": "Build expertise in growing niche market",
+        "id": "6a98440acb24c569d71712ee"
+      },
+      {
+        "value": "Charge premium for specialized knowledge",
+        "id": "6a98440acb24c569d71712ef"
+      },
+      {
+        "value": "Help clients achieve body composition goals",
+        "id": "6a98440acb24c569d71712f0"
+      }
+    ],
+    "targetAudience": [
+      {
+        "value": "Personal trainers working with vegetarian clients",
+        "id": "6a98440acb24c569d71712f1"
+      },
+      {
+        "value": "Nutritionists seeking sports specialization",
+        "id": "6a98440acb24c569d71712f2"
+      },
+      {
+        "value": "Fitness coaches in vegetarian-majority regions",
+        "id": "6a98440acb24c569d71712f3"
+      },
+      {
+        "value": "Athletes looking to optimize plant-based nutrition",
+        "id": "6a98440acb24c569d71712f4"
+      }
+    ],
+    "features": [
+      {
+        "value": "Live meal planning demonstration",
+        "id": "6a98440acb24c569d71712f5"
+      },
+      {
+        "value": "Supplement protocol creation",
+        "id": "6a98440acb24c569d71712f6"
+      },
+      {
+        "value": "Traditional recipe modifications",
+        "id": "6a98440acb24c569d71712f7"
+      },
+      {
+        "value": "Performance tracking methods",
+        "id": "6a98440acb24c569d71712f8"
+      },
+      {
+        "value": "Expert Q&A session",
+        "id": "6a98440acb24c569d71712f9"
+      }
+    ],
+    "prerequisites": [
+      {
+        "value": "Basic nutrition knowledge",
+        "id": "6a98440acb24c569d71712fa"
+      },
+      {
+        "value": "Understanding of vegetarian diets",
+        "id": "6a98440acb24c569d71712fb"
+      },
+      {
+        "value": "Client training experience",
+        "id": "6a98440acb24c569d71712fc"
+      }
+    ],
+    "materialsIncluded": [
+      {
+        "value": "Vegetarian Athlete Meal Plans",
+        "id": "6a98440acb24c569d71712fd"
+      },
+      {
+        "value": "Protein Combination Guide",
+        "id": "6a98440acb24c569d71712fe"
+      },
+      {
+        "value": "Supplement Protocol Templates",
+        "id": "6a98440acb24c569d71712ff"
+      },
+      {
+        "value": "Traditional Recipe Database",
+        "id": "6a98440acb24c569d7171300"
+      },
+      {
+        "value": "Performance Tracking Sheets",
+        "id": "6a98440acb24c569d7171301"
+      }
+    ],
+    "price": {
+      "amount": 3499,
+      "currency": "INR",
+      "originalPrice": 4999
+    },
+    "category": "Nutrition & Diet",
+    "level": "Advanced",
+    "language": [
+      {
+        "value": "Hindi",
+        "id": "6a98440acb24c569d7171302"
+      },
+      {
+        "value": "English",
+        "id": "6a98440acb24c569d7171303"
+      }
+    ],
+    "maxParticipants": 75,
+    "currentRegistrations": 45,
+    "certificateProvided": true,
+    "recordingAvailable": true,
+    "tags": [
+      {
+        "value": "Vegetarian",
+        "id": "6a98440acb24c569d7171304"
+      },
+      {
+        "value": "Sports Nutrition",
+        "id": "6a98440acb24c569d7171305"
+      },
+      {
+        "value": "Performance",
+        "id": "6a98440acb24c569d7171306"
+      },
+      {
+        "value": "Plant-Based",
+        "id": "6a98440acb24c569d7171307"
+      },
+      {
+        "value": "Indian Diet",
+        "id": "6a98440acb24c569d7171308"
+      }
+    ],
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6a98440a36f85a38c0b838b1"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:05.907Z",
+    "updatedAt": "2026-09-02T15:43:05.907Z",
+    "slug": "monsoon-fitness-strategies",
+    "title": "Monsoon Fitness Strategies for Indian Clients",
+    "subtitle": "Keep Your Clients Active and Motivated During Rainy Season",
+    "description": "Discover proven strategies to maintain client engagement, motivation, and results during India’s challenging monsoon months.",
+    "instructor": {
+      "name": "Rajesh Kumar",
+      "title": "Elite Fitness Coach & Monsoon Training Specialist",
+      "bio": "Rajesh Kumar has been training clients through 15 monsoon seasons in Mumbai. His innovative indoor training methods have helped hundreds of clients maintain their fitness goals despite weather challenges.",
+      "image": "/images/instructors/rajesh-kumar.jpg",
+      "credentials": [
+        {
+          "value": "NASM Master Trainer",
+          "id": "6a984409cb24c569d71712b6"
+        },
+        {
+          "value": "Functional Movement Specialist",
+          "id": "6a984409cb24c569d71712b7"
+        },
+        {
+          "value": "Mental Health First Aid Certified",
+          "id": "6a984409cb24c569d71712b8"
+        },
+        {
+          "value": "15+ Years Experience",
+          "id": "6a984409cb24c569d71712b9"
+        }
+      ]
+    },
+    "schedule": {
+      "date": "2026-03-22",
+      "time": "18:30",
+      "duration": "90 minutes",
+      "timezone": "IST"
+    },
+    "topics": [
+      {
+        "value": "Understanding Monsoon Psychology & Motivation",
+        "id": "6a984409cb24c569d71712ba"
+      },
+      {
+        "value": "Indoor Workout Adaptations",
+        "id": "6a984409cb24c569d71712bb"
+      },
+      {
+        "value": "Humidity Management Techniques",
+        "id": "6a984409cb24c569d71712bc"
+      },
+      {
+        "value": "Monsoon Nutrition Guidelines",
+        "id": "6a984409cb24c569d71712bd"
+      },
+      {
+        "value": "Client Communication Strategies",
+        "id": "6a984409cb24c569d71712be"
+      },
+      {
+        "value": "Equipment-Free Training Methods",
+        "id": "6a984409cb24c569d71712bf"
+      },
+      {
+        "value": "Mental Health Support During Monsoons",
+        "id": "6a984409cb24c569d71712c0"
+      },
+      {
+        "value": "Turning Challenges into Opportunities",
+        "id": "6a984409cb24c569d71712c1"
+      }
+    ],
+    "benefits": [
+      {
+        "value": "Maintain 90% client retention during monsoons",
+        "id": "6a984409cb24c569d71712c2"
+      },
+      {
+        "value": "Increase indoor session bookings",
+        "id": "6a984409cb24c569d71712c3"
+      },
+      {
+        "value": "Develop weather-independent business model",
+        "id": "6a984409cb24c569d71712c4"
+      },
+      {
+        "value": "Create monsoon-specific service packages",
+        "id": "6a984409cb24c569d71712c5"
+      },
+      {
+        "value": "Improve client satisfaction scores",
+        "id": "6a984409cb24c569d71712c6"
+      },
+      {
+        "value": "Build reputation as year-round specialist",
+        "id": "6a984409cb24c569d71712c7"
+      }
+    ],
+    "targetAudience": [
+      {
+        "value": "Personal trainers in monsoon-affected regions",
+        "id": "6a984409cb24c569d71712c8"
+      },
+      {
+        "value": "Gym owners preparing for seasonal challenges",
+        "id": "6a984409cb24c569d71712c9"
+      },
+      {
+        "value": "Outdoor fitness instructors needing alternatives",
+        "id": "6a984409cb24c569d71712ca"
+      },
+      {
+        "value": "Corporate wellness coordinators",
+        "id": "6a984409cb24c569d71712cb"
+      }
+    ],
+    "features": [
+      {
+        "value": "Live demonstration of indoor workouts",
+        "id": "6a984409cb24c569d71712cc"
+      },
+      {
+        "value": "Monsoon meal planning session",
+        "id": "6a984409cb24c569d71712cd"
+      },
+      {
+        "value": "Client motivation scripts",
+        "id": "6a984409cb24c569d71712ce"
+      },
+      {
+        "value": "Weather tracking tools",
+        "id": "6a984409cb24c569d71712cf"
+      },
+      {
+        "value": "Community support group access",
+        "id": "6a984409cb24c569d71712d0"
+      }
+    ],
+    "prerequisites": [
+      {
+        "value": "Basic fitness training knowledge",
+        "id": "6a984409cb24c569d71712d1"
+      },
+      {
+        "value": "Experience with Indian weather patterns",
+        "id": "6a984409cb24c569d71712d2"
+      }
+    ],
+    "materialsIncluded": [
+      {
+        "value": "Monsoon Workout Library",
+        "id": "6a984409cb24c569d71712d3"
+      },
+      {
+        "value": "Client Communication Templates",
+        "id": "6a984409cb24c569d71712d4"
+      },
+      {
+        "value": "Nutrition Guide for Humid Weather",
+        "id": "6a984409cb24c569d71712d5"
+      },
+      {
+        "value": "Motivation Toolkit",
+        "id": "6a984409cb24c569d71712d6"
+      },
+      {
+        "value": "Business Continuity Plan",
+        "id": "6a984409cb24c569d71712d7"
+      }
+    ],
+    "price": {
+      "amount": 1999,
+      "currency": "INR",
+      "originalPrice": 2999
+    },
+    "category": "Seasonal Training",
+    "level": "Beginner",
+    "language": [
+      {
+        "value": "Hindi",
+        "id": "6a984409cb24c569d71712d8"
+      },
+      {
+        "value": "English",
+        "id": "6a984409cb24c569d71712d9"
+      }
+    ],
+    "maxParticipants": 150,
+    "currentRegistrations": 89,
+    "certificateProvided": true,
+    "recordingAvailable": true,
+    "tags": [
+      {
+        "value": "Monsoon",
+        "id": "6a984409cb24c569d71712da"
+      },
+      {
+        "value": "Indoor Training",
+        "id": "6a984409cb24c569d71712db"
+      },
+      {
+        "value": "Client Retention",
+        "id": "6a984409cb24c569d71712dc"
+      },
+      {
+        "value": "Seasonal",
+        "id": "6a984409cb24c569d71712dd"
+      },
+      {
+        "value": "Weather",
+        "id": "6a984409cb24c569d71712de"
+      }
+    ],
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6a98440936f85a38c0b838a9"
+  },
+  {
+    "createdAt": "2026-09-02T15:43:05.663Z",
+    "updatedAt": "2026-09-02T15:43:05.664Z",
+    "slug": "ai-fitness-coaching",
+    "title": "AI-Powered Fitness Coaching for Indian Trainers",
+    "subtitle": "Master the Future of Personal Training with Artificial Intelligence",
+    "description": "Learn how to leverage AI tools to create personalized workout plans, nutrition guides, and business strategies specifically for the Indian fitness market.",
+    "instructor": {
+      "name": "Dr. Priya Sharma",
+      "title": "AI Fitness Technology Expert & Certified Nutritionist",
+      "bio": "Dr. Priya Sharma is a leading expert in fitness technology with over 12 years of experience in the Indian wellness industry. She has helped over 500 trainers integrate technology into their practice.",
+      "image": "/images/instructors/priya-sharma.jpg",
+      "credentials": [
+        {
+          "value": "Ph.D. in Sports Science",
+          "id": "6a984409cb24c569d717128b"
+        },
+        {
+          "value": "ACSM Certified",
+          "id": "6a984409cb24c569d717128c"
+        },
+        {
+          "value": "Google AI Certified",
+          "id": "6a984409cb24c569d717128d"
+        },
+        {
+          "value": "Nutrition & Dietetics Expert",
+          "id": "6a984409cb24c569d717128e"
+        }
+      ]
+    },
+    "schedule": {
+      "date": "2026-03-15",
+      "time": "19:00",
+      "duration": "2 hours",
+      "timezone": "IST"
+    },
+    "topics": [
+      {
+        "value": "Introduction to AI in Fitness Industry",
+        "id": "6a984409cb24c569d717128f"
+      },
+      {
+        "value": "AI Workout Plan Generation for Indian Bodies",
+        "id": "6a984409cb24c569d7171290"
+      },
+      {
+        "value": "Smart Nutrition Planning for Vegetarian Clients",
+        "id": "6a984409cb24c569d7171291"
+      },
+      {
+        "value": "Automated Progress Tracking Systems",
+        "id": "6a984409cb24c569d7171292"
+      },
+      {
+        "value": "AI-Powered Business Analytics",
+        "id": "6a984409cb24c569d7171293"
+      },
+      {
+        "value": "Cost-Effective AI Tools for Small Businesses",
+        "id": "6a984409cb24c569d7171294"
+      },
+      {
+        "value": "Maintaining Personal Connection with Technology",
+        "id": "6a984409cb24c569d7171295"
+      },
+      {
+        "value": "Case Studies from Successful Indian Trainers",
+        "id": "6a984409cb24c569d7171296"
+      }
+    ],
+    "benefits": [
+      {
+        "value": "Create personalized workout plans 10x faster",
+        "id": "6a984409cb24c569d7171297"
+      },
+      {
+        "value": "Increase client retention by 40%",
+        "id": "6a984409cb24c569d7171298"
+      },
+      {
+        "value": "Reduce planning time from hours to minutes",
+        "id": "6a984409cb24c569d7171299"
+      },
+      {
+        "value": "Scale your business to serve more clients",
+        "id": "6a984409cb24c569d717129a"
+      },
+      {
+        "value": "Provide data-driven results to clients",
+        "id": "6a984409cb24c569d717129b"
+      },
+      {
+        "value": "Stay ahead of competition with cutting-edge tools",
+        "id": "6a984409cb24c569d717129c"
+      }
+    ],
+    "targetAudience": [
+      {
+        "value": "Personal trainers looking to scale their business",
+        "id": "6a984409cb24c569d717129d"
+      },
+      {
+        "value": "Gym owners wanting to modernize their services",
+        "id": "6a984409cb24c569d717129e"
+      },
+      {
+        "value": "Fitness entrepreneurs seeking competitive advantage",
+        "id": "6a984409cb24c569d717129f"
+      },
+      {
+        "value": "Nutrition coaches serving Indian clientele",
+        "id": "6a984409cb24c569d71712a0"
+      }
+    ],
+    "features": [
+      {
+        "value": "Live interactive session",
+        "id": "6a984409cb24c569d71712a1"
+      },
+      {
+        "value": "AI tools demonstration",
+        "id": "6a984409cb24c569d71712a2"
+      },
+      {
+        "value": "Q&A with expert",
+        "id": "6a984409cb24c569d71712a3"
+      },
+      {
+        "value": "Practical exercises",
+        "id": "6a984409cb24c569d71712a4"
+      },
+      {
+        "value": "Resource downloads",
+        "id": "6a984409cb24c569d71712a5"
+      },
+      {
+        "value": "Follow-up support",
+        "id": "6a984409cb24c569d71712a6"
+      }
+    ],
+    "prerequisites": [
+      {
+        "value": "Basic computer skills",
+        "id": "6a984409cb24c569d71712a7"
+      },
+      {
+        "value": "Active fitness practice",
+        "id": "6a984409cb24c569d71712a8"
+      },
+      {
+        "value": "Willingness to learn new technology",
+        "id": "6a984409cb24c569d71712a9"
+      }
+    ],
+    "materialsIncluded": [
+      {
+        "value": "AI Tools Checklist",
+        "id": "6a984409cb24c569d71712aa"
+      },
+      {
+        "value": "Workout Template Library",
+        "id": "6a984409cb24c569d71712ab"
+      },
+      {
+        "value": "Nutrition Planning Guide",
+        "id": "6a984409cb24c569d71712ac"
+      },
+      {
+        "value": "Business Automation Roadmap",
+        "id": "6a984409cb24c569d71712ad"
+      },
+      {
+        "value": "Video Tutorials",
+        "id": "6a984409cb24c569d71712ae"
+      }
+    ],
+    "price": {
+      "amount": 2999,
+      "currency": "INR",
+      "originalPrice": 4999
+    },
+    "category": "Technology & Innovation",
+    "level": "Intermediate",
+    "language": [
+      {
+        "value": "Hindi",
+        "id": "6a984409cb24c569d71712af"
+      },
+      {
+        "value": "English",
+        "id": "6a984409cb24c569d71712b0"
+      }
+    ],
+    "maxParticipants": 100,
+    "currentRegistrations": 67,
+    "certificateProvided": true,
+    "recordingAvailable": true,
+    "tags": [
+      {
+        "value": "AI",
+        "id": "6a984409cb24c569d71712b1"
+      },
+      {
+        "value": "Technology",
+        "id": "6a984409cb24c569d71712b2"
+      },
+      {
+        "value": "Business Growth",
+        "id": "6a984409cb24c569d71712b3"
+      },
+      {
+        "value": "Automation",
+        "id": "6a984409cb24c569d71712b4"
+      },
+      {
+        "value": "Trending",
+        "id": "6a984409cb24c569d71712b5"
+      }
+    ],
+    "seo": {
+      "noindex": false
+    },
+    "_status": "published",
+    "id": "6a98440936f85a38c0b838a1"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "collection": "seoPages",
+  "op": "update",
+  "key": "aiFitnessRevolution",
+  "data": {
+    "title": "Can AI Replace a Personal Trainer? | TrainZilla",
+    "description": "AI agents now draft and adjust client plans weekly, but the coach still approves every change and sees why. What agentic coaching means for trainers.",
+    "keywords": "can AI replace a personal trainer, AI fitness coaching, future of personal training, agentic coaching, coach-in-the-loop AI fitness, AI workout plans"
+  },
+  "_rationale": "This blog-landing page's old title/description were generic ('how AI is changing personal training') without picking up the 'can AI replace a personal trainer' question that consumer press (NBC, Women's Fitness, AOL) is actually generating coverage around, per this cycle's research. Rewritten to target that question directly while keeping the existing agentic-coaching framing. Feature anchor: Coach-in-the-loop review [GAP]."
+}
